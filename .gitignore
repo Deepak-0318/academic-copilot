@@ -48,3 +48,13 @@ uploads/
 
 # Generated files
 generated/
+
+# Python
+ai-service/.venv/
+ai-service/__pycache__/
+ai-service/**/*.pyc
+
+# Environment
+.env
+.env.*
+!.env.example
