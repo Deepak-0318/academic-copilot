@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+
+# Build
+dist/
+build/
+.next/
+
+# Vite
+.vite/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Testing
+coverage/
+.pytest_cache/
+
+# Prisma
+*.db
+*.db-journal
+
+# Temporary files
+tmp/
+temp/
+
+# Uploads
+uploads/
+
+# Generated files
+generated/
