@@ -3,8 +3,11 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 
 class Settings(BaseSettings):
     ai_service_port: int = 8000
+
     groq_api_key: str = ""
     groq_model: str = "llama-3.3-70b-versatile"
+
+    database_url: str = ""
 
     model_config = SettingsConfigDict(
         env_file=".env",

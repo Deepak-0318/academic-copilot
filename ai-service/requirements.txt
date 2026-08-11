@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+groq
+langgraph
+sqlalchemy
+psycopg[binary]
+pgvector
+docling
+sentence-transformers
