@@ -1,0 +1,1454 @@
+{
+  "benchmark": {
+    "question_count": 30,
+    "top_k": 5
+  },
+  "metrics": {
+    "recall_at_1": 0.5,
+    "recall_at_3": 0.8666666666666667,
+    "recall_at_5": 0.9,
+    "mrr": 0.6733333333333333
+  },
+  "questions": [
+    {
+      "id": "Q001",
+      "question": "What is the course code of Data Structures using C?",
+      "expected_sections": [
+        "course_metadata"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "course_objectives",
+          "similarity": 0.8165082688180161,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lab_programs",
+          "similarity": 0.7977711203371143,
+          "chunk_id": "c4cc19bf-76bf-43b7-a676-010b182c8ff3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "course_metadata",
+          "similarity": 0.7782772911621768,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "lab_programs",
+          "similarity": 0.7203056716372375,
+          "chunk_id": "6aad3ddc-73e3-4900-966d-d5885baff3b2",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "lesson_plan",
+          "similarity": 0.7193445730600029,
+          "chunk_id": "2c2eb048-3be6-43c4-b0f2-c39e9e159190",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.3333333333333333
+    },
+    {
+      "id": "Q002",
+      "question": "What is the semester for Data Structures using C?",
+      "expected_sections": [
+        "course_metadata"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "course_objectives",
+          "similarity": 0.820982123046581,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lab_programs",
+          "similarity": 0.7981954337242001,
+          "chunk_id": "c4cc19bf-76bf-43b7-a676-010b182c8ff3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "course_metadata",
+          "similarity": 0.7799894213676453,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "references",
+          "similarity": 0.7096438754029473,
+          "chunk_id": "6eceb220-d1f8-4402-bc0a-3c2e38a22a5a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "lab_programs",
+          "similarity": 0.7094772804406597,
+          "chunk_id": "6aad3ddc-73e3-4900-966d-d5885baff3b2",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.3333333333333333
+    },
+    {
+      "id": "Q003",
+      "question": "How many total teaching hours does the course have?",
+      "expected_sections": [
+        "course_metadata"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lab_programs",
+          "similarity": 0.696200567710367,
+          "chunk_id": "c4cc19bf-76bf-43b7-a676-010b182c8ff3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "syllabus",
+          "similarity": 0.67035973072052,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "assessment",
+          "similarity": 0.6231278777122498,
+          "chunk_id": "fa1a50e5-f6e2-45a3-bc02-f04f8ba21697",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "co_po_mapping",
+          "similarity": 0.6223217248916626,
+          "chunk_id": "47aa3714-098a-4637-a2ca-b67ab4c760f8",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "course_metadata",
+          "similarity": 0.6000028252601624,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 0.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.2
+    },
+    {
+      "id": "Q004",
+      "question": "What are the objectives of Data Structures using C?",
+      "expected_sections": [
+        "course_objectives"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "course_objectives",
+          "similarity": 0.8519804731601621,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lesson_plan",
+          "similarity": 0.7318234443664551,
+          "chunk_id": "2c2eb048-3be6-43c4-b0f2-c39e9e159190",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "lab_programs",
+          "similarity": 0.7275403304374034,
+          "chunk_id": "c4cc19bf-76bf-43b7-a676-010b182c8ff3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "lab_programs",
+          "similarity": 0.7216750715166297,
+          "chunk_id": "6aad3ddc-73e3-4900-966d-d5885baff3b2",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "course_metadata",
+          "similarity": 0.7025266885757446,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "Q005",
+      "question": "What programming concepts should students understand according to the course objectives?",
+      "expected_sections": [
+        "course_objectives"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "course_objectives",
+          "similarity": 0.7700115671757334,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lesson_plan",
+          "similarity": 0.7021069881788556,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "lab_programs",
+          "similarity": 0.6984234632001256,
+          "chunk_id": "c4cc19bf-76bf-43b7-a676-010b182c8ff3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "co_po_mapping",
+          "similarity": 0.6776095628738403,
+          "chunk_id": "47aa3714-098a-4637-a2ca-b67ab4c760f8",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "course_metadata",
+          "similarity": 0.6672024726867676,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "Q006",
+      "question": "What linear data structures are covered in the course objectives?",
+      "expected_sections": [
+        "course_objectives"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "course_objectives",
+          "similarity": 0.8765828421786964,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lab_programs",
+          "similarity": 0.7857026244933695,
+          "chunk_id": "c4cc19bf-76bf-43b7-a676-010b182c8ff3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "course_metadata",
+          "similarity": 0.7591429043837954,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "co_po_mapping",
+          "similarity": 0.751503199159723,
+          "chunk_id": "47aa3714-098a-4637-a2ca-b67ab4c760f8",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "references",
+          "similarity": 0.7324789804270314,
+          "chunk_id": "6eceb220-d1f8-4402-bc0a-3c2e38a22a5a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "Q007",
+      "question": "What topics are covered in Module 1?",
+      "expected_sections": [
+        "syllabus"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lesson_plan",
+          "similarity": 0.6738328726490935,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "syllabus",
+          "similarity": 0.6571656465530396,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "co_po_mapping",
+          "similarity": 0.6196026063439167,
+          "chunk_id": "ad8469f1-d7ab-4618-83e3-2f74d911decd",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "syllabus",
+          "similarity": 0.6051063537597656,
+          "chunk_id": "79719d56-a502-405a-a3aa-5dbe97ac0c60",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "references",
+          "similarity": 0.579061677567763,
+          "chunk_id": "6eceb220-d1f8-4402-bc0a-3c2e38a22a5a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "id": "Q008",
+      "question": "What topics are covered in Module 2?",
+      "expected_sections": [
+        "syllabus"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lesson_plan",
+          "similarity": 0.6528683925506378,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "syllabus",
+          "similarity": 0.6300950866880972,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "syllabus",
+          "similarity": 0.6086848611423467,
+          "chunk_id": "79719d56-a502-405a-a3aa-5dbe97ac0c60",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "co_po_mapping",
+          "similarity": 0.6046002618193169,
+          "chunk_id": "ad8469f1-d7ab-4618-83e3-2f74d911decd",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "assessment",
+          "similarity": 0.5774283660990984,
+          "chunk_id": "fa1a50e5-f6e2-45a3-bc02-f04f8ba21697",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "id": "Q009",
+      "question": "What topics are covered in Module 3?",
+      "expected_sections": [
+        "syllabus"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "syllabus",
+          "similarity": 0.6890019178390503,
+          "chunk_id": "79719d56-a502-405a-a3aa-5dbe97ac0c60",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lesson_plan",
+          "similarity": 0.650520127949704,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "syllabus",
+          "similarity": 0.645285964012146,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "co_po_mapping",
+          "similarity": 0.5892690909780197,
+          "chunk_id": "ad8469f1-d7ab-4618-83e3-2f74d911decd",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "assessment",
+          "similarity": 0.5821466445922852,
+          "chunk_id": "fa1a50e5-f6e2-45a3-bc02-f04f8ba21697",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "Q010",
+      "question": "What topics are covered in Module 4?",
+      "expected_sections": [
+        "syllabus"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lesson_plan",
+          "similarity": 0.659970979694016,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "syllabus",
+          "similarity": 0.6226750612258911,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "syllabus",
+          "similarity": 0.6181274056434631,
+          "chunk_id": "79719d56-a502-405a-a3aa-5dbe97ac0c60",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "co_po_mapping",
+          "similarity": 0.5871071711650925,
+          "chunk_id": "ad8469f1-d7ab-4618-83e3-2f74d911decd",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "assessment",
+          "similarity": 0.5780425667762756,
+          "chunk_id": "fa1a50e5-f6e2-45a3-bc02-f04f8ba21697",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "id": "Q011",
+      "question": "What topics are covered in Module 5?",
+      "expected_sections": [
+        "syllabus"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lesson_plan",
+          "similarity": 0.6553859340224424,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "syllabus",
+          "similarity": 0.6355320649704901,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "syllabus",
+          "similarity": 0.6189910627614229,
+          "chunk_id": "79719d56-a502-405a-a3aa-5dbe97ac0c60",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "co_po_mapping",
+          "similarity": 0.583096901632094,
+          "chunk_id": "ad8469f1-d7ab-4618-83e3-2f74d911decd",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "co_po_mapping",
+          "similarity": 0.5741853029507078,
+          "chunk_id": "47aa3714-098a-4637-a2ca-b67ab4c760f8",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "id": "Q012",
+      "question": "Which graph traversal techniques are included in the syllabus?",
+      "expected_sections": [
+        "syllabus"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lesson_plan",
+          "similarity": 0.7627162337303216,
+          "chunk_id": "bf4293b2-503e-47ef-9b25-ee3f825dfebf",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lab_programs",
+          "similarity": 0.7534068822860771,
+          "chunk_id": "ff02f24c-8047-40cf-8179-478903fd4e88",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "references",
+          "similarity": 0.7441819767626578,
+          "chunk_id": "6eceb220-d1f8-4402-bc0a-3c2e38a22a5a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "course_objectives",
+          "similarity": 0.7222064518270983,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "lesson_plan",
+          "similarity": 0.7182968426765906,
+          "chunk_id": "e51b84f8-bb17-49c6-bce0-79158be8db28",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0
+    },
+    {
+      "id": "Q013",
+      "question": "What are the course outcomes?",
+      "expected_sections": [
+        "co_po_mapping"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "co_po_mapping",
+          "similarity": 0.7980341556031575,
+          "chunk_id": "47aa3714-098a-4637-a2ca-b67ab4c760f8",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "syllabus",
+          "similarity": 0.6560476236286659,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "assessment",
+          "similarity": 0.6474758806853482,
+          "chunk_id": "fa1a50e5-f6e2-45a3-bc02-f04f8ba21697",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "lab_programs",
+          "similarity": 0.6431998056412103,
+          "chunk_id": "c4cc19bf-76bf-43b7-a676-010b182c8ff3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "course_metadata",
+          "similarity": 0.6284057940953068,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "Q014",
+      "question": "What does CO3 focus on?",
+      "expected_sections": [
+        "co_po_mapping"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lesson_plan",
+          "similarity": 0.5471492353499886,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lesson_plan",
+          "similarity": 0.546878847293786,
+          "chunk_id": "bf4293b2-503e-47ef-9b25-ee3f825dfebf",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "syllabus",
+          "similarity": 0.5259423851966858,
+          "chunk_id": "79719d56-a502-405a-a3aa-5dbe97ac0c60",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "syllabus",
+          "similarity": 0.5176489949226379,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "references",
+          "similarity": 0.5158804040097745,
+          "chunk_id": "6eceb220-d1f8-4402-bc0a-3c2e38a22a5a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0
+    },
+    {
+      "id": "Q015",
+      "question": "What does CO4 focus on?",
+      "expected_sections": [
+        "co_po_mapping"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lesson_plan",
+          "similarity": 0.5620823428532709,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lesson_plan",
+          "similarity": 0.5373089633768189,
+          "chunk_id": "bf4293b2-503e-47ef-9b25-ee3f825dfebf",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "co_po_mapping",
+          "similarity": 0.5210070013999939,
+          "chunk_id": "47aa3714-098a-4637-a2ca-b67ab4c760f8",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "syllabus",
+          "similarity": 0.5133246779441833,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "references",
+          "similarity": 0.5111158476929882,
+          "chunk_id": "6eceb220-d1f8-4402-bc0a-3c2e38a22a5a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.3333333333333333
+    },
+    {
+      "id": "Q016",
+      "question": "Which textbooks are recommended for the course?",
+      "expected_sections": [
+        "references"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "syllabus",
+          "similarity": 0.6854325941462883,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "references",
+          "similarity": 0.6674091418141744,
+          "chunk_id": "6eceb220-d1f8-4402-bc0a-3c2e38a22a5a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "lab_programs",
+          "similarity": 0.6490166187286424,
+          "chunk_id": "c4cc19bf-76bf-43b7-a676-010b182c8ff3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "lesson_plan",
+          "similarity": 0.628586433614119,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "course_metadata",
+          "similarity": 0.6248606219804669,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "id": "Q017",
+      "question": "Which reference books are recommended for the course?",
+      "expected_sections": [
+        "references"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "references",
+          "similarity": 0.7478535921661025,
+          "chunk_id": "6eceb220-d1f8-4402-bc0a-3c2e38a22a5a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "syllabus",
+          "similarity": 0.6705793542015179,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "lab_programs",
+          "similarity": 0.64212423563004,
+          "chunk_id": "c4cc19bf-76bf-43b7-a676-010b182c8ff3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "lesson_plan",
+          "similarity": 0.6364589550221691,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "course_metadata",
+          "similarity": 0.6322522540242834,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "Q018",
+      "question": "What online reference links are provided for the course?",
+      "expected_sections": [
+        "references"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "references",
+          "similarity": 0.6905855678115922,
+          "chunk_id": "6eceb220-d1f8-4402-bc0a-3c2e38a22a5a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lesson_plan",
+          "similarity": 0.6425976413255593,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "syllabus",
+          "similarity": 0.6311343751985624,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "course_metadata",
+          "similarity": 0.6255314796529481,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "co_po_mapping",
+          "similarity": 0.6126281484808789,
+          "chunk_id": "47aa3714-098a-4637-a2ca-b67ab4c760f8",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "Q019",
+      "question": "What is the first lab program in the course?",
+      "expected_sections": [
+        "lab_programs"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lab_programs",
+          "similarity": 0.6447026768858426,
+          "chunk_id": "6aad3ddc-73e3-4900-966d-d5885baff3b2",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lab_programs",
+          "similarity": 0.6384891106499302,
+          "chunk_id": "c4cc19bf-76bf-43b7-a676-010b182c8ff3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "course_metadata",
+          "similarity": 0.63452555927482,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "lesson_plan",
+          "similarity": 0.619850286272118,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "co_po_mapping",
+          "similarity": 0.6154692264552318,
+          "chunk_id": "ad8469f1-d7ab-4618-83e3-2f74d911decd",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "Q020",
+      "question": "What operations are required for the singly linked list lab program?",
+      "expected_sections": [
+        "lab_programs"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lesson_plan",
+          "similarity": 0.7527088599838817,
+          "chunk_id": "2c2eb048-3be6-43c4-b0f2-c39e9e159190",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lab_programs",
+          "similarity": 0.7357707996436875,
+          "chunk_id": "6aad3ddc-73e3-4900-966d-d5885baff3b2",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "course_objectives",
+          "similarity": 0.7081182847164029,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "lesson_plan",
+          "similarity": 0.6705319085558826,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "lesson_plan",
+          "similarity": 0.6677847903646219,
+          "chunk_id": "bf4293b2-503e-47ef-9b25-ee3f825dfebf",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "id": "Q021",
+      "question": "What operations are required for the stack lab program?",
+      "expected_sections": [
+        "lab_programs"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lab_programs",
+          "similarity": 0.7270836722105148,
+          "chunk_id": "6aad3ddc-73e3-4900-966d-d5885baff3b2",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "course_objectives",
+          "similarity": 0.669150272931153,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "lesson_plan",
+          "similarity": 0.6529863294379319,
+          "chunk_id": "3fb2f871-cc09-44fb-a772-b6e761710fb3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "co_po_mapping",
+          "similarity": 0.649597290230283,
+          "chunk_id": "ad8469f1-d7ab-4618-83e3-2f74d911decd",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "lab_programs",
+          "similarity": 0.6444435543485219,
+          "chunk_id": "c4cc19bf-76bf-43b7-a676-010b182c8ff3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "Q022",
+      "question": "What operations are required for the queue lab program?",
+      "expected_sections": [
+        "lab_programs"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lab_programs",
+          "similarity": 0.6855515207854186,
+          "chunk_id": "6aad3ddc-73e3-4900-966d-d5885baff3b2",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "course_objectives",
+          "similarity": 0.6132308061948203,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "co_po_mapping",
+          "similarity": 0.603437256198421,
+          "chunk_id": "ad8469f1-d7ab-4618-83e3-2f74d911decd",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "lesson_plan",
+          "similarity": 0.5870284438133282,
+          "chunk_id": "bf4293b2-503e-47ef-9b25-ee3f825dfebf",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "course_metadata",
+          "similarity": 0.5862884172029257,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "Q023",
+      "question": "What is covered in the lesson plan for the course?",
+      "expected_sections": [
+        "lesson_plan"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "syllabus",
+          "similarity": 0.669355034828186,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lesson_plan",
+          "similarity": 0.6451843207854888,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "course_objectives",
+          "similarity": 0.6166912501064318,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "course_metadata",
+          "similarity": 0.6111489534378052,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "co_po_mapping",
+          "similarity": 0.608593761920929,
+          "chunk_id": "47aa3714-098a-4637-a2ca-b67ab4c760f8",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "id": "Q024",
+      "question": "Which topics in the lesson plan cover linked lists?",
+      "expected_sections": [
+        "lesson_plan"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lesson_plan",
+          "similarity": 0.6796855712311827,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "course_objectives",
+          "similarity": 0.6490494206264446,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "references",
+          "similarity": 0.6326815327785617,
+          "chunk_id": "6eceb220-d1f8-4402-bc0a-3c2e38a22a5a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "lesson_plan",
+          "similarity": 0.6278429627418518,
+          "chunk_id": "2c2eb048-3be6-43c4-b0f2-c39e9e159190",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "syllabus",
+          "similarity": 0.6166936159133911,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "Q025",
+      "question": "Which topics in the lesson plan cover binary trees?",
+      "expected_sections": [
+        "lesson_plan"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lab_programs",
+          "similarity": 0.7079948012825741,
+          "chunk_id": "ff02f24c-8047-40cf-8179-478903fd4e88",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lesson_plan",
+          "similarity": 0.7027778029441833,
+          "chunk_id": "e51b84f8-bb17-49c6-bce0-79158be8db28",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "course_objectives",
+          "similarity": 0.6906046477140384,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "lesson_plan",
+          "similarity": 0.6768603710102641,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "lesson_plan",
+          "similarity": 0.6441668655971816,
+          "chunk_id": "bf4293b2-503e-47ef-9b25-ee3f825dfebf",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "id": "Q026",
+      "question": "Which topics in the lesson plan cover graphs?",
+      "expected_sections": [
+        "lesson_plan"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lesson_plan",
+          "similarity": 0.6437328286489499,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lesson_plan",
+          "similarity": 0.6344578266143799,
+          "chunk_id": "e51b84f8-bb17-49c6-bce0-79158be8db28",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "lesson_plan",
+          "similarity": 0.6239809169757924,
+          "chunk_id": "bf4293b2-503e-47ef-9b25-ee3f825dfebf",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "lab_programs",
+          "similarity": 0.6190985214172924,
+          "chunk_id": "ff02f24c-8047-40cf-8179-478903fd4e88",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "co_po_mapping",
+          "similarity": 0.6087376475334167,
+          "chunk_id": "47aa3714-098a-4637-a2ca-b67ab4c760f8",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "Q027",
+      "question": "What topics are included in the lesson plan for stacks and queues?",
+      "expected_sections": [
+        "lesson_plan"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "lesson_plan",
+          "similarity": 0.6787690307177316,
+          "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "course_objectives",
+          "similarity": 0.6333602855610936,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "syllabus",
+          "similarity": 0.631580114364624,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "lab_programs",
+          "similarity": 0.617968485597557,
+          "chunk_id": "6aad3ddc-73e3-4900-966d-d5885baff3b2",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "lesson_plan",
+          "similarity": 0.6134790547775669,
+          "chunk_id": "bf4293b2-503e-47ef-9b25-ee3f825dfebf",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "Q028",
+      "question": "What assessment methods are specified for the course?",
+      "expected_sections": [
+        "assessment"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "assessment",
+          "similarity": 0.6952063622947727,
+          "chunk_id": "fa1a50e5-f6e2-45a3-bc02-f04f8ba21697",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "co_po_mapping",
+          "similarity": 0.6518475620837484,
+          "chunk_id": "47aa3714-098a-4637-a2ca-b67ab4c760f8",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "syllabus",
+          "similarity": 0.6513973086239523,
+          "chunk_id": "6324793a-358c-4588-8ee5-d0e47aec197a",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "course_objectives",
+          "similarity": 0.6462701962509718,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "lab_programs",
+          "similarity": 0.6430195995545864,
+          "chunk_id": "c4cc19bf-76bf-43b7-a676-010b182c8ff3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "id": "Q029",
+      "question": "What is the assessment plan for Data Structures using C?",
+      "expected_sections": [
+        "assessment"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "course_objectives",
+          "similarity": 0.7777922981319519,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "lab_programs",
+          "similarity": 0.7118399911022204,
+          "chunk_id": "c4cc19bf-76bf-43b7-a676-010b182c8ff3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "course_metadata",
+          "similarity": 0.6901701092720032,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "lesson_plan",
+          "similarity": 0.6890257000923157,
+          "chunk_id": "2c2eb048-3be6-43c4-b0f2-c39e9e159190",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "lab_programs",
+          "similarity": 0.6871077195277597,
+          "chunk_id": "6aad3ddc-73e3-4900-966d-d5885baff3b2",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 0.0,
+      "recall_at_3": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0
+    },
+    {
+      "id": "Q030",
+      "question": "How are the course outcomes aligned with program outcomes?",
+      "expected_sections": [
+        "co_po_mapping"
+      ],
+      "retrieved": [
+        {
+          "rank": 1,
+          "section": "co_po_mapping",
+          "similarity": 0.7557225823402405,
+          "chunk_id": "47aa3714-098a-4637-a2ca-b67ab4c760f8",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 2,
+          "section": "course_objectives",
+          "similarity": 0.6659757097356236,
+          "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 3,
+          "section": "lab_programs",
+          "similarity": 0.6612847649285349,
+          "chunk_id": "c4cc19bf-76bf-43b7-a676-010b182c8ff3",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 4,
+          "section": "course_metadata",
+          "similarity": 0.6508662700653076,
+          "chunk_id": "c5fff483-33a2-4f5d-933e-0848ef839f37",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        },
+        {
+          "rank": 5,
+          "section": "co_po_mapping",
+          "similarity": 0.6455495780051304,
+          "chunk_id": "ad8469f1-d7ab-4618-83e3-2f74d911decd",
+          "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c"
+        }
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0
+    }
+  ]
+}

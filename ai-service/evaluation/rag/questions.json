@@ -1,0 +1,219 @@
+[
+  {
+    "id": "Q001",
+    "question": "What is the course code of Data Structures using C?",
+    "expected_sections": ["course_metadata"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q002",
+    "question": "What is the semester for Data Structures using C?",
+    "expected_sections": ["course_metadata"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q003",
+    "question": "How many total teaching hours does the course have?",
+    "expected_sections": ["course_metadata"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+
+  {
+    "id": "Q004",
+    "question": "What are the objectives of Data Structures using C?",
+    "expected_sections": ["course_objectives"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q005",
+    "question": "What programming concepts should students understand according to the course objectives?",
+    "expected_sections": ["course_objectives"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q006",
+    "question": "What linear data structures are covered in the course objectives?",
+    "expected_sections": ["course_objectives"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+
+  {
+    "id": "Q007",
+    "question": "What topics are covered in Module 1?",
+    "expected_sections": ["syllabus"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q008",
+    "question": "What topics are covered in Module 2?",
+    "expected_sections": ["syllabus"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q009",
+    "question": "What topics are covered in Module 3?",
+    "expected_sections": ["syllabus"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q010",
+    "question": "What topics are covered in Module 4?",
+    "expected_sections": ["syllabus"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q011",
+    "question": "What topics are covered in Module 5?",
+    "expected_sections": ["syllabus"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q012",
+    "question": "Which graph traversal techniques are included in the syllabus?",
+    "expected_sections": ["syllabus"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+
+  {
+    "id": "Q013",
+    "question": "What are the course outcomes?",
+    "expected_sections": ["co_po_mapping"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q014",
+    "question": "What does CO3 focus on?",
+    "expected_sections": ["co_po_mapping"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q015",
+    "question": "What does CO4 focus on?",
+    "expected_sections": ["co_po_mapping"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+
+  {
+    "id": "Q016",
+    "question": "Which textbooks are recommended for the course?",
+    "expected_sections": ["references"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q017",
+    "question": "Which reference books are recommended for the course?",
+    "expected_sections": ["references"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q018",
+    "question": "What online reference links are provided for the course?",
+    "expected_sections": ["references"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+
+  {
+    "id": "Q019",
+    "question": "What is the first lab program in the course?",
+    "expected_sections": ["lab_programs"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q020",
+    "question": "What operations are required for the singly linked list lab program?",
+    "expected_sections": ["lab_programs"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q021",
+    "question": "What operations are required for the stack lab program?",
+    "expected_sections": ["lab_programs"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q022",
+    "question": "What operations are required for the queue lab program?",
+    "expected_sections": ["lab_programs"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+
+  {
+    "id": "Q023",
+    "question": "What is covered in the lesson plan for the course?",
+    "expected_sections": ["lesson_plan"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q024",
+    "question": "Which topics in the lesson plan cover linked lists?",
+    "expected_sections": ["lesson_plan"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q025",
+    "question": "Which topics in the lesson plan cover binary trees?",
+    "expected_sections": ["lesson_plan"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q026",
+    "question": "Which topics in the lesson plan cover graphs?",
+    "expected_sections": ["lesson_plan"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q027",
+    "question": "What topics are included in the lesson plan for stacks and queues?",
+    "expected_sections": ["lesson_plan"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+
+  {
+    "id": "Q028",
+    "question": "What assessment methods are specified for the course?",
+    "expected_sections": ["assessment"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q029",
+    "question": "What is the assessment plan for Data Structures using C?",
+    "expected_sections": ["assessment"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  },
+  {
+    "id": "Q030",
+    "question": "How are the course outcomes aligned with program outcomes?",
+    "expected_sections": ["co_po_mapping"],
+    "expected_subject": "Data Structures using C",
+    "expected_course_code": "CS1083"
+  }
+]
