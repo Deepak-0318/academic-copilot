@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 
 from app.api.planner import router as planner_router
+from app.api.rag import router as rag_router
 
 
 app = FastAPI(
@@ -20,4 +21,9 @@ async def health():
 app.include_router(
     planner_router,
     prefix="/api/v1/planner",
+)
+
+app.include_router(
+    rag_router,
+    prefix="/api/v1/rag",
 )
