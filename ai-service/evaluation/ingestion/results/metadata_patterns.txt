@@ -1,0 +1,1274 @@
+
+====================================================================================================
+AI_and_ML.md
+====================================================================================================
+   3: Course Code: CS2227
+   5: Name of the Programme: B.Tech (H)
+   7: Name of the Course: AI and ML
+   9: Semester: III
+  11: | Course credit - 03 | No. of hours per week (L + T + P) 2-0-2 | Total no. of Teaching hours 60 Hours |
+  14: ## Course Objectives :
+  22: ## Course outline (Syllabus of the course) Syllabus:
+  36: No. of hours
+  40: No. of hours
+  48: No. of hours 06
+  68: ## Course outcomes: Students will be able to
+  74: No. of hours
+  78: No. of hours
+  98: | Lab Programs /Tutorials | Lab Programs /Tutorials |
+ 115: | Name of the Programme: | B.Tech (H) | |
+ 117: | Title of the Course: | AI and ML | |
+ 118: | Course Code | CS2227 | |
+ 119: | Semester: | III | |
+ 120: | Name(s) of the Course Instructor(s) | Prof. Ashwini Mathur | |
+ 121: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+ 162: | Session 29 | | Lab Hour: Model Evaluation: Metrics: Accuracy, precision, recall, F1 score | Hands-on Lab | Géron Ch3; Sklearn Metrics |
+ 163: | Session 30 | | Lab Hour: AUC-ROC and confusion matrix. | Submission + VIVA | Géron Ch3; Sklearn Metrics |
+ 209: | Semester End Exams (SEE) - 30 Marks | Semester End Exams (SEE) - 30 Marks |
+ 214: ## Course Outcomes- Programme Outcomes Matrix
+ 233: | CIE-1 | Theory | Test will be conducted for 20 marks and will be evaluated according to the Scheme of Evaluation prepared by the course faculty. |
+ 238: | CIE-2 | Theory | Test will be conducted for 25 marks and will be evaluated according to the Scheme of Evaluation prepared by the course faculty. |
+ 243: | CIE-3 | Mini Project | Mini Project will be evaluated for 15 marks based on assessment criteria prepared by the course faculty. (Refer Table 1) |
+ 244: | CIE-3 | Lab CIE | Lab CIE will be evaluated for 10 marks based on assessment criteria prepared by the course faculty. (Refer Table 2) |
+ 267: Signature of the Course Faculty
+
+====================================================================================================
+Agile_Software_Engineering_and_DevOps.md
+====================================================================================================
+   1: ## Course Code:CS2005
+   3: Name of the Programme: B.Tech(Hons.)
+   5: Name of the Course: Agile Software Engineering and DevOps
+   7: Semester: IV
+   9: | Course credit | No. of hours per week | Total no. of Teaching hours |
+  13: ## Course Objectives :
+  24: No. of hours
+  32: No. of hours
+  36: Introduction to various Agile methodologies such as Scrum, XP, Lean, and Kanban, Scrum Roles - Product Owner, Scrum Master, Team, Release Manager, Project Manager, Product Manager, Architect, events, and artifacts; Product Inception: Product vision, stakeholders, initial backlog creation; Agile Requirements -User personas, story mapping, user stories, 3Cs, INVEST, Acceptance criteria, sprints, requirements, product backlog and backlog grooming; Test First Development; Pair Programming and Code reviews; code coverage and tools.
+  40: No. of hours
+  48: No. of hours
+  56: No. of hours
+  62: | Course Outcomes: After completing the course, the students will be able to: - | Course Outcomes: After completing the course, the students will be able to: - |
+ 101: ## Laboratory Component (30 Hours)
+ 126: | Name of the Programme: | B.Tech(Hons.) | B.Tech(Hons.) |
+ 128: | Title of the Course: | Agile Software Engineering and DevOps | Agile Software Engineering and DevOps |
+ 129: | Course code | CS2005 | CS2005 |
+ 130: | Semester: | IV | IV |
+ 131: | Names of the Course Instructor(s) | Prof.Manjul Krishna Gupta, Prof.Deepak Murthy, Prof.Shanthala, Prof.CVSN Reddy, Prof.Sunil Kumar, Prof.Manasa , Prof.Hari Kumar VPS | Prof.Manjul Krishna Gupta, Prof.Deepak Murthy, Prof.Shanthala, Prof.CVSN Reddy, Prof.Sunil Kumar, Prof.Manasa , Prof.Hari Kumar VPS |
+ 132: | Course credit | No. of hours per week (2+0+2) | Total no. of Teaching hours |
+ 133: | 04 | 04 Hours | 60 Hours |
+ 206: ## Course Outcomes -Programme Outcomes Matrix
+ 208: | Course Outcomes \ Programme Outcomes | P O 1 | P O 2 | P O 3 | P O 4 | P O 5 | P O 6 | P O 7 | P O 8 | P O 9 | PO 10 | PO 11 | PO 12 |
+ 265: - 2 Course Project
+ 297: | 1. | CIE 1 | CIE1will be conducted for 20 marks Part A (10 Marks) - Pen & Paper (Short Ans Type/ In Class Test) Part B (10 Marks) - 5 Marks (MOOC course) - 5 Marks (From exercises/course project of Lab Record) It will be evaluated according to the Scheme of Evaluation prepared by the course faculty |
+ 298: | 2. | Mid Sem (CIE 2) | Written Test will be conducted for 25 marks and will be evaluated according to the Scheme of Evaluation prepared by the team of course faculty |
+ 299: | 3. | Practical Component (CIE 3) | CIE3 will be of 25 Marks • Course Project - 20 Marks • DevOps - 20 Marks • Lab Record - 10 Marks (see the details in the Lab Record book) • Total for CIE3 = (20+20+10)/2 = 25 Marks It will be evaluated according to the Scheme of Evaluation prepared by the team of course faculty |
+ 301: | Semester End Exams (SEE): 30% | Semester End Exams (SEE): 30% |
+ 312: | 2 | Execution (5 Marks) | Observations | Student demonstrates the execution of the program with optimized code and shows the output. Appropriate validations with all the test cases are handled. (5 M) | Student demonstrates the execution of the program without optimization of the code and shows the output. (3 M) | Student has not executed the program or the code fails to demonstrate (1 M) |
+ 321: Signature of the Course Faculty
+
+====================================================================================================
+Calculus_and_Laplace_Transforms.md
+====================================================================================================
+   3: | Name of the Programme: | B. Tech (H) CSE |
+   5: | Title of the Course: | Calculus and Laplace Transforms |
+   6: | Course code | CS2806 |
+   7: | Semester: | III |
+   8: | Names of the Course Instructor(s) | Rammohan |
+   9: | Names of the Course Instructor(s) | Hongray |
+  10: | Names of the Course Instructor(s) | Ankita |
+  11: | Names of the Course Instructor(s) | Sasikala |
+  12: | Names of the Course Instructor(s) | Akhilesh |
+  13: | Names of the Course Instructor(s) | Sahana (Guest Faculty) |
+  15: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+  71: | Semester End Exams (SEE): | Semester End Exams (SEE): | Semester End Exams (SEE): |
+  77: ## Course Outcomes- Programme Outcomes Matrix
+  79: | Course Outcomes | Course Outcomes | PO1 PO2 | PO3 | PO4 PO5 | PO6 | PO7 | PO8 PO9 | PO10 | PO11 | PO12 |
+
+====================================================================================================
+Cloud_Computing_and_Big_Data.md
+====================================================================================================
+   5: | Name of the Programme: | B.Tech (Hons.) | B.Tech (Hons.) |
+   7: | Title of the Course: | Cloud Computing and Big Data | Cloud Computing and Big Data |
+   8: | Course code | CS2500 | CS2500 |
+   9: | Semester: | III | III |
+  10: | Names of the Course Instructor(s) | Dr. Ananya Chakraborty | Dr. Ananya Chakraborty |
+  11: | Course credit | No. of hours per week (2+0+2) | Total no. of Teaching hours |
+  12: | 03 | 04 Hours | 60 Hours |
+  34: | 17. | OS level virtualization, Programming level virtualization, Application virtualization, storage virtualization. | PPT | Buyya - Ch. 3 |
+  68: | 51. | Lab 12: Hadoop Setup and WordCount Program | | Hadoop |
+  71: | 54. | MapReduce Framework and Programming Model | PPT | Acharya - Ch. |
+  72: | | Lab 12: Hadoop Setup and WordCount Program | | 8 |
+  80: | 59. 60. | Lab 12: Hadoop Setup and WordCount Program Execution (continued) | Demo | - |
+  92: ## Semester End Exams (SEE): 30%
+ 100: ## Course Outcomes- Progamme Outcomes Matrix
+ 102: | Program Outcome Course Outcome | Program Outcome Course Outcome | PO 1 | PO 2 | PO 3 | PO 4 | PO 5 | PO 6 | PO 7 | PO 8 | PO 9 | PO1 0 | PO1 1 | PO1 2 |
+ 127: | | Theory | Test will be conducted for 25 marks and will be evaluated according to Scheme of Evaluation prepared by course faculty. |
+ 133: | CIE-3 | Case Study Component | Course Case Study = 15 marks (Refer Table-2) |
+ 167: ## Signature of the Course Faculty Signature of the Program Director
+
+====================================================================================================
+Cloud_Security.md
+====================================================================================================
+   1: ## Index sheet for Course file
+   6: | 2 | Course outline (Syllabus of the course) (template - 1) | 3 |
+   8: | 4 | Timetable (of all sections of that course) | 13 |
+  20: | 8 | Semester End Examination (SEE) | |
+  29: | 9 | Course-end survey (questions to be specific to the course; not more than 8) |
+  30: | 10 | Course attainment |
+  34: ## Course outline (Syllabus of the course) - Template - 1
+  36: Course Code: CS3508
+  38: Name of the Programme: BTech (H)
+  40: Name of the Course: Cloud Security and Migration
+  42: Semester: 6th sem
+  44: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+  48: ## Course Objectives:
+  57: | Module - 1 | No. of hours |
+  67: No. of hours
+  73: | Module - 3 | No. of hours |
+  79: | Module - 4 | No. of hours |
+  87: Secure Cloud Migration No. of hours
+  93: ## Course outcomes
+ 155: | Name of the Programme: | B.Tech (Hons) | |
+ 157: | Title of the Course: | Cloud Security and Migration | |
+ 158: | Course code | CS3508 | |
+ 159: | Semester: | VI | |
+ 160: | Names of the Course Instructor(s) | Prof Aparna R Prof Thiruselvan | |
+ 161: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+ 233: | 60 | CIE-3 Project Presen tations | Overall course summary and CIE finalization | |
+ 244: | Semester End Exams (SEE) - 30% | Semester End Exams (SEE) - 30% |
+ 249: ## Course Outcomes- Progamme Outcomes Matrix
+ 253: | Course Outcomes | Course Outcomes | PO 1 | PO 2 | PO 3 | PO 4 | PO 5 | PO 6 | PO 7 | PO 8 | PO 9 | PO 10 | PO 11 | P O1 2 |
+ 270: | 2 | Theory exam | Test will be conducted for 25 marks and will be evaluated according to Scheme of Evaluation prepared by team of course faculty |
+ 283: | 5 | Subject Knowledge (5 marks) | Viva Voce | Demonstrates deep understanding, answering questions with clarity and depth. | Provides satisfactory answers but lacks depth or clarity. | Unable to answer questions effectively. (0-1 M) |
+
+====================================================================================================
+Compiler_Design.md
+====================================================================================================
+   1: ## Course Outline (Syllabus of the Course)
+   3: Course Code: CS3704
+   5: Name of the Programme: BTech (H)
+   7: Name of the Course: Compiler Design
+   9: Semester: VI
+  11: | Course credit | No. of hours per week (L : T : P) | Total no. of Teaching hours |
+  15: ## Course Objectives :
+  22: | Module - 1 | No. of hours |
+  28: | Module - 2 | No. of hours |
+  34: | Module - 3 | No. of hours |
+  44: No. of hours
+  54: ## No. of hours
+  60: | Course Outcomes: After completing the course, the students will be able to: - | Course Outcomes: After completing the course, the students will be able to: - |
+  74: | 1. | K. Louden, Compiler Construction: Principles and Practice, Boston, MA, USA: Course Technology Inc., ISBN: 978-0534939724. |
+
+====================================================================================================
+Computer_Networks.md
+====================================================================================================
+   3: Course Code: CS2403
+   5: Name of the Programme: B.Tech (Hons.) CSE
+   7: Name of the Course: Computer Networks
+   9: Semester: III
+  11: | Course credit : | No. of hours per week (L+T+P): | Total no. of Teaching hours: |
+  13: | 3 | 2:0:2 | 30L+30P = 60 hours |
+  15: ## Course Objectives :
+  22: ## Course outline (Syllabus of the course)
+  28: No. of hours
+  34: | Module - 2: Layered Architecture | No. of hours |
+  40: | Module - 3: Wired/Wireless communications | No. of hours |
+  50: No. of hours
+  56: | Module - 5: Communication Protocols | No. of hours |
+  61: | Course Outcomes: After completing the course, the students will be able to: | Course Outcomes: After completing the course, the students will be able to: |
+  81: | Lab Programs | Lab Programs |
+
+====================================================================================================
+Computer_Organization_Complete.md
+====================================================================================================
+   3: ## Course outline (Syllabus of the course)
+   5: Course Code: CS1109
+   7: Name of the Programme: BCA (Hons)
+   9: Name of the Course: Computer Organization
+  11: Semester: II
+  13: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+  17: ## Course Objectives :
+  34: INPUT OUTPUT AND SECONDARY STORAGE: I/O interface, Programmed IO, Memory Mapped IO, Interrupt Driven IO, DMA, Secondary Storage.
+  40: ALU, DATA-PATH AND CONTROL UNIT: Control Unit and design, Hardwired v/s Micro-programmed Control Unit, Horizontal micro-programmed Vs Vertical micro-programmed control unit, Synchronous Data Transfer, Asynchronous Data Transfer
+  48: ## Course Outcomes:
+  75: | Name of the Programme: | BCA | |
+  77: | Title of the Course: | Computer Organization | |
+  78: | Course code | CS1109 | |
+  79: | Semester: | 2 | |
+  80: | Names of the Course Instructor(s) | Prof. Kaipangal Maneesh Rajan and Prof. Sharath BR | |
+  81: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+ 112: | 25 | Programmed & Memory Mapped I/O | Flowchart explanation | Mano Ch.7 |
+ 121: | 32 | M O D U L E IV | Micro-programmed Control Unit | Microinstruction demo | Hamacher Ch.8 |
+ 122: | 33 | M O D U L E IV | Horizontal vs Vertical Microprogramming | Table comparison | Stallings |
+ 134: | 45 | | Performance Evaluation & Course Wrap-up | Quiz + recap | All references |
+ 147: | Semester End Exams (SEE) | Semester End Exams (SEE) |
+ 152: | Course Outcome | PO 1 | PO 2 | PO 3 | PO 4 | PO 5 | PO 6 | PO 7 | PO 8 | PO 9 | PO 10 | PO 11 | PO 12 |
+ 162: | Programme Outcome | 1. Complex Problem-Solving and Critical Thinking Graduates should be able to solve different kinds of problems in familiar and unfamiliar contexts, and apply their learning to real-life situations. 2. Creative and Effective Communication Graduates should be able to demonstrate creativity by thinking in diverse ways, dealing with complex problems, innovating, and viewing situations from multiple perspectives. . 3. Analytical and Research Competence Graduates should be able to evaluate the reliability and relevance of evidence, identify logical flaws in arguments, and analyze and synthesize data from various sources to draw valid conclusions and support them with evidence. 4. Teamwork and Leadership Graduates should be able to work effectively and respectfully with diverse teams, facilitating cooperative efforts and acting together towards common goals. 5. Lifelong Learning and Digital Proficiency Graduates should demonstrate the ability to acquire new knowledge and skills for lifelong learning, adapt to changing workplace demands, work independently, and manage time and resources effectively. 6. Multicultural Competence and Ethical Values Graduates should demonstrate knowledge of multiple cultures, interact respectfully with diverse groups, lead diverse teams, and adopt a gender-neutral and empathetic approach. 7. Responsible Autonomy and Environmental Stewardship Graduates should demonstrate the ability to apply knowledge and skills independently, manage projects to completion, exercise responsibility, and ensure workplace safety and security. 8. Community Engagement and Empathy Graduates should demonstrate the capability to participate in community-engaged services and activities to promote societal well-being, and the ability to empathize by understanding the perspectives, experiences, and emotions of others. 9. Global Perspective & Cultural awareness Acquire knowledge about the values and beliefs of diverse cultures, effectively engaging with empathy. 10.Ethical Reasoning & Social Responsibility Demonstrate moral and value-based principles while being socially conscious and accountable. 11. Civic Engagement & Community Service Participate actively in civic life exhibiting a commitment to community service, social justice and the common good. |
+
+====================================================================================================
+Cybersecurity.md
+====================================================================================================
+   1: ## Course outline (Syllabus of the course)
+   3: Course Code: CS2405
+   5: Name of the Programme: B.Tech(Hons.)
+   7: Name of the Course: Cybersecurity
+   9: Semester: III
+  11: | Course credit | No. of hours per week | Total no. of Teaching hours |
+  15: ## Course Objectives :
+  26: No. of hours
+  34: No. of hours
+  42: No. of hours
+  46: Overview, Risk identification, Risk Assessment, Risk Control Strategies, Quantitative vs. Qualitative Risk Control Practices. Risk Management. Laws and Ethics in Information Security, Codes of Ethics, Protecting programs and data.
+  50: No. of hours
+  60: No. of hours
+  66: | Lab Programs | Lab Programs |
+  81: ## Course outcomes
+ 108: | Name of the Programme: | B.Tech(Hons.) | B.Tech(Hons.) |
+ 110: | Title of the Course: | Cybersecurity | Cybersecurity |
+ 111: | Course code | CS2405 | CS2405 |
+ 112: | Semester: | III | III |
+ 113: | Names of the Course Instructor(s) | Prof. Evlin Vidyu Latha P | Prof. Evlin Vidyu Latha P |
+ 114: | Course credit | No. of hours per week (2+0+2) | Total no. of Teaching hours |
+ 115: | 03 | 04 Hours | 60 Hours |
+ 151: | 28. | Codes of Ethics, Protecting programs and data. | Interactive lecture PPT | Sunit and Nina, (Ch 8) |
+ 198: | CIE-1 - Quiz Graded Component 1 (based on Theory concepts and IBM Skills Build Course) - IBM Skills Build Courses: Graded Component-2 | 15 marks out of 70 5 marks out of 70 |
+ 202: | Semester End Exams (SEE): 30% | Semester End Exams (SEE): 30% |
+ 207: ## Course Outcomes- Programme Outcomes Matrix
+ 209: | Program Outcome Course Outcome | Program Outcome Course Outcome | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 |
+ 229: | Courses: Graded Component-2 | Certificate of completion for 5 marks. The specified courses on the IBM Skill Build platform completion certificate to be uploaded to the designated Google Classroom. (Refer Table-1) | |
+ 235: Assess students' ability to complete assigned courses on the IBM Skill Build platform and reflect on their learning.
+ 239: | Completion of Courses (5 Marks) | Completes all specified courses on the IBM Skill Build platform before the deadline. Certificates are uploaded to Google Classroom with no errors. | Completes some courses or has minor errors in uploading certificates. | Fails to complete the courses or does not upload certificates. |
+ 244: | CIE-2 | Theory | The test will be conducted for 25 marks and will be evaluated according to the Scheme of Evaluation prepared by the course faculty. |
+ 284: ## Signature of the Course Faculty
+
+====================================================================================================
+Data_Structures_using_C.md
+====================================================================================================
+   3: | Course Code: CS1083 Name of the Programme: B.Sc. Computer Science (Hons.) Name of the Course: Data Structures using C Semester: II | Course Code: CS1083 Name of the Programme: B.Sc. Computer Science (Hons.) Name of the Course: Data Structures using C Semester: II | Course Code: CS1083 Name of the Programme: B.Sc. Computer Science (Hons.) Name of the Course: Data Structures using C Semester: II |
+   5: | Course credit No. of hours per week (L + T + P) | Course credit No. of hours per week (L + T + P) | Total no. of Teaching hours |
+   7: | Course Objectives : | Course Objectives : | Course Objectives : |
+   8: | a) | Understand fundamental programming concepts essential for implementing data structures. | Understand fundamental programming concepts essential for implementing data structures. |
+  13: ## Course outline (Syllabus of the course)
+  17: | Module - 1 | No. of hours 6 |
+  19: | Foundations of Programming for data structures: Arrays, Pointers and Strings Functions and Recursion, Arrays, Pointers and Strings: Introduction to Arrays, Definition, One Dimensional Array and Multidimensional Arrays, Pointer, Pointer to Structure, various Programs for Array and Pointer. Strings. Introduction to Strings, Definition, Library Functions of Strings. | Foundations of Programming for data structures: Arrays, Pointers and Strings Functions and Recursion, Arrays, Pointers and Strings: Introduction to Arrays, Definition, One Dimensional Array and Multidimensional Arrays, Pointer, Pointer to Structure, various Programs for Array and Pointer. Strings. Introduction to Strings, Definition, Library Functions of Strings. |
+  21: | Module - 2 | No. of hours |
+  25: | Module - 3 | No. of hours 6 |
+  37: | Module - 5 | No. of hours |
+  45: | Course outcomes | Course outcomes |
+  47: | a) | Understand the basic programming concepts needed to implement data structures. |
+  67: No. of hours
+  73: Lab Programs [60 Hrs]
+  75: - 1 Write a program to find the largest and smallest element in an array.
+  76: - 2 Write a program to find the factorial of a number using recursion.
+  78: Write a program to find the nth Fibonacci number using recursion.
+  80: - 3 Write a program to implement the Sudoku game structure and implement searching operations along rows, columns and grids.
+  81: - 4 Write a program to create a class/structure Node to represent a node in a singly linked list. Each node should have two attributes: data and next. Implement the following operations:
+  86: - 5 Write a program to create a class/structure Node to represent a node in a singly linked list. Each node should have two attributes: data and next. Then, create a class/structure Stack to represent the stack itself. Implement the following operations:
+  91: - 6 Write a program to create a class/structure Node to represent a node in a singly linked list. Each node should have two attributes: data and next. Then, create a class/structure Queue to represent the queue itself. Implement the following operations:
+  95: - 7 Write a program to create a class/structure DoublyNode to represent a node in a doubly linked list. Each node should have three attributes: data, next, and prev. Then, create a class/structure DoublyLinkedList to represent the linked list itself. Implement the following operations:
+  99: - 8 Write a program to a class/structure CircularNode to represent a node in a circular linked list. Each node should have two attributes: data and next. Then, create a
+ 107: - 9 Write a program to create a class/structure TreeNode to represent a node in a binary tree. Each node should have three attributes: data, left, and right. Then, create a class/structure BinaryTree to represent the binary tree itself. Implement the following operations:
+ 110: - 10 Write a program to create a class TreeNode to represent a node in a binary tree. Each node should have three attributes: data, left, and right. Then, create a class/structure BinaryTree to represent the binary tree itself. include a method/function find\_lca(node1, node2) that takes two node values as input and returns the value of their lowest common ancestor. Assume all values in the tree are unique.
+ 111: - 11 Write a program to create a class TreeNode to represent a node in a binary tree. Each node should have three attributes: data, left, and right. Then, create a class/structure BinaryTree to represent the binary tree itself, to include a method/function find\_grandchildren(node) that takes a node value as input and returns a list of values of all the grandchildren of the given node.
+ 125: | Name of the Programme: | BSc(H) | |
+ 127: | Title of the Course: | Data Structures Using C | |
+ 128: | Course code | CS1083 | |
+ 129: | Semester: | II | |
+ 130: | Names of the Course Instructor(s) | Prof.Ashwini Prasad S Prof.Aruna S | |
+ 131: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+ 137: | 3-4 | | Pointers:Pointer, Pointer to Structure, various Programs for Array and Pointer. | Memory diagrams, Examples, Index tracing, Instructor demonstrati on, Group activities, Row/colum n-major visualizatio n Analogies, Memory maps, Live coding, | Horowitz & Sahani - Ch.1,Geeks for Geeks |
+ 144: | 7-18 | LAB: 1. Write a program to find the largest and smallest element in an array. 2. Write a program to find the factorial of a number using recursion. Write a program to find the nth Fibonacci number using recursion. 3. Write a program to implement the Sudoku game structure and implement searching operations along rows, columns and grids. | Coding + Dry-run | Class Materials |
+ 153: | 25-28 | LAB: 5. Write a program to create a class/structure Node to represent a node in a singly linked list. Each node should have two attributes: data and next. Implement the following operations: 1. insert_at_beginning(data): Insert a new node with the given data at the beginning of the list. 2. .insert_at_end(data): Insert a new node with the given data at the end of the list. 3. delete_node(data): Delete the first node in the list that contains the given data 4. traverse (): Traverse the list and print the data of each node | Coding + Dry-run | Class Materials |
+ 154: | 29-32 | LAB: 6. Write a program to create a class/structure Node to represent a node in a singly linked list. Each node should have two attributes: data and next. Then, | Coding + Dry-run | Class Materials |
+ 160: | 33-36 | LAB: 7. Write a program to create a class/structure Node to represent a node in a singly linked list. Each node should have two attributes: data and next. Then, create a class/structure Queue to represent the queue itself. Implement the following operations: 1. enqueue(data): Add a new node with the given data to the end of the queue. 2. front(): Return the data of the front node without removing it. If the queue is empty, return None. 3. is_empty(): Return True if the queue is empty, otherwise return False | Coding + Dry-run | Class Materials |
+ 167: | 43-46 | LAB: 8. Write a program to create a class/structure DoublyNode to represent a node in a doubly linked list. Each node should have three attributes: data, next, and prev. Then, create a class/structure DoublyLinkedList to represent the linked list itself. Implement the following operations: 1. insert_at_beginning(data): Insert a new node with the given data at the beginning of the list. 2. insert_at_end(data): Insert a new node with the given data at the end of the list. 3. traverse_forward (): Traverse the list forward and print the data | Coding + Dry-run | Class Materials |
+ 168: | 47-50 | of each node. LAB: 9. Write a program to a class/structure CircularNode to represent a node in a circular linked list. Each node should have two attributes: data and next. Then, create a class/structure CircularLinkedList to represent the linked list itself. Implement the following operations: 1.insert_at_beginning(data): Insert a new node with the given data at the beginning of the list. 2. traverse(): Traverse the list and print the data of each node. | Coding + Dry-run | Class Materials |
+ 176: | 57-60 | 4 | LAB: 10. Write a program to create a class/structure TreeNode to represent a node in a binary tree. Each node should have three attributes: data, left, and right. Then, create a class/structure BinaryTree to represent the binary tree itself. Implement the following operations: | Coding + Dry-run | Class Materials |
+ 182: | 60-64 | LAB: 11.Write a program to create a class TreeNode to represent a node in a binary tree. Each node should have three attributes: data, left, and right. Then, create a class/structure BinaryTree to represent the binary tree itself. include a method/function find_lca(node1, node2) that takes two node values as input and returns the value of their lowest common ancestor. Assume all values in the tree are unique. | Coding + Dry-run | Class Materials |
+ 183: | 65-68 | LAB: 12.Write a program to create a class TreeNode to represent a node in a binary tree. Each node should have three attributes: data, left, and right. Then, create a class/structure BinaryTree to represent the binary tree itself, to include a method/function find_grandchildren(node) that takes a node value as input and returns a list of values of all the grandchildren of the given node. | Coding + Dry-run | Class Materials |
+ 212: | CIE 3: Lab Program Submissions+ Viva | 5 marks out of 70 |
+ 215: | Semester End Exams (SEE) | Semester End Exams (SEE) |
+ 220: ## Course Outcomes- Programme Outcomes Matrix
+ 222: | Sl.No | Course outcome | Programme Outcome | Programme Outcome | Programme Outcome | Programme Outcome | Programme Outcome | Programme Outcome | Programme Outcome | Programme Outcome | Programme Outcome | Programme Outcome | Programme Outcome | Programme Outcome |
+ 224: | Sl.No | Course outcome | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 |
+ 225: | 1 | CO1: Understan d basic programm ing concepts for data structures | 3 | 2 | 1 | 2 | 1 | 1 | 1 | 2 | 1 | 1 | 1 | 1 |
+ 246: | CIE-2 | Theory | The test will be conducted for 25 marks and will be evaluated according to the Scheme of Evaluation prepared by the team of course faculty. |
+ 251: | CIE-3 | Lab Program Submission + Viva-Voce | Lab Program + Viva-Voce = 5 marks (Refer Table-1) |
+ 257: | Practical Test Graded Component-2 | ● Write-up:12 marks out of 20 (2 programs,each program carries 6 marks) ● Execution:4 marks out of 20 (1 program execution) ● Viva-Voce:4 marks out of 20 (Refer Table-2) Total:20 |
+ 259: Note:Total Lab Program Submission + Viva-Voce: 15 programs each carries 10 marks which sums up to 150 marks and will be down scaled to 5 marks.
+ 264: | SEE | Practical | Write-up:20 marks out of 30(2 programs) Execution: 5 marks out of 30(1 program execution) Viva-Voce: 5 marks out of 30 (Refer Table-3) |
+ 268: Practical Component Evaluation Rubrics: Graded Component 1 Lab Program Submission (GoogleClassRoom) + Viva (10 Marks)
+ 270: ## Lab Program Submission (GoogleClassRoom):6Marks
+ 275: | 2 | Output Accuracy(2) | Program execution and screenshots | Accurate output for all test cases (2) | Minor deviations in output (2) | Correct for basic cases only (1) | Output partially correct (0.5) | Output incorrect (0) |
+ 279: | 3 | Timely Submission(1) | Timestamp in Google Classroom | Submitted before deadline (1) | Submitted on deadline (0.8) | Submitted within 12 hours after deadline (0.6) | Submitted within 24 hours after deadline (0.4) | Not submitted (0) |
+ 292: | 1 | Program Write-up (per program 6M) (12M) | Review submitted document (PDF/notebook) | Complete and accurate problem statement, algorithm, and code; well-organi zed (6) | Minor omissions or formatting issues; logic mostly correct (5) | Partial write-up; minor errors in logic (3-4) | Weak write-up; incomplete algorithm/cod e (2) | Missing or incorrect write-up (1) |
+ 293: | 2 | Program Execution & Output (1 program executio n) (4M) | Instructor observes live execution or reviews recorded output | Code runs successfull y; outputs correct results without guidance (4) | Minor errors; outputs mostly correct; little guidance required (3) | Runs with partial correctness; some guidance needed (2) | Runs with errors; significant guidance needed (1) | Code does not run(0) |
+ 300: Semester End Examinations
+ 304: | 1 | Program Write-up (per program 10 M) (20M) | Review submitted document (PDF/notebook) | Complete and accurate problem statement, algorithm, and code; well-organi zed (9-10) | Minor omissions or formatting issues; logic mostly correct (7-8) | Partial write-up; minor errors in logic (5-6) | Weak write-up; incomplete algorithm/cod e (3-4) | Missing or incorrect write-up (0-2) |
+ 305: | 2 | Program Execution & Output (1 program executio n) (5M) | Instructor observes live execution or reviews recorded output | Code runs successfull y; outputs correct results without guidance (5) | Minor errors; outputs mostly correct; little guidance required (4) | Runs with partial correctness; some guidance needed (3-2) | Runs with errors; significant guidance needed (1) | Code does not run(0) |
+ 308: ## Signature of the Course Faculty
+
+====================================================================================================
+Database_Management_Systems.md
+====================================================================================================
+   3: | Course Code: CS2201 Name of the Programme: B.Sc. Computer Science (Hons.) Name of the Course: Database Management Systems Semester: II | Course Code: CS2201 Name of the Programme: B.Sc. Computer Science (Hons.) Name of the Course: Database Management Systems Semester: II | Course Code: CS2201 Name of the Programme: B.Sc. Computer Science (Hons.) Name of the Course: Database Management Systems Semester: II |
+   5: | Course credit 3 | No. of hours per week (L+ T+P) | Total no. of Teaching hours: |
+   8: ## Course Objectives :
+  15: ## Course outline (Syllabus of the course)
+  19: | Module - 1 | No. of hours |
+  27: No. of hours
+  35: | Module - 3 | No. of hours |
+  41: | Module - 4 | No. of hours |
+  47: | Module - 5 | No. of hours |
+  53: ## Course outcomes
+  77: | 1 | Activity to design a University Management System using DDL commands (CREATE, ALTER, and DROP) in MySQL. The database will consist of 5 tables and cover different DDL operations. Ensure the usage of Primary Keys and Foreign Keys. Modifying Tables Add a new column PhoneNumber (VARCHAR, 15) to the Students table. Modify the CourseName column in Courses to allow up to 150 characters. Remove the Salary column from the Professors table. |
+ 114: | Lab Programs [30 Hrs] | Lab Programs [30 Hrs] |
+
+====================================================================================================
+Deep_Learning.md
+====================================================================================================
+   1: ## Index sheet for Course file
+   6: | 2 | Course outline (Syllabus of the course) (template - 1) | - |
+   8: | 4 | Timetable (of all sections of that course) | - |
+  20: | 8 | Semester End Examination (SEE) | - |
+  28: | 9 | Course-end survey (questions to be specific to the course; not more than 8) | - |
+  30: | 10 | Course attainment | - |
+  34: ## Course outline (Syllabus of the course) (Template - 1)
+  36: Course Code: CS2228
+  38: Name of the Programme: B.Tech (Hons.)
+  40: Name of the Course: Deep Learning
+  42: Semester: V
+  44: | Course credit | No. of hours per week | Total no. of Teaching hours |
+  48: ## Course Objectives :
+  58: | Module - 1 Introduction to Deep Learning | No. of hours |
+  63: | Module - 2 Convolutional Neural Networks | No. of hours |
+  68: | Module - 3 Unsupervised Learning and Generative Modeling with | No. of hours |
+  78: No. of hours
+  86: No. of hours
+  92: | Lab Programs [30 Hours] | Lab Programs [30 Hours] |
+  94: | 1 | Write a program to implement a classification problem using an Artificial Neural Network (ANN). (a) Build the model using varying numbers of hidden layers and neurons in each hidden layer. (b) Use different optimizers and compare their accuracies. (c) Apply dropout and compare the results with those obtained without using dropout by varying the dropout rate. (d) Plot graphs to visualize all the results obtained from the above steps (e) Analyze the impact of hyperparameter tuning (e.g., learning rate, batch size) on model performance. |
+  95: | 2 | Create a program to implement a Convolutional Neural Network (CNN) for the given dataset. (a) Design a customized CNN model. (b) Experiment with and without Batch Normalization and compare their accuracy. (c) Evaluate the results against at least three different CNN variants. (d) Visualize the results by plotting graphs (e) Investigate techniques for handling potential dataset imbalances or applying advanced data augmentation |
+  96: | 3 | Implement a program to build Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) models for the given dataset. (a) Create customized RNN and LSTM architectures. (b) Experiment with variants of RNN and LSTM and compare their performance in terms of accuracy. (c) Analyze and compare the results obtained from RNN and LSTM models. (d) Plot graphs to visualize the loss and accuracy metrics. |
+ 100: Develop a program to implement a Convolutional Neural Network (CNN) for the given dataset.
+ 106: | Course outcomes |
+ 123: | 3. | Practical Deep Learning, Fast.ai (https://course.fast.ai/) |
+ 129: | Name of the Programme: | B.Tech (Hons.) | B.Tech (Hons.) |
+ 131: | Title of the Course: | Deep Learning | Deep Learning |
+ 132: | Course code | CS2228 | CS2228 |
+ 133: | Semester: | IV | IV |
+ 134: | Names of the Course Instructor(s) | | |
+ 135: | Course credit | No. of hours per week (2+0+2) | Total no. of Teaching hours |
+ 136: | 03 | 04 Hours | 60 Hours |
+ 227: | Semester End Exams (SEE): 30% | Semester End Exams (SEE): 30% |
+ 232: ## Course Outcomes- Programme Outcomes Matrix
+ 234: | Program Outcome Course Outcome | Program Outcome Course Outcome | PO 1 | PO 2 | PO 3 | PO 4 | PO 5 | PO 6 | PO 7 | PO 8 | PO 9 | PO1 0 | PO1 1 | PO1 2 |
+ 259: | CIE-2 | Theory | The test will be conducted for 25 marks and will be evaluated according to the Scheme of Evaluation prepared by the team of course faculty. |
+ 273: This rubric is for evaluating individual quiz performance in the Deep Learning course.
+ 334: Course: Deep Learning
+ 353: - ├── README.md (project title, abstract, setup instructions)
+ 367: - Include project title, abstract, setup instructions, and usage guide.
+ 414: Signature of the Course Faculty
+
+====================================================================================================
+Design_and_Analysis_of_Algorithms.md
+====================================================================================================
+   1: ## Course outline (Syllabus of the course) (Template - 1)
+   3: | Course Code: CS2000 | Course Code: CS2000 | Course Code: CS2000 |
+   5: | Name of the Programme: B.Tech(H) Name of the Course: Design Semester: III Course credit | and Analysis of Algorithms No. of hours per week | Total no. of Teaching hours |
+   7: | Course Objectives : | Course Objectives : | Course Objectives : |
+  11: - Master the implementation of fundamental algorithms, such as sorting, searching, and graph traversal, in a programming environment to build robust software solutions.
+  18: No. of hours
+  26: No. of hours
+  32: | Module - 3 G reedy Design Technique | No. of hours |
+  39: ## Module - 4 Dynamic Programming
+  41: No. of hours
+  45: Elements of dynamic programming, illustration of use of dynamic programming with specific examples such as 0/1 Knapsack problem, Matrix chain multiplication, finding longest common subsequence, Bellman-Ford Algorithm, Floyd Warshal's algorithm.
+  49: No. of hours
+  59: | Lab Programs [30 | Lab Programs [30 |
+  61: | 1 | Program to implement Binary Search using Divide and Conquer |
+  62: | 2 | Program to implement minimum and maximum element in given array using Divide and Conquer |
+  63: | 3 | Program to implement Merge sort using Divide and Conquer |
+  64: | 5 | Program to implement Quick sort |
+  65: | 6 | Program to implement Heap sort |
+  66: | 7 | Program to implement Graph Traversal: Breadth First Traversal |
+  67: | 8 | Program to implement Graph Traversal: Depth First Traversal |
+  68: | 9 | Program to implement Knapsack problem using Greedy method |
+  69: | 10 | Program to implement Prim's algorithm using Greedy method |
+  70: | 11 | Program to implement Kruskal's algorithm using Greedy method |
+  71: | 12 | Program to implement All Pairs Shortest Path Using Dynamic Programming |
+  73: | Course Outcomes: After completing the course, the students will be able to: | Course Outcomes: After completing the course, the students will be able to: |
+  77: | Apply greedy & dynamic programming strategies to optimization problems | CO3 |
+  91: | 3. | Complete YouTube Playlist (Hindi) by Shoeb Ahmad (Subject Teacher) Design and Analysis of Algorithms: https://shorturl.at/RYz2L |
+  97: | Name of the Programme: | B.Tech(H) | B.Tech(H) |
+  99: | Title of the Course: | Design and Analysis of Algorithms | Design and Analysis of Algorithms |
+ 100: | Course code | CS2000 | CS2000 |
+ 101: | Semester: | III | III |
+ 102: | Names of the Course Instructor(s) | Prof. Shoeb Ahmad, Prof. Kalpana Devi S, Prof. Shivi Sharma | Prof. Shoeb Ahmad, Prof. Kalpana Devi S, Prof. Shivi Sharma |
+ 103: | Course credit | No. of hours per week (2+1+2) | Total no. of Teaching hours |
+ 104: | 04 | 05 Hours | 60 Hours |
+ 111: | 4. | Lab 1: Program to implement Binary Search using Divide and Conquer | Hands-on using Hacker rank | [Levitin] Ch. 4, [Cormen] Ch. 2.3 |
+ 115: | 8. | Lab 2: Program to implement minimum and maximum element in given array using Divide and Conquer | Hands-on using Hacker rank | [Levitin] Ch. 4, [Cormen] Ch. 4.1 |
+ 122: | 12. | Lab 3: Merge | Program to implement sort using Divide and Conquer Hands-on using Hacker rank | [Cormen] Ch. 2.3, 4; [Levitin] Ch. 4 |
+ 124: | 13. | Divide & Conquer: Strassen's Matrix Multiplication Lab 4: Program to implement Quick sort Heap sort Basics of graphs : Graph representation DFS Lab 5: Program to implement | Merge Sort Interactive lecture | Cormen] Ch. 2.3, 7.1-7.4, [Levitin] Ch. 4 |
+ 135: | 24. | Lab 6: Program to implement Graph Traversal: Breadth First Traversal | Hands-on using Hacker rank | [Cormen] Ch. 22.2, [Levitin] Ch. 6 |
+ 142: | 28. | Lab 7: Program to implement Graph Traversal: Depth First Traversal | Hands-on using Hacker rank | [Cormen] Ch. 22.3, [Levitin] Ch. 6 |
+ 147: | 32. Lab 8: Program to implement Knapsack problem using Greedy method | Hands-on using Hacker rank | | [Cormen] Ch. 16.2, [Levitin] Ch. 9 |
+ 150: | 35. Elements of | dynamic programming | Interactive lecture | [Cormen] Ch. 15, [Levitin] Ch. 8 |
+ 151: | 36. | Lab 9: Program to implement Prim's algorithm using Greedy method | Hands-on using Hacker rank | [Cormen] Ch. 23.2, [Levitin] Ch. 9 |
+ 155: | 40. Lab 10: Program to implement Kruskal's algorithm using Greedy method | Hands-on using Hacker rank | | [Cormen] Ch. 23.2, [Levitin] Ch. 9 |
+ 159: | 44. Lab 11: Program to implement All Pairs Shortest Path Using Dynamic Programming | Hands-on using Hacker rank | | [Cormen] Ch. 25.2, [Levitin] Ch. 8 |
+ 167: | 45. | | Lab 12: Program to implement N-Queen's problem using Backtracking | Hands-on using Hacker rank | [Levitin] Ch. 11, |
+ 190: | - Quiz Graded Component - Problem Solving / Programs | 10 marks out of 70 10 marks out of 70 |
+ 193: | CIE-3 - Lab Experiment - Viva - Programming Assessment | 4 marks out of 70 6 marks out of 70 15 marks out of 70 |
+ 195: | Semester End Exams (SEE): 30% | Semester End Exams (SEE): 30% |
+ 200: ## Course Outcomes- Progamme Outcomes Matrix
+ 202: | Program Outcome Course Outcome | Program Outcome Course Outcome | PO 1 | PO 2 | PO 3 | PO 4 | PO 5 | PO 6 | PO 7 | PO 8 | PO 9 | PO1 0 | PO1 1 | PO1 2 |
+ 204: | CO 1 | CO1: Design algorithms for addressing sub problems and tasks involving an algorithm component using appropriate design techniques (brute force, greedy, dynamic programming, | 3 | 2 3 | | | 3 | 1 | | | | | | |
+ 210: | CO 2 | CO2: Implement a variety of standard algorithms typically covered in an undergraduate course on Design and Analysis of Algorithms | 3 | 2 | 3 | | 3 | |
+ 224: | Quiz Graded Component 1 Problem Solving / Programs | Quiz will be conducted for 10 marks. Each right answer carries one mark each. No negative marking for wrong answers. Problem Solving / Programs will be conducted for 10 marks. | CIE-1 |
+ 229: | CIE-2 | Theory | Test will be conducted for 25 marks and will be evaluated according to Scheme of Evaluation prepared by team of course faculty. |
+ 236: | CIE-3 | Practical Component | Lab Experiment+ Viva = 4+6 marks (Refer Table-3) Programming Assessment (Hacker rank) = 15 Marks |
+ 247: | 2. | Execution (2 Marks) | Observatio ns | Student demonstrat es the execution of the program with optimized code and shows performanc e efficiency. Appropriat e validations with all test cases are handled. | Student demonstrate s the execution of the program without optimization of the code and shows performance efficiency with only few test cases. | Student has not executed the program. |
+ 260: ## Signature of the Course Faculty
+
+====================================================================================================
+Digital_Logic.md
+====================================================================================================
+   3: | Course Code: CS1107 Name of the Programme: BCA (Hons.) Name of the Course: Digital Logic Semester: I | Course Code: CS1107 Name of the Programme: BCA (Hons.) Name of the Course: Digital Logic Semester: I | Course Code: CS1107 Name of the Programme: BCA (Hons.) Name of the Course: Digital Logic Semester: I |
+   5: | Course Credit | Course Credit | No. of Hours Per Week (L+ T + P) Total No. of Teaching Hours |
+   7: | Course Objectives : | Course Objectives : | Course Objectives : |
+  13: ## Course outline (Syllabus of the course)
+  15: | Module - 1 (Digital Systems and Binary Numbers, Boolean Algebra and Logic Gates ) | No. of Hours |
+  22: | Module - 2 (Gate Level Minimization) | No. of Hours |
+  28: | Module - 3 (Combinational Circuits) | No. of Hours |
+  36: No. of Hours an initiative of RV EDUCATIONAL INSTITUTIONS
+  41: | Module - 5 (Memory and Programmable Logic) | No. of Hours |
+  42: | Module - 5 (Memory and Programmable Logic) | 3 Hrs. |
+  44: Introduction, Random access memory, memory decoding, read only memory, programmable logic array, programmable array logic, sequential programmable devices.
+  46: ## Course Outcomes:
+  51: - d) Evaluate the role and functionality of memory and programmable logic devices like RAM, ROM, and PLDs in digital systems.
+
+====================================================================================================
+Digital_Systems_&_Computer_Architecture.md
+====================================================================================================
+   5: | Name of the Programme: | B.Tech(Hons.) | B.Tech(Hons.) |
+   7: | Title of the Course: | Digital Systems & Computer Architecture | Digital Systems & Computer Architecture |
+   8: | Course code | CS1101 | CS1101 |
+   9: | Semester: | I | I |
+  10: | Names of the Course Instructor(s) | Dr. Vidya M J, Prof. Aisiri K S ,Dr. R.V. Madhusudhan,Dr. Shyam Mohan, Prof. Shilpa Hiremath, Dr. Nagaraj J | Dr. Vidya M J, Prof. Aisiri K S ,Dr. R.V. Madhusudhan,Dr. Shyam Mohan, Prof. Shilpa Hiremath, Dr. Nagaraj J |
+  11: | Course credit | No. of hours per week (2+0+2) | Total no. of Teaching hours |
+  12: | 03 | 04 Hours | 60 Hours |
+ 104: | Semester End Exams (SEE): 30% | |
+ 109: ## Course Outcomes- Progamme Outcomes Matrix
+ 111: | Course Outcomes | Course Outcomes | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 |
+ 150: | CIE-2 | Theory | Test will be conducted for 25 marks and will be evaluated according to Scheme of Evaluation prepared by team of course faculty. |
+
+====================================================================================================
+Discrete_Mathematics_and_Set_Theory.md
+====================================================================================================
+   1: | Name of the Programme: | B.Tech(Hons.) | B.Tech(Hons.) |
+   3: | Title of the Course: | Discrete Mathematics & Set Theory | Discrete Mathematics & Set Theory |
+   4: | Course code | CS1812 | CS1812 |
+   5: | Semester: | I | I |
+   6: | Names of the Course Instructor(s) | Dr. Rekha Satish Dr. Shrikant Udagi Dr. Manjunath S | |
+   7: | Course credit | No. of hours per week (2+1+0) | Total no. of Teaching hours |
+   8: | 03 | 03 Hours | 45 Hours |
+  89: | Semester End Exams (SEE) | Semester End Exams (SEE) |
+  94: ## Course Outcomes- Programme Outcomes Matrix
+  96: | Program Outcome Course Outcome | PO 1 | PO 2 | PO 3 | PO 4 | PO 5 | PO 6 | PO 7 | PO 8 | PO 9 | PO 10 | PO 11 | PO 12 |
+ 137: | Paper) and will be evaluated according to the Scheme of Evaluation prepared by team of course faculty. |
+ 162: ## Signature of the Course Faculty
+
+====================================================================================================
+Embedded_System_and_ARM_Microcontroller.md
+====================================================================================================
+   3: Course Code: CS1120
+   5: Name of the Programme : B.Tech (H.)
+   7: Name of the Course: : Embedded System and ARM Microcontroller
+   9: Semester: II
+  11: | Course credit 3 | No. of hours per week (L + T + P): 2:0:2 | Total no. of Teaching hours : 60 |
+  14: ## Course Objectives :
+  17: - b) Gain proficiency in programming RP2040 microcontrollers using C and Assembly for GPIO and peripheral interfacing.
+  21: ## Course outline (Syllabus of the course) - Template - 1
+  27: No. of hours
+  31: Introduction to Embedded Systems and Memory: Basic embedded system design: Characteristics and design challenges, Types of memory and memory mapping of a typical C program: Code, data, and stack.
+  35: No. of hours
+  39: Programming GPIOs on Raspberry Pi Pico: System overview of RP2040: Salient features,Developing programs to control LEDs through GPIOs on Raspberry Pi Pico, using the Wokwi online board emulator to simulate programs, Running programs on RP2040: Understanding its internal architecture, including AHB-Lite crossbar, SRAM, and SIO.
+  43: No. of hours
+  47: Overview of ARM architectures and processors: Cortex-A, Cortex-R, and Cortex-M families, ARM Cortex programmer model,Stack implementation in the Cortex-M0+ processor, Basics of pipelining, understanding and interpreting arithmetic, MOV, Bx instructions, and conditional flags in branch instructions.
+  51: | Module - 4 | No. of hours 5 |
+  53: | Advanced Assembly Programming : Writing assembly programs using ADD, SUB, LDR and STR instructions, Parameter passing to functions from high-level languages, Application Binary Interface (ABI) and AAPCS (ARM Procedure Call Standard),Developing programs using CMP, LDR, STR, and logical instructions. | Advanced Assembly Programming : Writing assembly programs using ADD, SUB, LDR and STR instructions, Parameter passing to functions from high-level languages, Application Binary Interface (ABI) and AAPCS (ARM Procedure Call Standard),Developing programs using CMP, LDR, STR, and logical instructions. |
+  55: | Module - 5 | No. of hours 4 |
+  57: | Peripherals Programming : Using Push, and Pop instructions to write assembly programs, Developing applications using SDK, Software development using I2C and DMA modules. Introduction to ISR. | Peripherals Programming : Using Push, and Pop instructions to write assembly programs, Developing applications using SDK, Software development using I2C and DMA modules. Introduction to ISR. |
+  59: | Course outcomes | Course outcomes |
+  62: | b) | Get familiarized with the programming environment to develop embedded solutions. |
+  63: | c) | Program ARM microcontroller to perform various tasks and stack implementation in Cortex-M0+. |
+  79: | Sl No. | List of Experiments (30 Hours) |
+  81: | 1 | a) Blink the LED_BUILTIN using a blink LED program from examples and Display 'Hello World 'Using the Serial monitor tool. b) Write a program to blink 2 alternate LEDs out of 4 LEDs with delay of 3 and 5 seconds respectively. |
+  82: | 2 | a) Write a program to display the numbers in the increasing and decreasing order from 1 to 15 and vice versa in binary form, using 4 LEDs, with a delay of 1 sec. When it reaches the maximum value (15), start counting down to 1, then again begin counting up to 15, then start from 1. Whenever it comes to the Max or Min value, wait for 2 seconds. b) Write a program to display only odd , even numbers in binary form, using 4 LEDs, with a delay of 1 sec. When it reaches the maximum value, wait 2 seconds and start from the minimum. |
+  83: | 3 | a) Write an assembly function that just returns 200 back to the C program and write an assembly function that returns sum of three constants 10, 20 and30, and returns the result. b) Write an assembly function that returns sum of four constants 10, 20, 30 and40, and returns the result. c) Write an assembly function that returns sum of five constants 10, 20, 30, 40and 50, and returns the result. |
+  84: | 4 | a) Write an ARM assembly function that takes three constants as inputs from C++ program, perform ADD operation, and returns the result to the C++ program. b) Write an ARM assembly function that takes two input parameters, performs an AND, OR logic operation on it, and returns the result to a calling C++ program. c) Write an ARM assembly function that takes one input parameter, performs a bitwise NOT operation on it, and returns the result to a calling C++ program. |
+  85: | 5 | a) Write an ARM assembly function that performs 2 times logical shift right operation on one parameter and returns the result to a calling C++ program. b) Write an ARM assembly function that performs 2 times logical shift right and 4 times logical shift left operation on one parameter and returns the result to a calling C++ program. |
+  86: | 6 | a) Write an ARM assembly function that performs 8 times arithmetic shift right operation on one signed (Negative number) parameter and returns the result to a calling C++ program. |
+  94: | 9 | Write a program for the Raspberry Pi Pico to transmit and receive data through serial communication (UART) port. Transmitting and Receiving Board (RP2040): UART0, GP0 (UART0 Tx), GP1 (UART0 Rx) |
+  95: | 10 | Write a program to control one slave device from one master device using serial communication through the I2C port with the following specifications.Master Slave Board (RP2040): I2C0,GPIO pins: GP0 (I2C0 SDA), GP1 (I2C0 SCL) |
+
+====================================================================================================
+Engineering_Explorations.md
+====================================================================================================
+   3: | Semester: I /II | Semester: I /II | Semester: I /II | Semester: I /II | Semester: I /II | Semester: I /II |
+   5: | Course Title: Engineering Explorations (Theory and Lab) Category: Multidisciplinary | Course Title: Engineering Explorations (Theory and Lab) Category: Multidisciplinary | Course Title: Engineering Explorations (Theory and Lab) Category: Multidisciplinary | Course Title: Engineering Explorations (Theory and Lab) Category: Multidisciplinary | Course Title: Engineering Explorations (Theory and Lab) Category: Multidisciplinary | Course Title: Engineering Explorations (Theory and Lab) Category: Multidisciplinary |
+   6: | Course Code | : | CS1841 | CIE | : | 70 Marks |
+   7: | Credits L:T:P Hours | : | 3 2:0:2 | SEE | : | 30 Marks |
+   8: | Total Hours | : | 30L+30P | SEE Duration | : | 2:00 Hours |
+  10: Course Overview The course "Engineering Explorations" is designed to provide a comprehensive introduction to engineering visualization, manufacturing techniques, and emerging technologies in engineering. The syllabus begins with the fundamentals of engineering drawing, including BIS conventions, freehand sketching, and an overview of Computer-Aided Drafting (CAD) software. The course covers orthographic projections of points, lines, planes, and solids using first-angle projection methods to develop spatial reasoning. Isometric projection techniques are taught to represent three-dimensional objects accurately. An introduction to Additive Manufacturing (AM) familiarizes students with 3D printing processes, materials, and post-processing methods. Practical sessions include modeling and printing geometric shapes like triangles, pentagons, and hexagons. Students also engage in interdisciplinary 2D drafting and 3D printing projects.
+  62: ## Course Outcomes: After completing the course, the students will be able to: -
+
+====================================================================================================
+English_Communication.md
+====================================================================================================
+   3: Course Code: CS1927
+   5: Name of the Programme:
+   9: Name of the Course: English Communication
+  11: ## Semester: II
+  13: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+  17: ## Course Objectives :
+  24: ## Course outline (Syllabus of the course)
+  28: | Module - 1 | No. of hours |
+  42: | Module - 3 | No. of hours |
+  50: No. of hours
+  66: ## Course outcomes
+  79: - 1 Online course from the Hindu Group, the STEP English course.
+  81: No. of hours
+  85: RV Vidyaniketan, 8h Mile, Mysuru Road, Bengaluru, 560059, India Ph: +91 80 68199900 | www.rvu.edu.in No. of hours
+
+====================================================================================================
+Entrepreneurial_Mindset.md
+====================================================================================================
+   1: ## Course outline
+   3: Course Code: 1904
+   5: Name of the Programme: Skill Enhancement
+   7: Name of the Course: Entrepreneurial Mindset
+   9: Semester: II
+  11: | Course credit | No. of hours per week | Total no. of Teaching hours |
+  15: ## Course Objectives :
+  27: No. of hours
+  35: No. of hours
+  43: No. of hours
+  51: No. of hours
+  61: No. of hours
+  69: | Lab Plan | [30 Hours] |
+  74: | 4 | Day 3: submit business title, create a finance sheet in FKCCI template |
+  76: | 6 | Day 4: write the problem statement, BMC, business title, product description and submit. |
+  78: ## Course outcomes
+ 100: | Name of the Programme: | Skill Enhancement | Skill Enhancement |
+ 102: | Title of the Course: | Entrepreneurial Mindset | Entrepreneurial Mindset |
+ 103: | Course code | CS1904 | CS1904 |
+ 104: | Semester: | II | II |
+ 105: | Names of the Course Instructor(s) | Prof. Chidhananda R S Prof. Chethan Kumar G Prof. N Suresh | Prof. Chidhananda R S Prof. Chethan Kumar G Prof. N Suresh |
+ 106: | Course credit: | No. of hours per week (1+0+2) | Total no. of Teaching hours |
+ 107: | 02 | 03 Hours | 45 Hours |
+ 135: | 5 | Integrated Business Submission | Mentorship review + refinement | All course references | 21. |
+ 146: | CIE-3 ● submit business title, sheet in FKCCI template: Component 4 ● create a 5 min pitch for your choice, record a Graded Component 5 ● write the problem business title, product submit: Graded | |
+ 149: | Semester End Exams (SEE): 30% | Semester End Exams (SEE): 30% |
+ 156: ## Course Outcomes- Progamme Outcomes Matrix
+ 158: | Program Outcome Course Outcome | Program Outcome Course Outcome | PO 1 | PO 2 | PO 3 | PO 4 | PO 5 | PO 6 | PO 7 | PO 8 | PO 9 | PO 10 | PO 11 | PO 12 |
+ 206: | CIE-2 | Theory | The test will be conducted for 25 marks and will be evaluated according to the Scheme of Evaluation prepared by the team of course faculty. |
+ 211: | 1 | Business Title & Finance Sheet (FKCCI Template) | 5 Marks, Business Title & Finance Sheet (FKCCI Template) Table-4 |
+ 213: | 3 | Written Submission | 15 Marks, Problem Statement, BMC, Business Title, Product Description Table-6 |
+ 219: ## Component 1: Business Title &amp; Finance Sheet (FKCCI Template)
+ 223: | Business Title & Finance Sheet | Business title is clear, relevant, and professional. Finance sheet is accurately filled as per FKCCI template with correct assumptions and calculations. | Business title is appropriate. Finance sheet is mostly correct with minor errors or missing details. | Business title is vague. Finance sheet is partially filled or lacks accuracy. | Business title is unclear or irrelevant. Finance sheet is incomplete or incorrect. |
+ 235: ## Component 3: Problem Statement, BMC, Business Title, Product Description
+ 239: | Problem Statement, BMC, Business Title, Product Description | Exceptionally clear and well-organized submission. Strong problem definition, detailed product description, complete BMC, and a relevant business title. Logical flow and professional presentation. | Good submission covering all required components. Minor gaps in clarity, depth, or integration between sections. | Basic submission with limited depth. Some components are weak, unclear, or poorly connected. | Incomplete or poorly structured submission. Major components missing or inadequately explained. |
+ 241: ## Signature of the Course Faculty
+
+====================================================================================================
+Ethical_Hacking.md
+====================================================================================================
+   3: | Course Code: CS3432 Name of the Programme: B.Tech Name of the Course: Ethical Hacking Essentials Semester: VI | Course Code: CS3432 Name of the Programme: B.Tech Name of the Course: Ethical Hacking Essentials Semester: VI | Course Code: CS3432 Name of the Programme: B.Tech Name of the Course: Ethical Hacking Essentials Semester: VI |
+   5: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+   7: | Course Objectives: | Course Objectives: | Course Objectives: |
+  13: ## Course outline (Syllabus of the course)
+  19: No. of hours
+  25: | Module - 2: | No. of hours |
+  58: No. of hours
+  62: No. of hours
+  66: No. of hours
+  84: | Course outcomes | Course outcomes |
+  96: - 1 Michael T. Simpson, Kent Backman, and James E. Corley, Hands-On Ethical Hacking and Network Defense, Course Technology, Delmar Cengage Learning, 2011, ISBN: 9781133169031
+ 102: - [2 https://eccouncil.org/academia/course/ethical-hacking-essentials?logged=false](https://eccouncil.org/academia/course/ethical-hacking-essentials?logged=false)
+
+====================================================================================================
+Exploring_Science.md
+====================================================================================================
+   5: | Name of the Programme: | B.Tech (Hons) | |
+   7: | Title of the Course: | Exploring Science | |
+   8: | Course code | CS1804 | |
+   9: | Semester: | 1 | |
+  10: | Names of the Course Instructor(s) | Dr. Durgarao Guttula Dr. Subir Roy | |
+  11: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+  65: | Semester End Exams (SEE) | Semester End Exams (SEE) |
+  70: Course Outcomes - Programme Outcomes Matrix an initiative of RV EDUCATIONAL INSTITUTIONS
+  72: | CO No. | Course Outcome | PO 1 | PO 2 | PO 3 | PO 4 | PO 5 | PO 6 | PO 7 | PO 8 | PO 9 | PO 10 | PO 11 | PO 12 |
+  87: | Programme Outcome | PO1, PO2, PO3, PO4, PO6, PO7, PO8 |
+  94: | Programme Outcome | PO1, PO2, PO3, PO4, PO5, PO6, PO7, PO8, PO9, PO10, PO11, PO12 | PO1, PO2, PO3, PO4, PO5, PO6, PO7, PO8, PO9, PO10, PO11, PO12 | PO1, PO2, PO3, PO4, PO5, PO6, PO7, PO8, PO9, PO10, PO11, PO12 | PO1, PO2, PO3, PO4, PO5, PO6, PO7, PO8, PO9, PO10, PO11, PO12 | PO1, PO2, PO3, PO4, PO5, PO6, PO7, PO8, PO9, PO10, PO11, PO12 | PO1, PO2, PO3, PO4, PO5, PO6, PO7, PO8, PO9, PO10, PO11, PO12 |
+ 116: | Programme Outcome | PO1, PO2, PO3, PO4, PO5, PO6, PO7, PO8, PO9 |
+ 119: | CIE-2 | Pen and paper. Evaluation will be done according to the Scheme of evaluation provided by the course faculty |
+ 137: | Programme Outcome | PO1, PO2, PO3, PO4, PO5, PO6, PO7, PO8, PO9, PO10, PO11, PO12 | PO1, PO2, PO3, PO4, PO5, PO6, PO7, PO8, PO9, PO10, PO11, PO12 | PO1, PO2, PO3, PO4, PO5, PO6, PO7, PO8, PO9, PO10, PO11, PO12 | PO1, PO2, PO3, PO4, PO5, PO6, PO7, PO8, PO9, PO10, PO11, PO12 | PO1, PO2, PO3, PO4, PO5, PO6, PO7, PO8, PO9, PO10, PO11, PO12 | PO1, PO2, PO3, PO4, PO5, PO6, PO7, PO8, PO9, PO10, PO11, PO12 |
+
+====================================================================================================
+GenAI.md
+====================================================================================================
+   1: ## Course outline (Syllabus of the course)
+   3: | Course Code: CS3234 | Course Name: Foundations of Generative AI | Course Name: Foundations of Generative AI |
+   5: | Semester: 6 | Area: Specialization | SEE Type : Theory (30 Marks) |
+   6: | Credits: 3 | No. of hours per week (L + T + P): 2 + 0 + 2 | Contact Hrs: 60 Hours |
+   8: ## Prerequisite(Course/Skill/Knowledge):
+  11: - Programming Skills (Python)
+  17: No. of hours
+  27: No. of hours
+  35: No. of hours
+  43: | Module - 5 Applications of LLMs and Ethical Considerations | No. of hours |
+  51: ## Course outcomes
+  71: | Lab Programs (30 Hours) | Lab Programs (30 Hours) |
+  87: | 15 | Implement a course project using LLMs such as Llama/Gemini with stream lit / gradio as front-end |
+  91: | Name of the Programme: | B.Tech (Hons) | B.Tech (Hons) |
+  93: | Title of the Course: | Foundations of Generative AI | Foundations of Generative AI |
+  94: | Course code | CS3234 | CS3234 |
+  95: | Semester: | VI | VI |
+  96: | Course credit | No. of hours per week (2+0+2) | Total no. of Teaching hours |
+  97: | 3 | | 60 Hours |
+ 136: | 45,46 | Lab Ex. 15: Implement a course project using LLMs such as Llama/Gemini with stream lit / gradio as front-end | Hands-on Practice in Lab | Refer Python Coding |
+ 152: | 2 | CIE 2 - Pen and Paper Exam | Component 3 - Test will be conducted for 25 marks and will be evaluated according to Scheme of Evaluation prepared by team of course faculty |
+ 153: | 3 | CIE 3 - Practical Component | Component 4 - Course Project (20 Marks) Lab Record Submission (5 Marks) |
+ 155: | Semester End Exams (SEE): 30% | Semester End Exams (SEE): 30% |
+ 160: ## Course Outcomes- Progamme Outcomes Matrix
+ 162: | Course Outcomes | Course Outcomes | PO 1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 |
+ 180: | CP 3 (25 Marks) [For practical subjects to be conducted out of 50 reduce to 25] | CP 3 (25 Marks) [For practical subjects to be conducted out of 50 reduce to 25] | CP 3 (25 Marks) [For practical subjects to be conducted out of 50 reduce to 25] | CP 3 (25 Marks) [For practical subjects to be conducted out of 50 reduce to 25] | CP 3 (25 Marks) [For practical subjects to be conducted out of 50 reduce to 25] |
+ 182: | 4 | CO1 - CO4 | 20 | Component 4 - Course Project | Week 13 |
+ 194: | Courses: Graded Component-2 | Certificate of completion for 10 marks. Students should complete MOOC Courses and submit the proof in Google Classroom. (Refer Table-1) |
+ 196: Assess students' ability to complete MOOC courses and reflect on their learning.
+ 200: | Completion of Courses (10 Marks) | Successfully completes all MOOC Courses before the deadline. Certificates are uploaded to Google Classroom with no errors. | Completes some courses or has minor errors in uploading certificates. | Fails to complete the courses or does not upload certificates. |
+ 205: | CIE-2 | Theory | Test will be conducted for 25 marks and will be evaluated according to Scheme of Evaluation prepared by team of course faculty. |
+ 209: | a) Course Project | a) Course Project | a) Course Project |
+ 250: Signature of the Course Faculty
+
+====================================================================================================
+Incident_Response_and_Digital_Forensics.md
+====================================================================================================
+   3: | Course Code: CS2406 Name of the Programme: B.Tech Name of the Course: Incident Response and Digital Forensics Semester: IV | Course Code: CS2406 Name of the Programme: B.Tech Name of the Course: Incident Response and Digital Forensics Semester: IV | Course Code: CS2406 Name of the Programme: B.Tech Name of the Course: Incident Response and Digital Forensics Semester: IV |
+   5: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+   7: | Course Objectives: | Course Objectives: | Course Objectives: |
+  13: ## Course outline (Syllabus of the course)
+  17: | Module - 1 | No. of hours |
+  31: No. of hours
+  45: No. of hours
+  59: Tutorials: 15 hours
+  67: No. of hours
+  71: No. of hours
+ 108: ## Course outcomes
+ 124: | Name of the Programme: | B.Tech(H) | |
+ 126: | Title of the Course: | Incident Response and Digital Forensics | |
+ 127: | Course code | CS2406 | |
+ 128: | Semester: | IV | |
+ 129: | Names of the Course Instructor(s) | Dr Basavaraj Patil | |
+ 130: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+ 208: | 2 credit courses | 30 hours |
+ 210: | 3 credit courses | 45 hours |
+ 211: | 4 credit courses | 75 hours |
+ 215: | - | A course shall have a minimum of 3 modules and maximum 5 modules |
+ 217: | - | Each module will be covered in minimum 6 hours and maximum 12 hours |
+ 230: | Semester End Exams (SEE) | Semester End Exams (SEE) |
+ 235: ## Course Outcomes- Program Outcomes Matrix
+ 237: | Sl.N o | Course outcome | PO 1 | PO 2 | PO 3 | PO 4 | PO 5 | PO 6 | PO 7 | PO 8 | PO 9 | PO 10 | PO 11 |
+ 251: | CIE-1 | Assignment | 10 | Assignment will be evaluated for 10 marks based on assessment criteria prepared by the course faculty. |
+ 252: | CIE-2 | Pen and Paper | 25 | Test will be conducted for 25 marks and will be evaluated according to the Scheme of Evaluation prepared by the course faculty. |
+ 254: | CIE-3 | Case-study Assignment & presentation | 15 | Prepare the research article related to the course and submit the draft copy and presentation. |
+
+====================================================================================================
+Introduction_to_Version_Control.md
+====================================================================================================
+   1: ## Course outline (Syllabus of the course)
+   3: ## Course Code:CS1105
+   5: Name of the Programme: BSC (Honors)
+   7: Name of the Course: Introduction to Version Control
+   9: Semester: II
+  11: | Course credit | No. of hours per week | Total no. of Teaching hours |
+  15: ## Course Objectives :
+  24: | Tutorials [15 Hours] | Tutorials [15 Hours] |
+  26: | 1 | Introduction to competitive programming and coding platforms: LeetCode, HackerRank, Codeforces |
+  42: | Lab Programs | Lab Programs | [30 Hours] |
+  60: ## Course outcomes
+  63: - b) Develop problem-solving abilities using coding platforms and real-world programming tasks.
+  80: | 3. | Natural Language Processing - Course - Swayam - NPTEL. (https://onlinecourses.nptel.ac.in/noc19_cs56/preview) |
+  82: | 4. | Applied Natural Language Processing- Course - Swayam - NPTEL. https://onlinecourses.nptel.ac.in/noc20_cs87/preview) |
+
+====================================================================================================
+IoT.md
+====================================================================================================
+   3: Course Code:
+   7: Name of the Programme: B.Tech(H)
+   9: Name of the Course:
+  13: Semester: 3 rd
+  15: | Course credit: 3 | No. of hours per week (L + T + P) 0:2:2 | Total no. of Teaching hours : 60 Hours |
+  18: ## Course Objectives :
+  21: - b) To enable students to interface and program microcontrollers such as Arduino and ESP32 with various sensors and actuators.
+  25: ## Course outline (Syllabus of the course)
+  29: | Module - 1: Introduction to IoT and Development Platforms | No. of hours |
+  33: Introduction to the concept, origin, and evolution of the Internet of Things (IoT). It covers the architecture of IoT systems, the significance of IoT in today's connected world, and its application across various domains such as smart homes, agriculture, and healthcare. Students are introduced to development boards like Arduino UNO and ESP32 , their programming environments (Arduino IDE), and the workflow of writing, compiling, and uploading code. Basic GPIO operations, digital input/output, and LED control serve as the foundation for hands-on learning.
+  37: No. of hours
+  41: This module focuses on understanding the types, working principles, and integration of sensors and actuators. Students learn to interface analog and digital sensors with Arduino/ESP32 and write programs to read sensor data. Actuators such as buzzers, motors, and relays are also introduced. Students work on real-time data acquisition and feedback mechanisms, such as triggering alarms or controlling devices based on sensor inputs.
+  45: No. of hours
+  53: No. of hours
+  61: No. of hours
+  67: ## Course outcomes
+  70: - b) Interface and program sensors, actuators, and communication modules with Arduino and ESP32 boards.
+  83: | 1 | Simon Monk-Programming Arduino: Getting Started with Sketches (2nd Edition), McGraw-Hill Education |
+
+====================================================================================================
+Linear_Algebra.md
+====================================================================================================
+   5: ## Semester-II
+   7: Course Code: CS1807
+   9: Name of the Programme: B.Tech (H)
+  11: Name of the Course: Linear Algebra
+  13: Semester: 2
+  15: | Course Credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+  19: ## Course Objectives:
+  28: | Module - 1: Linear Equations | No. of hours |
+  33: | Module - 2: Span and subspaces | No. of hours |
+  38: | Module - 3: Linear transformations | No. of hours |
+  45: RV Vidyaniketan, 8º Mile, Mysuru Road, Bengaluru, 560059, India Ph : +91 80 68199900 | www.rvu.edu.in No. of hours
+  53: No. of hours
+  59: ## Course Outcomes
+
+====================================================================================================
+Linux_and_Shell_programming.md
+====================================================================================================
+   5: | Name of the Programme: | B.Sc(H) | |
+   7: | Title of the Course: | Linux and Shell Programming | |
+   8: | Course code | CS1104 | |
+   9: | Semester: | I | |
+  10: | Names of the Course Instructor(s) | Prof. Muralidhar Billa Pof. Mytheri S N | |
+  11: | Course credit | No. of hours per week (L + T + P) (2:0:2) | Total no. of Teaching hours |
+  18: | 3 | 1 | Lab Program 1 - Create, copy files (ls, cp, mkdir) | Students create 3 directories, copy 2 text files using cp, and list contents with ls in a terminal, submitting a screenshot of commands and outp ut. | James Arthur, Ch. 2 |
+  19: | 4 | 1 | Lab Program 1 - Move, delete files (mv, rm, rmdir) | Students move files with mv, delete 2 files using rm, remove a directory with rmdir, and verify changes with ls, submitting a lab log. | James Arthur, Ch. 2 |
+  25: | 7 | | Lab Program 2 - Investigate/modi fy file permissions (chmod) | Students change permissions using chmod (e.g., 644 to 755), verify with ls -l, and explain changes in a pair discussion, submitting a log. | James Arthur, Ch. 3 |
+  27: | 8 | | Lab Program 2 - Investigate permissions for users/groups (chown, chgrp) | Students modify permissions for users/groups using chmod and chgrp, test access with a test user, and submit a report with results. | James Arthur, Ch. 3 |
+  30: | 11 | | Lab Program 3 - Display file content with line numbers (cat -n) | Students use cat -n and nl on a text file, compare outputs, and write a script to display numbered content, submitting the script and output. | Sumitabha Das, Ch. 5 |
+  31: | 12 | | Lab Program 3 - Explore file content commands (more, less) | Students navigate a large file using more and less, search for specific text, and document navigation steps in a lab report. | Sumitabha Das, Ch. 3 |
+  34: | 15 | 2 | Lab Program 4 - Count words, | Hands-on Lab: Students use wc to count words and lines, write a | James Arthur, Ch. 7 |
+  40: | 16 | Lab Program 4 - Count characters in a file | Hands-on Lab: Students use wc -m to count characters, test on 2 files, and submit a lab report with character counts and commands. | James Arthur, Ch. 7 |
+  43: | 19 | Lab Program 5 - Arithmetic operations: addition, subtraction | Hands-on Lab: Students write a script for addition and subtraction with user input, test with 3 inputs, and submit the script and output screenshots. | James Arthur, Ch. 4 |
+  44: | 20 | Lab Program 5 - Arithmetic operations: multiplication, division | Hands-on Lab: Students extend the script for multiplication and division, handle division by zero, and submit updated script with test results. | James Arthur, Ch. 4 |
+  47: | 23 | Lab Program 6 - String concatenation | Hands-on Lab: Students write a script to concatenate 2 user-input strings, test with 3 cases, and submit the script and concatenated outputs. | Sumitabha Das, Ch. 6 |
+  51: | 24 | | Lab Program 6 - Substring extraction | Hands-on Lab: Students extract substrings using cut or parameter expansion, test 3 cases, and submit a lab report with results and commands used. | Sumitabha Das, Ch. 6 |
+  55: | 27 | 3 | Lab Program 7 - Generate multiplication table | Hands-on Lab: Students write a script to print a multiplication table for a user-input number, test with 3 inputs, and submit the script and output. | James Arthur, Ch. 5 |
+  56: | 28 | 3 | Lab Program 7 - Debug multiplication table script | Hands-on Lab: Students debug a faulty multiplication table script, fix errors, and submit a lab report explaining corrections and final output. | James Arthur, Ch. 5 |
+  59: | 31 | 3 | Lab Program 8 - Remove lines with specific word (grep) | Hands-on Lab: Students use grep -v to exclude lines with a word, test on 2 files, and submit filtered outputs with commands used. | Sumitabha Das, Ch. 8 |
+  60: | 32 | 3 | Lab Program 8 - Remove lines using sed | Hands-on Lab: Students use sed to delete lines with a pattern, test on 2 files, and submit a lab report with modified files and commands. | Sumitabha Das, Ch. 8 |
+  67: | 35 | 4 | Lab Program 8 - Advanced regex with grep | Hands-on Lab: Students use regex with grep to filter complex patterns, test on 2 files, and submit filtered outputs with commands used. | Sumitabha Das, Ch. 9 |
+  68: | 36 | 4 | Lab Program 8 - Regex with sed | Hands-on Lab: Students use sed with regex to replace patterns, test on 2 files, and submit a lab report with modified files and commands. | Sumitabha Das, Ch. 9 |
+  71: | 39 | 4 | Lab Program 9 - List files with permissions (ls -l) | Hands-on Lab: Students run ls -l, interpret permission strings for 5 files, and classify permissions (e.g., read-only) in a lab report. | Sumitabha Das, Ch. 3 |
+  72: | 40 | 4 | Lab Program 9 - Advanced file listing with permissions | Hands-on Lab: Students use ls with options (-a, -R) to list hidden files and directories, analyze permissions, and submit a detailed permission analysis. | Sumitabha Das, Ch. 3 |
+  79: | 43 | Lab Program 10 - Compare two files (diff command) | Hands-on Lab: Students use diff to compare 2 files, analyze differences, and submit a report with comparison results and command output. | James Arthur, Ch. 6 |
+  80: | 44 | Lab Program 10 - Advanced file comparison | Hands-on Lab: Students use cmp and comm to compare files, test 3 file pairs, and submit a lab log with differences and commands used. | James Arthur, Ch. 6 |
+  83: | 47 | Lab Program 11 - Display system info: date, users | Hands-on Lab: Students use date and who, write a script to combine outputs, test, and submit the script with output screenshots. | James Arthur, Ch. 8 |
+  84: | 48 | Lab Program 11 - Display system uptime | Hands-on Lab: Students use uptime, parse output in a script, and submit a lab report with uptime details and script used. | James Arthur, Ch. 8 |
+  90: | 51 | Lab Program 11 - Schedule tasks with cron | Hands-on Lab: Students create a crontab entry to run a script, test scheduling, and submit the crontab file and script output. | Sumitabha Das, Ch. 10 |
+  92: | 52 | Lab Program 11 - Advanced cron scheduling | Hands-on Lab: Students modify crontab for complex scheduling (e.g., every 5 minutes), test, and submit a lab report with crontab and results. | Sumitabha Das, Ch. 10 |
+  95: | 55 | Lab Program 11 - Create aliases | Hands-on Lab: Students create 3 aliases (e.g., ll for ls -l), test in a script, and submit a lab report with alias definitions and outputs. | James Arthur, Ch. 9 |
+  96: | 56 | Lab Program 11 - Explore command history | Hands-on Lab: Students use history to recall commands, save 5 commands to a file, and submit the file with a report on history usage. | James Arthur, Ch. 9 |
+  98: | 58 | Course revision and CIE preparation | Lecture: Summarize key concepts. Tutorial: Students complete a practice quiz on modules 1-5 and discuss answers in pairs. | Sumitabha Das, Ch. 1-10 |
+  99: | 59 | Lab: End to end System Administration Task | Hands-on Lab: Students use all program knowledgeand do commands to a file, and submit the file along with the automation Job. | James Arthur, Ch. 2-5 |
+ 103: | 60 | Lab: End to end IT Support Task Automation Script | Hands-on Lab: Students use all program knowledgeand do commands to a file, and submit the file along with the automation Job. | James Arthur, Ch. 4-7 |
+ 107: | 2 credit courses | 30 hours |
+ 109: | 3 credit courses | 45 hours |
+ 110: | 4 credit courses | 60 hours |
+ 114: | - | A course shall have a minimum of 3 modules and maximum 5 modules |
+ 116: | - | Each module will be covered in minimum 6 hours and maximum 12 hours |
+ 123: | CIE-1 - IBM SkillsBuild Courses: Graded Component-1 - Quiz Questions Graded Component | 10 marks out of 70 10 marks out of 70 |
+ 127: | Semester End Exams (SEE) | Semester End Exams (SEE) |
+ 134: ## Course Outcomes- Progamme Outcomes Matrix
+ 136: | Program Outcome Course Outcome | Program Outcome Course Outcome | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 |
+ 148: | IBM SkillsBuild Courses: Graded Component-1 | Certificate of completion for 10 marks. The specified courses on the IBM SkillsBuild platform to be uploaded to the designated Google Classroom. (Refer Table-1) |
+ 157: Assess students' ability to complete assigned courses on the IBM SkillsBuild platform and reflect on their learning.
+ 161: | Completion of Courses (10 Marks) | Successfully completes all specified courses on the IBM SkillsBuild platform before the deadline. Certificates are uploaded to Google Classroom with no errors. | Completes some courses or has minor errors in uploading certificates. | Fails to complete the courses or does not upload certificates. |
+ 174: | CIE-2 | Theory | Test will be conducted for 25 marks and will be evaluated according to Scheme of Evaluation prepared by team of course faculty. |
+ 189: | 2 | Execution (2 Marks) | Observatio ns | (2 M) Students demonstrate the execution of the program with error correction and show performance efficiency. Appropriate validations with all test cases are handled. (2 M) | Students demonstrate the execution of the program without error correction of the code and show performance efficiency with only few test cases. (1 M) | Student has not executed the program. (0 M) |
+ 195: | 1 | Conceptual Understanding (2 Marks) | Explains thoroughly the program executed along with related concepts. (2 M) | Adequately explains the program executed along with related concepts (1 M) | Unable to explain the program executed along with related concepts (0 M) | |
+ 200: Note: Overall Lab Record including 11 programs where Write-up: 6 Marks &amp;
+ 209: | 1 | Implement ation Writing (5 Marks) | Observations | Well-organized, clear, with proper logic of the problem. validations with all test cases are handled. (5 M) | Well-organized, clear, with partial logic of the problem and validations. (1 - 4 M) | Student has not executed the program. (0 M) |
+ 210: | 2 | Execution and Format of Results (5 Marks) | Observations | Students demonstrate the execution of the program with error correction and show performance efficiency. Appropriate validations with test cases (minimum 2) are | Students demonstrate the execution of the program without error correction and appropriate validations | Execution Results with no comments and no output (0 M) |
+ 217: | 1 | Conceptual Understandin g (5 Marks) | Viva Voce | Explains thoroughly the program executed along with related concepts. (5 M) | Adequately explains the program executed along with related concepts (3 - 4 M) | Unable to explain the program executed along with related concepts (1-2 M) |
+ 220: Note: Overall Lab test will be conducted including 2 programs where Write-up: 10 Marks &amp; Viva-Voce: 5 Marks will sum up to 30 M, will be reduced to 20 Marks.
+ 222: Signature of the Course Faculty
+
+====================================================================================================
+MLOPS.md
+====================================================================================================
+   3: | Course Code: CS3242 Name of the Programme: B. Tech (H) Name of the Course: MLOps with Cloud Computing Semester:6 | Course Code: CS3242 Name of the Programme: B. Tech (H) Name of the Course: MLOps with Cloud Computing Semester:6 | Course Code: CS3242 Name of the Programme: B. Tech (H) Name of the Course: MLOps with Cloud Computing Semester:6 |
+   5: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+   7: | Course Objectives : | Course Objectives : | Course Objectives : |
+  13: ## Course outline (Syllabus of the course) - Template - 1
+  19: No. of hours
+  25: | Module - 2 Continuous Delivery & Deployment in Cloud | No. of hours |
+  33: | Module - 3 Automated Machine Learning (AutoML) Platforms and Applications | No. of hours 6 |
+  37: | Module - 4 Cloud-Based AI APIs and Cloud-Native MLOps Tools | No. of hours |
+  43: No. of hours
+  49: ## Lab Programs
+  51: | Sl.No. | Name of Program/ Experiment |
+  66: | Course outcomes |
+  80: | 5 | https://www.deeplearning.ai/courses/machine-learning-in-production/ |
+
+====================================================================================================
+Machine_Learning_for_Data_science.md
+====================================================================================================
+   3: Course Code:
+   7: Name of the Programme:
+  11: Name of the Course:
+  15: Semester:
+  19: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+  23: ## Course Objectives :
+  30: ## Course outline
+  34: | Module - 1 Machine learning Foundations for Data Science | No. of hours |
+  40: | Module - 2 Deep Learning for Visual Data Analytics | No. of hours |
+  52: No. of hours
+  60: No. of hours
+  68: No. of hours
+  74: ## Course outcomes
+  98: | Tutorials [15 Hours] | Tutorials [15 Hours] |
+ 107: | Lab Programs /Tutorials [30 | Lab Programs /Tutorials [30 |
+ 124: | Name of the Programme: | B. Tech (Hons.) | B. Tech (Hons.) |
+ 126: | Title of the Course: | Machine Learning for Data science | Machine Learning for Data science |
+ 127: | Course code | CS2226 | CS2226 |
+ 128: | Semester: | IV | IV |
+ 129: | Names of the Course Instructor(s) | Dr. P. Karthikeyan, Prof: Ashwini Kumar Mathur | Dr. P. Karthikeyan, Prof: Ashwini Kumar Mathur |
+ 130: | Course credit | No. of hours per week (1+1+2) | Total no. of Teaching hours |
+ 131: | 03 | 04 Hours | 60 Hours |
+ 133: | Session No. | Module | Hours | Topic | Pedagogy / Activities | Pre-reading / Reference |
+ 218: ## Semester End Exams (SEE): 30%
+ 228: ## Course Outcomes- Progamme Outcomes Matrix
+ 230: | Program Outcome Course Outcome | Program Outcome Course Outcome | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 |
+ 249: | CIE-2 | Theory | Test will be conducted for 25 marks and will be evaluated according to Scheme of Evaluation prepared by team of course faculty. |
+ 265: | 2 | Execution (2 Marks) | Observations | Student demonstrates the execution of the program with optimized code and shows performance efficiency. (2 M) | Student demonstrates the execution of the program without optimization of the code and shows performance efficiency. (1 M) | Student has not executed the program. (0 M) |
+ 281: | Subject Knowledge [ VIVA] [ 4 Marks] | Demonstrates a profound understanding of the subject matter, answering questions with clarity and depth. 4 Marks | Answers questions accurately and confidently, with minor gaps in understanding. 3 Marks | Provides satisfactory answers but lacks depth or clarity in some areas. 2 Marks | Unable to assess subject knowledge due to incomplete or missing VIVA. 0-1 Marks |
+ 290: | 1 | Mid Review Project: Title, Input, and Outputs, Dataset (1 Marks) Preliminarily results (2 mark) Future Plan (1 marks) | 5 marks |
+ 292: Signature of the Course Faculty
+
+====================================================================================================
+Mobile_App_Development_Essentials.md
+====================================================================================================
+   1: Course Code: CS2306
+   3: Name of the Programme: BTech (H)
+   5: Name of the Course: Mobile Application Development Essentials
+   7: Semester: IV
+   9: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+  13: ## Course Objectives :
+  20: ## Course outline (Syllabus of the course)
+  24: | Module 1: Mobile App Ecosystem & No-Code Paradigm | No. of hours |
+  29: | Module 2: UI/UX Design & Visual App Building | No. of hours |
+  34: | Module 3: Data, Logic & Workflow (Low-Code Concepts) | No. of hours 12 Hours (4T + 8P) |
+  38: | Module 4: Android Studio Exposure (Assisted Development) | No. of hours 10 Hours (2T + 8P) |
+  42: | Module 5: Testing, Packaging & Mini Project | No. of hours |
+  44: | | 6 Hours (2T + 4P) |
+  59: | Course outcomes | Course outcomes |
+
+====================================================================================================
+NLP.md
+====================================================================================================
+   1: ## AI/ML - Course outline (6th Semester)
+   3: Course Code: CS3233
+   5: Name of the Programme: B.Tech(Hons.)
+   7: Name of the Course: Fundamentals of Natural Language Processing
+   9: Semester: 6
+  11: | Course credit | No. of hours per week | Total no. of Teaching |
+  13: | | (L + T + P) | hours |
+  16: ## Course Objectives:
+  28: ## Module - 1 Foundations of NLP &amp; Embeddings No. of hours 6
+  40: ## Module - 2 Deep Learning for NLP No. of hours 6
+  52: ## Module - 3 Transformers &amp; Foundation Models No. of hours 6
+  64: ## Module - 4 Advanced Applications in NLP No. of hours 6
+  74: ## Module - 5 Speech and Multimodal NLP No. of hours 6
+  84: ## Course outcomes
+ 114: | Lab Programs: Using Python and popular libraries like NLTK, spaCy, Hugging Face Transformers, and PyTorch/TensorFlow. | Lab Programs: Using Python and popular libraries like NLTK, spaCy, Hugging Face Transformers, and PyTorch/TensorFlow. |
+
+====================================================================================================
+Network_Security.md
+====================================================================================================
+   5: | Name of the Programme: | B.Tech(Hons.) | B.Tech(Hons.) |
+   7: | Title of the Course: | Network Security | Network Security |
+   8: | Course code | CS3403 | CS3403 |
+   9: | Semester: | VI | VI |
+  10: | Names of the Course Instructor(s) | Prof. Cynthia, Prof. Evlin Vidyulatha, Prof. Ishita Chakraborty, Prof. Lokesh J.K., Prof. Neha Najeem, Prof. Sheba Pari, Prof. Sonam V Maju, Prof. Sumathi H.R., Prof. Sunil Kumar J. | Prof. Cynthia, Prof. Evlin Vidyulatha, Prof. Ishita Chakraborty, Prof. Lokesh J.K., Prof. Neha Najeem, Prof. Sheba Pari, Prof. Sonam V Maju, Prof. Sumathi H.R., Prof. Sunil Kumar J. |
+  11: | Course credit | No. of hours per week (3+0+2) | Total no. of Teaching hours |
+  12: | 04 | 05 Hours | 75 Hours |
+  33: | 14. 15. | LAB 3: Client Using TCP | Server and Interactions Sockets | Hands-on programming using WSL, Windows | |
+  37: | 19. 20. | LAB 4: Encrypted data over TCP Socket using OpenSSL | Hands-on using WSL, Windows | programming | |
+ 109: | CIE-1 - Quiz Graded Component 1 - MOOC course Graded Component 2 | 15 marks out of 70 5 marks out of 70 |
+ 113: | Semester End Exams (SEE): 30% | Semester End Exams (SEE): 30% |
+ 118: ## Course Outcomes- Programme Outcomes Matrix
+ 122: | Sl. No | Course outcome | PO 1 | P O 2 | PO 3 | PO 4 | PO 5 | PO 6 | PO 7 | PO 8 | PO 9 | P O1 0 | PO 11 | PO 12 |
+ 139: | CIE-1 | Component-2 | Certificate of completion for 5 marks. The specified courses on the IBM SkillsBuild platform are to be uploaded to the designated Google Classroom. (Refer Table-1) |
+ 147: Assess students' ability to complete assigned courses on the IBM SkillsBuild platform and reflect on their learning.
+ 151: | Completion of Courses (5 Marks) | Successfully completes all specified courses on the MOOC platform before the deadline. Certificates are uploaded to Google Classroom with no errors. | Completes some courses or has minor errors in uploading certificates. | Fails to complete the courses or does not upload certificates. |
+ 156: | CIE-2 | Theory | Test will be conducted for 25 marks and will be evaluated according to Scheme of Evaluation prepared by the team of course faculty. |
+ 162: | CIE-3 | Component 2 | Course Project + Report = 15 marks (Refer Table-3) |
+
+====================================================================================================
+Object_Oriented_Programming_with_Java.md
+====================================================================================================
+   3: | Course Code: CS2024 Name of the Programme: B.Tech (Hons.) CSE Name of the Course: Object Oriented Programming with Java Semester: IV | Course Code: CS2024 Name of the Programme: B.Tech (Hons.) CSE Name of the Course: Object Oriented Programming with Java Semester: IV | Course Code: CS2024 Name of the Programme: B.Tech (Hons.) CSE Name of the Course: Object Oriented Programming with Java Semester: IV |
+   5: | Course Credit: | No. of hours per week (L+T+P): | Total no. of Teaching hours: |
+   6: | 4 2+1+2 75 Course Objectives | 4 2+1+2 75 Course Objectives | 4 2+1+2 75 Course Objectives |
+   7: | a. | Introduce the fundamentals of Java and core object-oriented programming concepts such as classes, inheritance, and polymorphism. | Introduce the fundamentals of Java and core object-oriented programming concepts such as classes, inheritance, and polymorphism. |
+   8: | b. | To promote modular programming through the use of packages, interfaces, and UML design principles. | To promote modular programming through the use of packages, interfaces, and UML design principles. |
+   9: | c. | To equip students with the skills to handle exceptions and implement multithreaded Java programs. | To equip students with the skills to handle exceptions and implement multithreaded Java programs. |
+  14: ## Module -1: Introduction to Object-Oriented Programming
+  16: No. of hours
+  20: Introduction to Object-Oriented Programming (OOP); Comparison of Procedural, ObjectOriented, and Scripting Languages; History and Architecture of Java; Features of Java; Java Keywords, Data Types, Variables, Operators, Control Statements, and Arrays.
+  24: No. of hours
+  32: ## No. of hours
+  40: ## No. of hours
+  44: Exception Handling Fundamentals -Exception types, Using try and catch, Multiple catch clauses, Nested try statements, Java's built -in exceptions, Creating custom exceptions. Multithreaded Programming -Java thread model, Creating a thread, Creating multiple threads, Thread priorities, Synchronization, Inter-thread communication.
+  50: No. of hours
+  56: | Course Outcomes: After completing the course, the students will be able to: | Course Outcomes: After completing the course, the students will be able to: |
+  58: | a. | Develop Java applications using fundamentals and object-oriented programming concepts such as classes, inheritance, and polymorphism. |
+  60: | c. | Apply exception handling and multithreading mechanisms to design robust and concurrent Java programs. |
+  66: | 2 | P. Deitel and H. Deitel, Java: How to Program (Early Objects) , 11th ed. Boston, MA: Pearson Prentice Hall, 2017. ISBN: 978-0134743356. |
+  70: | 1 | E. Balagurusamy, Programming with Java , 7th ed. New Delhi, India: Tata McGraw- Hill, 2019. ISBN: 978-935316234. |
+  71: | 2 | Y. D. Liang, Introduction to Java Programming , 12th ed. Boston, MA: Pearson Education, 2018. ISBN: 978-0134670942. |
+  73: | Tutorials [15 Hours] | Tutorials [15 Hours] |
+  75: | 1 | Comparison of Procedural, Object-Oriented, and Scripting Programming Paradigms |
+  83: | Lab Programs | [30 Hours] |
+  92: | 1 | Develop basic Java programs using classes, objects, and methods. |
+  98: | 6 | Develop a Java program using interfaces and demonstrate multiple and hybrid inheritance through interface implementation. |
+ 106: | 14 | Develop java programs to access and perform various operations in file contents. |
+
+====================================================================================================
+Operating_System.md
+====================================================================================================
+   1: ## Course Code: CS1103
+   3: Name of the Programme:
+   7: ## Name of the Course: Operating Systems
+   9: ## Semester: II
+  11: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+  15: ## Course Objectives :
+  24: Generations, Types, Structure, Services, System Boot, System Programs, Protection and Security.
+  54: No. of hours
+  60: No. of hours
+  66: ## Course outcomes
+  84: | Lab Programs [30 Hrs] | Lab Programs [30 Hrs] |
+  97: | Name of the Programme: | B.Sc. Computer Science (Hons.) | |
+  99: | Title of the Course: | Operating Systems | |
+ 100: | Course code | CS1103 | |
+ 101: | Semester: | II | |
+ 102: | Names of the Course Instructor(s) | Prof . Aruna S Prof Anoop A | |
+ 103: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+ 110: | 3 | 1 | Lab Program 1: Process Creation using fork() - Part 1 | Implementation & testing | Lab 1 |
+ 111: | 4 | 1 | Lab Program 1: Process Creation using fork() - Part 2 | Demonstrate parent-child outputs | Lab 1 |
+ 114: | 7 | 1 | Lab Program 2: Orphan & Zombie Processes - Part 1 | Zombie example | Lab 2 |
+ 115: | 8 | 1 | Lab Program 2: Orphan & Zombie Processes - Part 2 | Orphan example | Lab 2 |
+ 118: | 11 | 1 | Lab Program 3: IPC using Pipes - Part 1 | Read/write demo | Lab 3 |
+ 119: | 12 | 1 | Lab Program 3: IPC using Pipes - Part 2 | Two-way communication | Lab 3 |
+ 123: | 15 | 2 | Lab Program 4: Message Queue IPC - Part 1 | Send/receive msgs | Lab 4 |
+ 125: | 16 | 2 | Lab Program 4: Message Queue IPC - Part 2 | Multi-process messaging | Lab 4 |
+ 128: | 19 | 2 | Lab Program 5: Shared Memory - Part 1 | shmget, shmat tests | Lab 5 |
+ 129: | 20 | 2 | Lab Program 5: Shared Memory - Part 2 | Data writing/reading | Lab 5 |
+ 132: | 23 | 2 | Lab Program 6: Producer-Consumer (Semaphores) | wait/signal | Lab 6 |
+ 133: | 24 | 2 | Lab Program 7: Reader-Writer Problem | Reader & writer priority | Lab 7 |
+ 136: | 27 | 3 | Lab Program 8: Dining Philosophers - Part 1 | Deadlock demo | Lab 8 |
+ 137: | 28 | 3 | Lab Program 8: Dining Philosophers - Part 2 | Avoid starvation | Lab 8 |
+ 140: | 31 | 3 | Lab Program 9: File Allocation - Part 1 | Structures | Lab 9 |
+ 141: | 32 | 3 | Lab Program 9: File Allocation - Part 2 | Linked tables | Lab 9 |
+ 144: | 35 | 3 | Lab Program 9: File Allocation - Part 3 | Indexed method | Lab 9 |
+ 145: | 36 | 3 | Lab Program 10: Disk Scheduling - FCFS | Implementation | Lab 10 |
+ 150: | 39 | 4 | Lab Program 10: Disk Scheduling - SSTF | Implementation | Lab 10 |
+ 151: | 40 | 4 | Lab Program 10: Disk Scheduling - SCAN/C-SCAN | Implementation | Lab 10 |
+ 154: | 43 | 4 | Lab Program 9: Contiguous Allocation | Simulation | Lab 9 |
+ 155: | 44 | 4 | Lab Program 9: Linked Allocation | Implementation | Lab 9 |
+ 158: | 47 | 4 | Lab Program 9: Indexed Allocation | Index block creation | Lab 9 |
+ 159: | 48 | 4 | Lab Program 10: Disk Scheduling (Simulation) | Simulation | Lab 10 |
+ 162: | 51 | 5 | Lab Program 10: Disk Scheduling - FCFS | Implementation | Lab 10 |
+ 163: | 52 | 5 | Lab Program 10: Disk Scheduling - SSTF | Implementation | Lab 10 |
+ 166: | 55 | 5 | Lab Program 10: Disk Scheduling - SCAN/C-SCAN | Implementation | Lab 10 |
+ 167: | 56 | 5 | Lab Program 1 (Revision): fork() Mechanism | Reinforcement | Lab 1 |
+ 170: | 59 | 5 | Lab Program 3 (Revision): Pipe IPC | Reinforcement | Lab 3 |
+ 171: | 60 | 5 | Lab Program 5 (Revision): Shared Memory | Reinforcement | Lab 5 |
+ 182: | 1. Mid-Semester Theory Examination | 25 marks |
+ 185: | Lab test(20) + Lab Program Submission(5) | 25 marks |
+ 208: | Mid-Semester Theory Examination | 25 Marks |
+ 215: | Lab Program Submission | 5 Marks (Refer Table-4) |
+ 227: | 2 | Program Execution | Observation | Correct and optimized execution of OS programs (fork, pipes, shared memory, scheduling, synchronization) . | Executes with minor errors but correct output. | Executes with noticeable errors. | Fails to execute correctly. |
+ 235: | 1 | Conceptual Understand ing of OS Techniques | Viva Voce | Clearly explains OS concepts, algorithms, system calls, and program logic. | Explains concepts with minor gaps. | Unable to explain concepts or code. |
+ 238: ## Table-4: Lab Program Submission Rubrics (Total: 5 Marks)
+ 242: | Completeness of Lab Programs(2) | All prescribed OS lab programs completed and submitted on time. | Most programs complted with minor omissions. | Several programs missing or incomplete. |
+ 243: | Correctness & Output(2) | Programs execute correctly with expected outputs. | Minor execution errors. | Incorrect or failed execution. |
+
+====================================================================================================
+Probability_and_Statistics.md
+====================================================================================================
+   3: Course Code: CS2800
+   5: Name of the Programme: B. Tech (Hons.) CSE
+   7: Name of the Course: Probability and Statistics
+   9: Semester: IV
+  11: | Course credit | No. of hours per week (L + T + P): | Total no. of Teaching hours: |
+  15: ## Course Objectives:
+  26: No. of hours
+  34: No. of hours
+  40: | Module - 3: Continuous Distributions | No. of hours |
+  50: No. of hours
+  58: No. of hours
+  64: ## Course outcomes: After completing the course, students will be able to:
+  73: | 1 | S. Ross, A First Course in Probability , 10th ed. Noida, India: Pearson Education, 2022. ISBN: 978-9356064034. |
+  86: | Tutorials/Activities: | Tutorials/Activities: | [15 Hours] |
+
+====================================================================================================
+Programming_in_C.md
+====================================================================================================
+   5: | Name of the Programme: | B.Tech(Hons.) | B.Tech(Hons.) |
+   7: | Title of the Course: | Programming in C | Programming in C |
+   8: | Course code | CS1003 | CS1003 |
+   9: | Semester: | I | I |
+  10: | Names of the Course Instructor(s) | Dr Dattatreya Mankame, Dr. J. Cynthia, Dr. Mahadev Kalyanrao Patil, Prof. Vinod K Raju, Prof. Neha Najem and Prof. Manasa H C | Dr Dattatreya Mankame, Dr. J. Cynthia, Dr. Mahadev Kalyanrao Patil, Prof. Vinod K Raju, Prof. Neha Najem and Prof. Manasa H C |
+  11: | Course credit | No. of hours per week (3+0+2) | Total no. of Teaching hours |
+  12: | 04 | 05 Hours | 75 Hours |
+  16: | 1 | M1 | Syllabus and Lesson plan explanation, Introduction to C and Computer fundamentals | PPT presentation and Whiteboard | Let Us C Ch. 1 and 12, C Programming Absolute Beginner's Guide ( CABG ) Ch.1,2 |
+  17: | 2 | M1 | Structure of C Program, Memory Layout of C Programs, Phases of developing a computer program in C | PPT presentation and Whiteboard | Let Us C Ch. 1 and 12, C Programming Absolute Beginner's Guide ( CABG ) Ch.1,2 |
+  18: | 3 | M1 | Program execution stages Preprocessor, Compiler, Linker, Loader, Library Functions, Various components of a computer. | PPT presentation and Whiteboard | Let Us C Ch. 1 and 12, C Programming Absolute Beginner's Guide ( CABG ) Ch.1,2 |
+  19: | 4 | M1 | Lab program 1: Program to add numbers using macros | Hands-on coding session | Let Us C Ch. 1 and 12, C Programming Absolute Beginner's Guide ( CABG ) Ch.1,2 |
+  23: | 8 | M2 | Lab program 2: Program to swap two numbers with and without using a third variable | Hands-on coding session | |
+  32: | 12 | | Lab program 3: Program to create a menu-driven basic arithmetic calculator | Hands-on coding session | |
+  36: | 16 | | Lab program 4: Program to print a Fibonacci series and compute GCD of two numbers | Hands-on coding session | |
+  44: | 24 | | Lab program 5: Program to print a Fibonacci series and compute GCD of two numbers using functions | Hands-on coding session | |
+  48: | 28 | | Lab program 6: Program to print a Fibonacci series and compute GCD of two numbers using recursion | Hands-on coding session | |
+  56: | 32 | M4 | Lab program 7: Program to print a Fibonacci series and compute GCD of two numbers using recursion | Hands-on coding session | |
+  60: | 36 | M4 | Lab program 8: Program to implement different string operations using functions | Hands-on coding session | |
+  68: | 44 | M4 | Lab program 9: Program using structures to read, write and compute average-marks of n students | exercises Hands-on coding session | |
+  72: | 48 | M5 | Lab program 10: Program to demonstrate different file operations | Hands-on coding session | |
+  99: | Semester End Exams (SEE): 30% | Semester End Exams (SEE): 30% |
+ 106: ## Course Outcomes- Programme Outcomes Matrix
+ 108: | Course Outcomes | Course Outcomes | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 |
+ 110: | a. | Understand and analyse the concepts of the number system, computer memory, and the fundamental concepts of the C programming language. | 3 | 3 | 2 | 2 | 2 | | | 3 | | 1 | | 1 |
+ 112: | c. | Design and implement C programs using decision-making constructs, loops, arrays, strings, functions, and pointers to solve mathematical and logical problems. | 3 | 3 | 2 | 2 | 2 | | | 3 | | 1 | | 1 |
+ 113: | d. | Analyse and evaluate the programming concepts based on user-defined data types and file handling in C language. | 3 | 3 | 2 | 2 | 2 | | | 3 | | 1 | | 1 |
+ 123: | CIE-1 | Component 2 | Test will be conducted for 15 marks and will be evaluated according to the Scheme of Evaluation prepared by the team of course faculty. |
+ 140: | CIE-2 | Theory | Test will be conducted for 25 marks and will be evaluated according to the Scheme of Evaluation prepared by the team of course faculty. |
+ 146: | | Component 2 | Continuous Lab assessment + Viva for 5 marks (Refer Table-2) (10 lab programs 10 marks each, 100 marks reduced to 5 marks) |
+ 147: | | Component 3 | Internal lab practical exam for 15 marks (Refer Table-2) (3 lab programs 10 marks each, 30 marks reduced to 15 marks) |
+ 155: | Lab assessment + Viva (10 Marks per program) | Lab assessment + Viva (10 Marks per program) | Lab assessment + Viva (10 Marks per program) | Lab assessment + Viva (10 Marks per program) | Lab assessment + Viva (10 Marks per program) |
+ 159: | Execution (2 Marks) | Observations | The Student demonstrates the execution of the program with optimized code and shows the output with appropriate validations and test cases handled. | The Student demonstrates the execution of the program without optimization of the code and shows the output. | The Student has not executed the program. |
+
+====================================================================================================
+Python_Programming_for_Data_Analytics.md
+====================================================================================================
+   3: Course Code: CS1280
+   5: Name of the Programme:
+   9: Name of the Course: Python Programming for Data Analytics
+  11: Semester: II
+  13: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+  17: ## Course Objectives :
+  19: - a) Introduce Python syntax, variables, and fundamental programming concepts.
+  28: ## Python Programming Essentials:
+  30: Introduction to Python: History, features, applications. Setting up the Python environment: Installing Python and Jupyter Notebook. Basic Python syntax: Variables, data types, and operators, Basic I/O operations, Control Structures: Conditional statements (if, elif, else), loops (for, while, nested loops), and control flow (break, continue, pass).  Functions and Modules: Function definition, parameters , return value, recursive functions, and modular programming.
+  44: No. of hours
+  48: No. of hours
+  52: No. of hours
+  68: No. of hours
+  72: Data Visualization and Analysis with Python: From Basics to Case Studies Matplotlib: line plots, bar charts, histograms, scatter plots, customizing plots (titles, labels, and legends), subplots, figure layout, and visualizing IQR with box plots. Seaborn : Statistical plots: box plots, violin plots, pair plots, correlation heatmaps, customizing Seaborn plots (themes, color palettes). Introduction to Plotly. Case Studies: Exploratory data analysis (EDA) on real-world datasets, Examples from domains such as finance, healthcare, and sports.
+  74: | Course outcomes | Course outcomes |
+  76: | a) | Apply Python programming fundamentals and data structures to build basic programs, handle files, and organize data. |
+  79: | d) | Develop and present a complete data analysis project demonstrating skills in programming, data manipulation, and visualization. |
+  84: | 2 | Zelle, J. M. (2010). Python programming: An introduction to computer science (2nd ed.). Franklin, Beedle & Associates. ISBN: 978-1590282755 |
+  88: | 1 | Sweigart, A. (2015). Automate the boring stuff with Python: Practical programming for total beginners . No Starch Press. ISBN: 978-1593279929 |
+  90: No. of hours
+ 103: | 3 | https://onlinecourses.nptel.ac.in/noc21_cs45/preview |
+ 105: | Lab Programs | Lab Programs | [60 Hrs] |
+ 108: | 2 | Basic Programming and Syntax: A. Simple calculator B. Temperature converter (Celsius to Fahrenheit and vice versa) C. Program to find the largest of three numbers | Basic Programming and Syntax: A. Simple calculator B. Temperature converter (Celsius to Fahrenheit and vice versa) C. Program to find the largest of three numbers |
+ 109: | 3 | Functions and Recursion: A. Factorial of a number using recursion B. Word count program | Functions and Recursion: A. Factorial of a number using recursion B. Word count program |
+ 110: | 4 | Data Structures: A. Program to perform various operations on lists (insert, delete, find, etc.) B. Program to merge two dictionaries | Data Structures: A. Program to perform various operations on lists (insert, delete, find, etc.) B. Program to merge two dictionaries |
+ 111: | 5 | File Handling: A. Program to read a CSV file and perform basic analysis Getting awareness about local and Google drive folder and file access, renaming, copying, and moving files | File Handling: A. Program to read a CSV file and perform basic analysis Getting awareness about local and Google drive folder and file access, renaming, copying, and moving files |
+ 112: | 6 | NumPy Basics: A. Creating and manipulating NumPy arrays B. Program to perform matrix operations using NumPy | NumPy Basics: A. Creating and manipulating NumPy arrays B. Program to perform matrix operations using NumPy |
+ 113: | 7 | Pandas Basics: A. Creating a DataFrame from scratch and from a CSV file B. Program to clean data (handling missing values, duplicates) | Pandas Basics: A. Creating a DataFrame from scratch and from a CSV file B. Program to clean data (handling missing values, duplicates) |
+
+====================================================================================================
+Set_Theory.md
+====================================================================================================
+   3: Course Code: CS1885
+   5: Name of the Programme: BCA
+   7: Name of the Course: Set Theory
+   9: Semester: 2
+  11: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+  15: ## Course Objectives :
+  22: ## Course outline (Syllabus of the course)
+  26: | Module - 1 : Basic Concepts of Set Theory | No. of hours |
+  33: No. of hours
+  41: No. of hours
+  49: No. of hours
+  57: No. of hours
+  63: ## Course outcomes
+
+====================================================================================================
+Structured_Innovation_with_Design_Thinking.md
+====================================================================================================
+   3: ## Course outline
+   5: Course Code: 1929
+   7: Name of the Programme: Skill Enhancement
+   9: Name of the Course: Structured Innovation with Design Thinking
+  11: Semester: I
+  13: | Course credit | No. of hours per week | Total no. of Teaching hours |
+  17: ## Course Objectives :
+  28: No. of hours 10
+  34: No. of hours 10
+  40: No. of hours
+  50: No. of hours
+  56: | Module - 5 Communicate project processes and outcomes | No. of hours |
+  62: | Lab Plan | [30 Hours] |
+  71: ## Course outcomes
+
+====================================================================================================
+Universal_Human_Values.md
+====================================================================================================
+   3: | Course Code: CS1908 Name of the Programme: BCA (Hons.) Name of the Course: Universal Human Values Semester: I | Course Code: CS1908 Name of the Programme: BCA (Hons.) Name of the Course: Universal Human Values Semester: I | Course Code: CS1908 Name of the Programme: BCA (Hons.) Name of the Course: Universal Human Values Semester: I |
+   5: | Course Credit | No. of Hours per week (L+T+P) | Total No. of Teaching Hours |
+   7: | Course Objectives : | Course Objectives : | Course Objectives : |
+  13: ## Course Outline (Syllabus of the Course)
+  17: No. of Hours 6 Hrs
+  23: No. of Hours 6 Hrs
+  25: Harmony in Myself: Understanding human being; Understanding the harmony of Self with the Body: Harmony in Self; Health; Program for Self and Health.
+  29: No. of Hours
+  37: No. of Hours
+  45: No. of Hours
+  53: | Course Outcomes: After completing the course, the students will be able to: - | Course Outcomes: After completing the course, the students will be able to: - |
+  62: | 1 | Gaur, R. R., Asthana, R., & Bagaria, G. P. (2019). A foundation course in human values and professional ethics (2nd rev. ed.). Excel Books. ISBN 978-93-87034-47-1 |
+  66: | 1 | Gaur, R. R., Asthana, R., & Bagaria, G. P. (2019). Teachers manual for A foundation course in human values and professional ethics (2nd rev. ed.). Excel Books. ISBN: 978-93-87034-53-2 |
+
+====================================================================================================
+Web_App_Security.md
+====================================================================================================
+   1: ## Course Code: CS3433
+   3: Name of the Programme: Professional Electives
+   5: Name of the Course: Web Application Security
+   7: Semester: VI
+   9: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+  13: ## Course Objectives :
+  20: ## Course outline (Syllabus of the course)
+  22: | Module 1: Evolution of Software Security and Web Application Security | No. of Hours |
+  28: | Module 2: Web Application Security: Testing, Incident Response, and Development Lifecycle | No. of Hours 6 |
+  33: | Module 3:API Security Strategies | No. of Hours |
+  41: | Module 4:Vulnerability Assessment and Penetration Testing (VAPT): Tools and Techniques | No. of Hours 6 |
+  46: | Module 5: Web Application Security: Common Vulnerabilities and Tools | No. of Hours |
+  52: ## Course Outcomes: After completing the course, the students will be able to: -
+  73: | Name of the Programme: | BTech | |
+  75: | Title of the Course: | Web Application Security | |
+  76: | Course Code | CS3433 | |
+  77: | Semester: | VI | |
+  78: | Names of the Course Instructor(s) | Dr. Manish Kumar | |
+  79: | Course credit | No. of hours per week: (L + T + P) | Total No. of Teaching Hours |
+ 157: | Semester End Exams (SEE) | Semester End Exams (SEE) |
+ 162: ## Course Outcomes- Progamme Outcomes Matrix
+ 164: | Program Outcome Course | Program Outcome Course | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 |
+ 178: | 3. | Mid Sem | The Mid-Semester Examination will be conducted for 25 marks. Questions will be case-based and analytical, covering web application security fundamentals, secure development lifecycle, and testing methodologies. Evaluation will be done according to the Scheme of Evaluation prepared by the team of course faculty. |
+ 182: | 6. | SEE | The test will be conducted out of 30 marks and will be evaluated according to the Scheme of Evaluation prepared by a team of course faculty. |
+ 213: ## Mid Semester Exam (25 Marks)
+ 217: - Rubrics : Evaluation based on Scheme of Evaluation created by the course instructors.
+
+====================================================================================================
+Web_and_UX_Design.md
+====================================================================================================
+   1: Course Code: CS1385
+   3: Name of the Programme: BCA (Hons.)
+   5: Name of the Course: Web and UX Design
+   7: Semester: I
+   9: | Course Credit | No. of Hours Per Week (L + T + P) | Total No. of Teaching Hours |
+  13: ## Course Objectives :
+  20: ## Course outline (Syllabus of the course)
+  22: | Module - 1: Web and HTML Fundamentals | No. of Hours |
+  26: | Module - 2 : CSS Fundamentals | No. of Hours |
+  29: | Module - 3 : JavaScript Basics | No. of Hours |
+  31: | JavaScript Syntax and Programming Concepts, Manipulating the DOM (Document Object Model). | JavaScript Syntax and Programming Concepts, Manipulating the DOM (Document Object Model). |
+  32: | Module - 4 : UX Design Fundamentals | No. of Hours |
+  38: No. of Hours
+  44: ## Course Outcomes: After completing the course, the students will be able to: -
+  60: | 2 | Haverbeke, M. (2011). Eloquent JavaScript: A modern introduction to programming . No Starch Press. ISBN: 978-1-59327-282-1 |
+  84: | 1 | Write a program to develop Basic Webpage with HTML. |
+  86: | 2 | Write a program to develop creating a personal profile page. |
+  87: | 3 | Write a program to design a feedback form using various HTML form elements. |
+  88: | 4 | Write a program to build a table to display a schedule. |
+  89: | 5 | Write a program to style a basic webpage with different font styles, colors, and background images. |
+  90: | 6 | Write a program to create a two-column layout using floats and a grid system. |
+  91: | 7 | Write a program to make a web page responsive using media queries. |
+  92: | 8 | Write a program to style a form and table for better usability and appearance. |
+  93: | 9 | Write a JavaScript program to perform basic arithmetic operations. |
+  95: | 10 | Write a JavaScript program to Manipulate the content of HTML elements. |
+  97: | 11 | Write a program to create an interactive form that validates user input. |
+  99: | 13 | Write a program to create simple interactive web pages using HTML, CSS, JavaScript. |
+ 100: | 14 | Write a program to design a sitemap and navigation structure using HTML, CSS. |
+ 101: | 15 | Write a program to create a basic webpage with a heading, paragraph, and image. |
+ 102: | 16 | Write a program to create a profile page with biography, contact information, and social media links using HTML and CSS. Note: All pages should have consistent styling. |
+ 103: | 17 | Write a program to design a feedback form using various form elements with HTML and CSS. |
+
+====================================================================================================
+Web_development.md
+====================================================================================================
+   3: Course Code: CS3331
+   5: Name of the Programme: B.Tech (Hons)
+   7: Name of the Course: Web Application Development
+   9: Semester: 6
+  11: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+  15: ## Course Objectives:
+  25: No. of hours
+  31: | Module - 2 | No. of hours |
+  58: No. of hours
+  62: No. of hours
+  66: No. of hours
+  74: | Course outcomes |
+  89: | 1 | Eric Elliott - Programming JavaScript Applications |
+  95: | Lab Programs /Tutorials | Lab Programs /Tutorials |
+ 108: | Name of the Programme: | B.Tech (Hons) | |
+ 110: | Title of the Course: | Web Application Development | |
+ 111: | Course code | CS3331 | |
+ 112: | Semester: | VI | |
+ 113: | Names of the Course Instructor(s) | Dr. V. Balaji | |
+ 114: | Course credit | No. of hours per week (L + T + P) | Total no. of Teaching hours |
+ 119: | 1 | 1 | Introduction to Web Application Development | Interactive lecture | Course PPT |
+ 120: | 2 | 1 | Full Stack Web Development Overview | Lecture + discussion | Course PPT |
+ 133: | 15 | 2 | Project Structure and Reusable Components | Discussion | Course PPT |
+ 137: | 19 | 3 | Global State Management Overview | Lecture | Course PPT |
+ 147: | 25 | 4 | MERN Stack Architecture | Interactive lecture | Course PPT |
+ 152: | 30 | 4 | API Integration with React | Demonstration | Course PPT |
+ 154: | 32 | 4 | Error Handling and Validation | Discussion | Course PPT |
+ 156: | 34 | 5 | Protected Routes and Role-based Access | Demonstration | Course PPT |
+ 157: | 35 | 5 | Environment Variables and Configuration | Lecture | Course PPT |
+ 161: | 39 | 5 | Production Best Practices | Lecture | Course PPT |
+ 163: | 41 | 5 | Course Revision - Modules 1 & 2 | Problem-solving | Course PPT |
+ 164: | 42 | 5 | Course Revision - Modules 3 & 4 | Discussion | Course PPT |
+ 175: | 53 | 5 | Comprehensive Revision | Guided revision | Course PPT |
+ 176: | 54 | 5 | Doubt Clearing Session | Open discussion | Course Notes |
+ 177: | 55 | 5 | Pre-End Semester Lab Practice | Hands-on | Lab Manual |
+ 178: | 56 | 5 | End Semester Theory Revision - I | Q&A session | Syllabus |
+ 179: | 57 | 5 | End Semester Theory Revision - II | Problem-solving | Previous Papers |
+ 180: | 58 | 5 | End Semester Lab Practice | Practical revision | Lab Manual |
+ 181: | 59 | 5 | End Semester Viva Preparation | Mock viva | Viva Guidelines |
+ 182: | 60 | 5 | Course Wrap-up and Reflection | CO discussion | Course PPT |
+ 191: | CIE 1 - Skilled Courses: Graded Component-1 - Quiz Questions Graded Component 2 | 10 marks out of 70 10 marks out of 70 |
+ 196: | Semester End Exams (SEE) | Semester End Exams (SEE) |
+ 201: ## Course Outcomes- Progamme Outcomes Matrix
+ 203: | Sl. No. | Course Outcome (CO) | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 |
+ 215: | Programme Outcome | PO1 - Computing Fundamentals Apply knowledge of computing fundamentals, programming concepts, data structures, and web technologies for application development. PO2 - Problem Analysis Identify, analyze, and solve well-defined web application development problems using appropriate frontend and backend technologies. PO3 - Design and Development of Solutions Design and develop scalable, responsive, and interactive web applications using modern frameworks, component-based architecture, and full-stack approaches. PO4 - Modern Tool Usage Use modern web development tools, frameworks, libraries, and deployment platforms such as React, Tailwind CSS, Express, MongoDB, and cloud services effectively. PO5 - Communication Skills Communicate design ideas, implementation details, and project outcomes effectively through documentation, presentations, and demonstrations. PO6 - Teamwork and Leadership Function effectively as an individual or as a member of a team in web application development projects and laboratory environments. PO7 - Professional Ethics Apply ethical principles, security practices, accessibility standards, and social responsibility in the development and deployment of web applications. PO8 - Lifelong Learning Engage in self-directed and continuous learning to adapt to emerging web technologies, frameworks, and industry practices. |
+ 221: | CIE -1 Skills Build Courses: Graded Component- Weightage: 10 Graded Component 1: Quiz (Conceptual and theoretical understanding of Web Application Development fundamentals - HTML, CSS, Tailwind, React, MERN architecture) | CO1 , CO2 PO1 , PO2 | Answers all questions accurately with clear understandin g; demonstrates excellent conceptual clarity | Minor errors; understands most concepts clearly | Moderate understan ding; some confusion in key concepts | Many errors; shows poor understa nding | understandin g No attempt or completely incorrect |
+ 251: Signature of the Course Faculty
+
+====================================================================================================
+Yoga_and_Wellbeing.md
+====================================================================================================
+   3: | Course Code: CS1925 Name of the Programme: BCA (Hons) Name of the Course: Yoga and Well Being Semester: III | Course Code: CS1925 Name of the Programme: BCA (Hons) Name of the Course: Yoga and Well Being Semester: III | Course Code: CS1925 Name of the Programme: BCA (Hons) Name of the Course: Yoga and Well Being Semester: III |
+   5: | Course Credit | No. of Hours Per Week (L + T + P) | Total No. of Teaching Hours |
+   8: ## Course Objectives :
+  15: ## Course Outline (Syllabus of The Course)
+  19: No. of Hours
+  27: No. of Hours
+  35: No. of Hours
+  43: No. of Hours RV Vidyaniketan, 8 Mile, Mysuru Road, Bengaluru, 560059, India Ph : +91 80 68199900 | www.rvu.edu.in
+  53: No. of Hours 6 Hrs
+  57: ## Course Outcomes: After completing the course, the students will be able to: -

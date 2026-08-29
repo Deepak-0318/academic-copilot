@@ -28,22 +28,33 @@ SECTION_PATTERNS = [
 
     (
         "references",
-        r"^\s*\|?\s*Reference\s+books\s*\|",
+        r"^\s*(?:#+\s*)?\|?\s*"
+        r"(?:Reference\s+books?|References?|Text\s+books?)"
+        r"\b.*$",
     ),
 
     (
         "lab_programs",
-        r"^(?:#+\s*)?Lab\s+Programs(?:\s*\[\d+\s*Hrs?\])?",
+        r"^\s*(?:#+\s*)?\|?\s*"
+        r"(?:Lab\s+Programs?|Lab\s+Activities|Lab\s+Practicals|"
+        r"Laboratory\s+Components?|Experiment\s+\d+)"
+        r"\b.*$",
     ),
 
     (
         "lesson_plan",
-        r"^\s*\|?\s*Session\s*\|\s*Module\s+No\.\s*\|\s*Topic",
+        r"^\s*(?:#+\s*)?\|?\s*"
+        r"(?:Lesson\s+plan|Teaching\s+plan|Session\s*\|"
+        r"\s*Module\s+No\.\s*\|\s*Topic)"
+        r"\b.*$",
     ),
 
     (
         "assessment",
-        r"^#+\s*Assessment\s+and\s+Evaluation",
+        r"^\s*(?:#+\s*)?"
+        r"(?:Assessment\s+and\s+Evaluation|Assessment\s+Plan|"
+        r"Evaluation\s+of\s+Components|Rubrics)"
+        r"\b.*$",
     ),
 
     (
@@ -53,9 +64,10 @@ SECTION_PATTERNS = [
 
     (
         "course_outcomes",
-        r"^#+\s*Course\s+Outcomes?\s*$",
+        r"^\s*(?:#+\s*)?\|?\s*Course\s+Outcomes?\b.*$",
     ),
 ]
+
 
 def normalize_text(text: str) -> str:
     """Normalize whitespace while preserving line structure."""
@@ -73,6 +85,24 @@ def normalize_text(text: str) -> str:
     text = re.sub(r"\n{3,}", "\n\n", text)
 
     return text.strip()
+
+
+def is_table_line(line: str) -> bool:
+    return line.strip().startswith("|")
+
+
+def is_heading_line(line: str) -> bool:
+    return re.match(r"^\s*#{1,6}\s+\S", line) is not None
+
+
+def first_heading(content: str) -> str | None:
+    for line in content.splitlines():
+        stripped = line.strip()
+
+        if is_heading_line(stripped):
+            return stripped
+
+    return None
 
 
 def detect_section(line: str) -> str | None:
@@ -123,6 +153,171 @@ def split_into_sections(markdown: str) -> list[tuple[str, str]]:
     return sections
 
 
+def split_into_blocks(content: str) -> list[str]:
+    """Split text into paragraphs, headings, and whole Markdown tables."""
+
+    blocks: list[str] = []
+    current: list[str] = []
+    in_table = False
+
+    def flush_current() -> None:
+        nonlocal current
+
+        block = "\n".join(current).strip()
+
+        if block:
+            blocks.append(block)
+
+        current = []
+
+    for line in content.splitlines():
+        stripped = line.strip()
+
+        if is_table_line(line):
+            if current and not in_table:
+                flush_current()
+
+            current.append(line)
+            in_table = True
+            continue
+
+        if in_table:
+            flush_current()
+            in_table = False
+
+        if not stripped:
+            flush_current()
+            continue
+
+        if is_heading_line(line):
+            flush_current()
+            current.append(line)
+            flush_current()
+            continue
+
+        current.append(line)
+
+    flush_current()
+
+    return blocks
+
+
+def split_text_block(
+    block: str,
+    max_characters: int,
+    overlap_characters: int,
+) -> list[str]:
+    if len(block) <= max_characters:
+        return [block]
+
+    lines = block.splitlines()
+    pieces: list[str] = []
+    current: list[str] = []
+
+    for line in lines:
+        candidate = "\n".join([*current, line]).strip()
+
+        if len(candidate) <= max_characters:
+            current.append(line)
+            continue
+
+        if current:
+            pieces.append("\n".join(current).strip())
+            current = []
+
+        if len(line) <= max_characters:
+            current.append(line)
+            continue
+
+        start = 0
+
+        while start < len(line):
+            end = start + max_characters
+            piece = line[start:end].strip()
+
+            if piece:
+                pieces.append(piece)
+
+            if end >= len(line):
+                break
+
+            start = max(
+                end - overlap_characters,
+                start + 1,
+            )
+
+    if current:
+        pieces.append("\n".join(current).strip())
+
+    return pieces
+
+
+def split_table_block(
+    block: str,
+    max_characters: int,
+) -> list[str]:
+    if len(block) <= max_characters:
+        return [block]
+
+    rows = [
+        line
+        for line in block.splitlines()
+        if line.strip()
+    ]
+
+    if not rows:
+        return []
+
+    separator_pattern = r"\|\s*:?-{3,}:?\s*\|"
+    header = rows[:1]
+
+    if len(rows) > 1 and re.search(separator_pattern, rows[1]):
+        header = rows[:2]
+
+    body = rows[len(header):]
+    chunks: list[str] = []
+    current = header.copy()
+    header_text = "\n".join(header).strip()
+
+    for row in body:
+        candidate = "\n".join([*current, row])
+
+        if len(candidate) <= max_characters:
+            current.append(row)
+            continue
+
+        if len(current) > len(header):
+            chunks.append("\n".join(current).strip())
+            current = header.copy()
+
+        if len("\n".join([*header, row])) <= max_characters:
+            current.append(row)
+            continue
+
+        available_characters = max(
+            max_characters - len(header_text) - 2,
+            max_characters // 2,
+        )
+
+        for piece in split_text_block(
+            row,
+            available_characters,
+            overlap_characters=0,
+        ):
+            contextualized_piece = (
+                f"{header_text}\n{piece}"
+                if header_text
+                else piece
+            )
+
+            chunks.append(contextualized_piece.strip())
+
+    if len(current) > len(header):
+        chunks.append("\n".join(current).strip())
+
+    return chunks or [block[:max_characters].strip()]
+
+
 def split_large_section(
     content: str,
     max_characters: int = 3000,
@@ -139,54 +334,65 @@ def split_large_section(
     if len(content) <= max_characters:
         return [content]
 
-    paragraphs = re.split(r"\n\s*\n", content)
+    blocks = split_into_blocks(content)
 
     chunks: list[str] = []
     current = ""
+    context_heading = first_heading(content)
 
-    for paragraph in paragraphs:
-        paragraph = paragraph.strip()
+    for block in blocks:
+        block = block.strip()
 
-        if not paragraph:
+        if not block:
             continue
 
-        candidate = (
-            paragraph
-            if not current
-            else f"{current}\n\n{paragraph}"
+        oversized_pieces = (
+            split_table_block(block, max_characters)
+            if is_table_line(block)
+            else split_text_block(
+                block,
+                max_characters,
+                overlap_characters,
+            )
         )
 
-        if len(candidate) <= max_characters:
-            current = candidate
-            continue
+        for piece in oversized_pieces:
+            candidate = (
+                piece
+                if not current
+                else f"{current}\n\n{piece}"
+            )
 
-        if current:
-            chunks.append(current)
+            if len(candidate) <= max_characters:
+                current = candidate
+                continue
 
-        # Handle a single oversized paragraph/table.
-        if len(paragraph) > max_characters:
-            start = 0
+            if current:
+                chunks.append(current)
 
-            while start < len(paragraph):
-                end = start + max_characters
-                piece = paragraph[start:end]
-
-                if piece.strip():
-                    chunks.append(piece.strip())
-
-                start = max(
-                    end - overlap_characters,
-                    start + 1,
-                )
-
-            current = ""
-        else:
-            current = paragraph
+            current = piece
 
     if current:
         chunks.append(current)
 
-    return chunks
+    if not context_heading:
+        return chunks
+
+    contextualized: list[str] = []
+
+    for index, chunk in enumerate(chunks):
+        if index == 0 or context_heading in chunk:
+            contextualized.append(chunk)
+            continue
+
+        prefixed = f"{context_heading}\n\n{chunk}"
+
+        if len(prefixed) <= max_characters:
+            contextualized.append(prefixed)
+        else:
+            contextualized.append(chunk)
+
+    return contextualized
 
 
 def create_chunks(

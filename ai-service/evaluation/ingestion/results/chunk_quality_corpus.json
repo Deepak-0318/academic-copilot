@@ -1,0 +1,2014 @@
+[
+  {
+    "file": "AI_and_ML/AI_and_ML_1.pdf",
+    "status": "ok",
+    "subject": "AI and ML",
+    "course_code": "CS2227",
+    "semester": 3,
+    "markdown_characters": 20779,
+    "chunk_count": 12,
+    "min_chunk_characters": 589,
+    "max_chunk_characters": 2553,
+    "average_chunk_characters": 1729.75,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "references": 5,
+      "assessment": 1,
+      "co_po_mapping": 3
+    }
+  },
+  {
+    "file": "Agile_Software_Engineering_and_DevOps/Agile_Software_Engineering_and_DevOps_1.pdf",
+    "status": "ok",
+    "subject": "Agile Software Engineering and DevOps",
+    "course_code": "CS2005",
+    "semester": 4,
+    "markdown_characters": 26286,
+    "chunk_count": 13,
+    "min_chunk_characters": 866,
+    "max_chunk_characters": 2955,
+    "average_chunk_characters": 2020.1538461538462,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "references": 2,
+      "lesson_plan": 8
+    }
+  },
+  {
+    "file": "Agile_Software_Engineering_and_DevOps/Agile_Software_Engineering_and_DevOps_2.pdf",
+    "status": "ok",
+    "subject": "Agile Software Engineering and Devops",
+    "course_code": "CS2005",
+    "semester": 4,
+    "markdown_characters": 9778,
+    "chunk_count": 5,
+    "min_chunk_characters": 940,
+    "max_chunk_characters": 3000,
+    "average_chunk_characters": 2014.4,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 4
+    }
+  },
+  {
+    "file": "Calculus_and_Laplace_Transforms/Calculus_and_Laplace_Transforms_1.pdf",
+    "status": "ok",
+    "subject": "Calculus and Laplace Transforms",
+    "course_code": "CS2806",
+    "semester": 3,
+    "markdown_characters": 10868,
+    "chunk_count": 7,
+    "min_chunk_characters": 636,
+    "max_chunk_characters": 2648,
+    "average_chunk_characters": 1550.857142857143,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "lesson_plan": 3,
+      "assessment": 1,
+      "co_po_mapping": 2
+    }
+  },
+  {
+    "file": "Cloud_Computing_and_Big_Data/Cloud_Computing_and_Big_Data_1.pdf",
+    "status": "ok",
+    "subject": "Cloud Computing and Big Data",
+    "course_code": "CS2500",
+    "semester": 3,
+    "markdown_characters": 15251,
+    "chunk_count": 7,
+    "min_chunk_characters": 819,
+    "max_chunk_characters": 2983,
+    "average_chunk_characters": 2177.0,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 3,
+      "assessment": 4
+    }
+  },
+  {
+    "file": "Cloud_Computing_and_Big_Data/Cloud_Computing_and_Big_Data_2.pdf",
+    "status": "ok",
+    "subject": "Cloud Computing and Big Data",
+    "course_code": "CS2500",
+    "semester": 3,
+    "markdown_characters": 7447,
+    "chunk_count": 4,
+    "min_chunk_characters": 813,
+    "max_chunk_characters": 2967,
+    "average_chunk_characters": 1848.75,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "syllabus": 3,
+      "references": 1
+    }
+  },
+  {
+    "file": "Cloud_Computing_and_Big_Data/Cloud_Computing_and_Big_Data_3.pdf",
+    "status": "ok",
+    "subject": "Cloud Computing and Big Data",
+    "course_code": "CS2500",
+    "semester": 3,
+    "markdown_characters": 7447,
+    "chunk_count": 4,
+    "min_chunk_characters": 813,
+    "max_chunk_characters": 2967,
+    "average_chunk_characters": 1848.75,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "syllabus": 3,
+      "references": 1
+    }
+  },
+  {
+    "file": "Cloud_Computing_and_Big_Data/Cloud_Computing_and_Big_Data_4.pdf",
+    "status": "ok",
+    "subject": "Cloud Computing and Big Data",
+    "course_code": "CS2500",
+    "semester": 3,
+    "markdown_characters": 15251,
+    "chunk_count": 7,
+    "min_chunk_characters": 819,
+    "max_chunk_characters": 2983,
+    "average_chunk_characters": 2177.0,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 3,
+      "assessment": 4
+    }
+  },
+  {
+    "file": "Cloud_Security/Cloud_Security_Migration_1.pdf",
+    "status": "ok",
+    "subject": "Cloud Security and Migration",
+    "course_code": "CS3508",
+    "semester": 6,
+    "markdown_characters": 29215,
+    "chunk_count": 13,
+    "min_chunk_characters": 803,
+    "max_chunk_characters": 2992,
+    "average_chunk_characters": 2245.4615384615386,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "course_outcomes": 1,
+      "references": 7,
+      "assessment": 2
+    }
+  },
+  {
+    "file": "Compiler_Design/Compiler_Design_1.pdf",
+    "status": "ok",
+    "subject": "Compiler Design",
+    "course_code": "CS3704",
+    "semester": 6,
+    "markdown_characters": 4752,
+    "chunk_count": 3,
+    "min_chunk_characters": 419,
+    "max_chunk_characters": 2924,
+    "average_chunk_characters": 1582.6666666666667,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 2,
+      "references": 1
+    }
+  },
+  {
+    "file": "Compiler_Design/Compiler_Design_2.pdf",
+    "status": "ok",
+    "subject": "Compiler Design",
+    "course_code": "CS3704",
+    "semester": 6,
+    "markdown_characters": 13702,
+    "chunk_count": 6,
+    "min_chunk_characters": 1678,
+    "max_chunk_characters": 2808,
+    "average_chunk_characters": 2282.0,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 3,
+      "assessment": 3
+    }
+  },
+  {
+    "file": "Computer_Networks/Computer_Networks_1.pdf",
+    "status": "ok",
+    "subject": "Computer Networks",
+    "course_code": "CS2403",
+    "semester": 3,
+    "markdown_characters": 6951,
+    "chunk_count": 4,
+    "min_chunk_characters": 839,
+    "max_chunk_characters": 2744,
+    "average_chunk_characters": 1736.25,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "references": 1
+    }
+  },
+  {
+    "file": "Computer_Networks/Computer_Networks_2.pdf",
+    "status": "ok",
+    "subject": "Computer Networks",
+    "course_code": "CS2403",
+    "semester": 3,
+    "markdown_characters": 22984,
+    "chunk_count": 11,
+    "min_chunk_characters": 842,
+    "max_chunk_characters": 2801,
+    "average_chunk_characters": 2087.6363636363635,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 6,
+      "assessment": 5
+    }
+  },
+  {
+    "file": "Computer_Organization_Complete/Computer_Organization_Complete_1.pdf",
+    "status": "ok",
+    "subject": "Computer Organization",
+    "course_code": "CS1109",
+    "semester": 2,
+    "markdown_characters": 20102,
+    "chunk_count": 10,
+    "min_chunk_characters": 860,
+    "max_chunk_characters": 3000,
+    "average_chunk_characters": 2064.2,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "syllabus": 2,
+      "lesson_plan": 2,
+      "assessment": 6
+    }
+  },
+  {
+    "file": "Computer_Organization_Complete/Computer_Organization_Complete_2.pdf",
+    "status": "ok",
+    "subject": "Computer Organization",
+    "course_code": "CS1109",
+    "semester": 2,
+    "markdown_characters": 4704,
+    "chunk_count": 3,
+    "min_chunk_characters": 848,
+    "max_chunk_characters": 2969,
+    "average_chunk_characters": 1567.0,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "references": 1
+    }
+  },
+  {
+    "file": "Cybersecurity/Cybersecurity_1.pdf",
+    "status": "ok",
+    "subject": "Cybersecurity",
+    "course_code": "CS2405",
+    "semester": 3,
+    "markdown_characters": 23110,
+    "chunk_count": 14,
+    "min_chunk_characters": 661,
+    "max_chunk_characters": 2951,
+    "average_chunk_characters": 1648.857142857143,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "course_outcomes": 1,
+      "references": 4,
+      "assessment": 1,
+      "co_po_mapping": 5
+    }
+  },
+  {
+    "file": "Data_Structures_using_C/Data_Structures_using_C_1.pdf",
+    "status": "ok",
+    "subject": "Data Structures Using C",
+    "course_code": "CS1083",
+    "semester": 2,
+    "markdown_characters": 38623,
+    "chunk_count": 20,
+    "min_chunk_characters": 423,
+    "max_chunk_characters": 2999,
+    "average_chunk_characters": 1929.3,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 2,
+      "references": 1,
+      "lab_programs": 3,
+      "lesson_plan": 7,
+      "assessment": 1,
+      "co_po_mapping": 4
+    }
+  },
+  {
+    "file": "Data_Structures_using_C/Data_Structures_using_C_2.pdf",
+    "status": "ok",
+    "subject": "Data Structures using C",
+    "course_code": "CS1083",
+    "semester": 2,
+    "markdown_characters": 13793,
+    "chunk_count": 7,
+    "min_chunk_characters": 750,
+    "max_chunk_characters": 2969,
+    "average_chunk_characters": 1968.857142857143,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 2,
+      "references": 1,
+      "lab_programs": 2
+    }
+  },
+  {
+    "file": "Data_Structures_using_C/Data_Structures_using_C_3.pdf",
+    "status": "ok",
+    "subject": "Data Structures",
+    "course_code": "CS1006",
+    "semester": null,
+    "markdown_characters": 7434,
+    "chunk_count": 5,
+    "min_chunk_characters": 673,
+    "max_chunk_characters": 2680,
+    "average_chunk_characters": 1485.4,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 2,
+      "references": 1
+    }
+  },
+  {
+    "file": "Data_Structures_using_C/Data_Structures_using_C_4.pdf",
+    "status": "ok",
+    "subject": "Data Structures",
+    "course_code": "CS1006",
+    "semester": 2,
+    "markdown_characters": 25384,
+    "chunk_count": 12,
+    "min_chunk_characters": 509,
+    "max_chunk_characters": 2979,
+    "average_chunk_characters": 2113.5,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "lesson_plan": 6,
+      "assessment": 5
+    }
+  },
+  {
+    "file": "Data_Structures_using_C/Data_Structures_using_C_5.pdf",
+    "status": "ok",
+    "subject": "Data Structures using C",
+    "course_code": "CS1083",
+    "semester": 2,
+    "markdown_characters": 13707,
+    "chunk_count": 7,
+    "min_chunk_characters": 750,
+    "max_chunk_characters": 2968,
+    "average_chunk_characters": 1956.5714285714287,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 2,
+      "references": 1,
+      "lab_programs": 2
+    }
+  },
+  {
+    "file": "Data_Structures_using_C/Data_Structures_using_C_6.pdf",
+    "status": "ok",
+    "subject": "Data Structures Using C",
+    "course_code": "CS1083",
+    "semester": 2,
+    "markdown_characters": 34665,
+    "chunk_count": 16,
+    "min_chunk_characters": 748,
+    "max_chunk_characters": 2968,
+    "average_chunk_characters": 2164.75,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 2,
+      "references": 1,
+      "lab_programs": 6,
+      "assessment": 1,
+      "co_po_mapping": 4
+    }
+  },
+  {
+    "file": "Database_Management_Systems/Database_Management_Systems_1.pdf",
+    "status": "ok",
+    "subject": "Database Management Systems",
+    "course_code": "CS2201",
+    "semester": 2,
+    "markdown_characters": 12343,
+    "chunk_count": 6,
+    "min_chunk_characters": 1162,
+    "max_chunk_characters": 2810,
+    "average_chunk_characters": 2055.5,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "course_outcomes": 1,
+      "references": 3
+    }
+  },
+  {
+    "file": "Database_Management_Systems/Database_Management_Systems_2.pdf",
+    "status": "ok",
+    "subject": "Database Management Systems",
+    "course_code": "CS2201",
+    "semester": 2,
+    "markdown_characters": 24042,
+    "chunk_count": 13,
+    "min_chunk_characters": 702,
+    "max_chunk_characters": 2949,
+    "average_chunk_characters": 1847.6153846153845,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 3,
+      "lesson_plan": 3,
+      "assessment": 1,
+      "co_po_mapping": 4
+    }
+  },
+  {
+    "file": "Database_Management_Systems/Database_Management_Systems_3.pdf",
+    "status": "ok",
+    "subject": "Database Management System (DBMS)",
+    "course_code": "CS1211",
+    "semester": 2,
+    "markdown_characters": 21979,
+    "chunk_count": 10,
+    "min_chunk_characters": 1368,
+    "max_chunk_characters": 2916,
+    "average_chunk_characters": 2196.1,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 3,
+      "assessment": 7
+    }
+  },
+  {
+    "file": "Database_Management_Systems/Database_Management_Systems_4.pdf",
+    "status": "ok",
+    "subject": "Database Management Systems",
+    "course_code": "CS1211",
+    "semester": 2,
+    "markdown_characters": 6074,
+    "chunk_count": 4,
+    "min_chunk_characters": 841,
+    "max_chunk_characters": 2414,
+    "average_chunk_characters": 1517.0,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "course_outcomes": 1,
+      "references": 1
+    }
+  },
+  {
+    "file": "Deep_Learning/Deep_Learning_1.pdf",
+    "status": "ok",
+    "subject": "Deep Learning",
+    "course_code": "CS2228",
+    "semester": 4,
+    "markdown_characters": 29781,
+    "chunk_count": 14,
+    "min_chunk_characters": 940,
+    "max_chunk_characters": 2983,
+    "average_chunk_characters": 2125.3571428571427,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 3,
+      "references": 4,
+      "assessment": 1,
+      "co_po_mapping": 5
+    }
+  },
+  {
+    "file": "Deep_Learning/Deep_Learning_2.pdf",
+    "status": "ok",
+    "subject": "Deep Learning",
+    "course_code": "CS2228",
+    "semester": 4,
+    "markdown_characters": 7422,
+    "chunk_count": 5,
+    "min_chunk_characters": 651,
+    "max_chunk_characters": 2396,
+    "average_chunk_characters": 1482.8,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "references": 2
+    }
+  },
+  {
+    "file": "Design_and_Analysis_of_Algorithms/Design_and_Analysis_of_Algorithms_1.pdf",
+    "status": "ok",
+    "subject": "Design and Analysis of Algorithms",
+    "course_code": "CS2000",
+    "semester": 3,
+    "markdown_characters": 21701,
+    "chunk_count": 11,
+    "min_chunk_characters": 492,
+    "max_chunk_characters": 2888,
+    "average_chunk_characters": 1971.090909090909,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 2,
+      "references": 4,
+      "assessment": 3
+    }
+  },
+  {
+    "file": "Design_and_Analysis_of_Algorithms/Design_and_Analysis_of_Algorithms_2.pdf",
+    "status": "ok",
+    "subject": "Design and Analysis of Algorithms",
+    "course_code": "CS2000",
+    "semester": 3,
+    "markdown_characters": 5322,
+    "chunk_count": 3,
+    "min_chunk_characters": 588,
+    "max_chunk_characters": 2708,
+    "average_chunk_characters": 1757.3333333333333,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "syllabus": 2,
+      "references": 1
+    }
+  },
+  {
+    "file": "Digital_Logic/Digital_Logic_1.pdf",
+    "status": "ok",
+    "subject": "Digital Logic",
+    "course_code": "CS1107",
+    "semester": 1,
+    "markdown_characters": 8897,
+    "chunk_count": 5,
+    "min_chunk_characters": 865,
+    "max_chunk_characters": 2956,
+    "average_chunk_characters": 1778.0,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 1,
+      "references": 2
+    }
+  },
+  {
+    "file": "Digital_Logic/Digital_Logic_2.pdf",
+    "status": "ok",
+    "subject": "Digital Logic",
+    "course_code": "CS1107",
+    "semester": 1,
+    "markdown_characters": 29150,
+    "chunk_count": 15,
+    "min_chunk_characters": 327,
+    "max_chunk_characters": 3000,
+    "average_chunk_characters": 1997.6,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "references": 2,
+      "lesson_plan": 3,
+      "assessment": 8
+    }
+  },
+  {
+    "file": "Digital_Systems_&_Computer_Architecture/Digital_Systems_&_Computer_Architecture_1.pdf",
+    "status": "ok",
+    "subject": "Digital Systems & Computer Architecture",
+    "course_code": "CS1101",
+    "semester": 1,
+    "markdown_characters": 22263,
+    "chunk_count": 11,
+    "min_chunk_characters": 406,
+    "max_chunk_characters": 2852,
+    "average_chunk_characters": 2022.090909090909,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "lesson_plan": 5,
+      "assessment": 5
+    }
+  },
+  {
+    "file": "Discrete_Mathematics_and_Set_Theory/Discrete_Mathematics_and_Set_Theory_1.pdf",
+    "status": "ok",
+    "subject": "Discrete Mathematics & Set Theory",
+    "course_code": "CS1812",
+    "semester": 1,
+    "markdown_characters": 14114,
+    "chunk_count": 7,
+    "min_chunk_characters": 605,
+    "max_chunk_characters": 2951,
+    "average_chunk_characters": 2014.5714285714287,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 3,
+      "assessment": 1,
+      "co_po_mapping": 3
+    }
+  },
+  {
+    "file": "Discrete_Mathematics_and_Set_Theory/Discrete_Mathematics_and_Set_Theory_2.pdf",
+    "status": "ok",
+    "subject": "Discrete Mathematics and Set Theory",
+    "course_code": "CS1812",
+    "semester": 1,
+    "markdown_characters": 4661,
+    "chunk_count": 3,
+    "min_chunk_characters": 935,
+    "max_chunk_characters": 2627,
+    "average_chunk_characters": 1552.3333333333333,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "references": 1
+    }
+  },
+  {
+    "file": "Embedded_System_and_ARM_Microcontroller/Embedded_System_and_ARM_Microcontroller_1.pdf",
+    "status": "ok",
+    "subject": "Embedded System and ARM Microcontroller",
+    "course_code": "CS1120",
+    "semester": 2,
+    "markdown_characters": 10106,
+    "chunk_count": 6,
+    "min_chunk_characters": 582,
+    "max_chunk_characters": 2986,
+    "average_chunk_characters": 1682.6666666666667,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "references": 3
+    }
+  },
+  {
+    "file": "Embedded_System_and_ARM_Microcontroller/Embedded_System_and_ARM_Microcontroller_2.pdf",
+    "status": "ok",
+    "subject": "Embedded System and ARM Microcontroller",
+    "course_code": "CS1120",
+    "semester": 2,
+    "markdown_characters": 19108,
+    "chunk_count": 8,
+    "min_chunk_characters": 1938,
+    "max_chunk_characters": 2836,
+    "average_chunk_characters": 2386.75,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 3,
+      "assessment": 5
+    }
+  },
+  {
+    "file": "Engineering_Explorations/Engineering_Explorations_1.pdf",
+    "status": "ok",
+    "subject": "Engineering Explorations (Theory and Lab)",
+    "course_code": "CS1841",
+    "semester": 1,
+    "markdown_characters": 7896,
+    "chunk_count": 3,
+    "min_chunk_characters": 2182,
+    "max_chunk_characters": 2990,
+    "average_chunk_characters": 2630.6666666666665,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 3
+    }
+  },
+  {
+    "file": "Engineering_Explorations/Engineering_Explorations_2.pdf",
+    "status": "ok",
+    "subject": "Engineering Explorations",
+    "course_code": "CS1841",
+    "semester": 1,
+    "markdown_characters": 11666,
+    "chunk_count": 6,
+    "min_chunk_characters": 809,
+    "max_chunk_characters": 2785,
+    "average_chunk_characters": 1942.6666666666667,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 4,
+      "assessment": 2
+    }
+  },
+  {
+    "file": "English_Communication/English_Communication_1.pdf",
+    "status": "ok",
+    "subject": "English Communication",
+    "course_code": "CS1927",
+    "semester": 2,
+    "markdown_characters": 3699,
+    "chunk_count": 3,
+    "min_chunk_characters": 849,
+    "max_chunk_characters": 1984,
+    "average_chunk_characters": 1231.6666666666667,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "course_outcomes": 1
+    }
+  },
+  {
+    "file": "English_Communication/English_Communication_2.pdf",
+    "status": "ok",
+    "subject": null,
+    "course_code": "CS1927",
+    "semester": 1,
+    "markdown_characters": 9543,
+    "chunk_count": 4,
+    "min_chunk_characters": 560,
+    "max_chunk_characters": 2972,
+    "average_chunk_characters": 2335.75,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 4
+    }
+  },
+  {
+    "file": "English_Communication/English_Communication_3.pdf",
+    "status": "ok",
+    "subject": "English Communication",
+    "course_code": "CS1927",
+    "semester": 2,
+    "markdown_characters": 3532,
+    "chunk_count": 2,
+    "min_chunk_characters": 815,
+    "max_chunk_characters": 2715,
+    "average_chunk_characters": 1765.0,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1
+    }
+  },
+  {
+    "file": "Entrepreneurial_Mindset/Entrepreneurial_Mindset_1.pdf",
+    "status": "ok",
+    "subject": "Entrepreneurial Mindset",
+    "course_code": "CS1904",
+    "semester": 2,
+    "markdown_characters": 19066,
+    "chunk_count": 9,
+    "min_chunk_characters": 738,
+    "max_chunk_characters": 2997,
+    "average_chunk_characters": 2116.6666666666665,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "course_outcomes": 2,
+      "assessment": 5
+    }
+  },
+  {
+    "file": "Entrepreneurial_Mindset/Entrepreneurial_Mindset_2.pdf",
+    "status": "ok",
+    "subject": "Entrepreneurial Mindset",
+    "course_code": null,
+    "semester": 2,
+    "markdown_characters": 4919,
+    "chunk_count": 4,
+    "min_chunk_characters": 529,
+    "max_chunk_characters": 2570,
+    "average_chunk_characters": 1228.25,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "course_outcomes": 1
+    }
+  },
+  {
+    "file": "Entrepreneurial_Mindset/Entrepreneurial_Mindset_3.pdf",
+    "status": "ok",
+    "subject": "Entrepreneurial Mindset",
+    "course_code": "CS1940",
+    "semester": 2,
+    "markdown_characters": 5148,
+    "chunk_count": 3,
+    "min_chunk_characters": 803,
+    "max_chunk_characters": 2807,
+    "average_chunk_characters": 1714.6666666666667,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2
+    }
+  },
+  {
+    "file": "Ethical_Hacking/Ethical_Hacking_1.pdf",
+    "status": "ok",
+    "subject": "Ethical Hacking Essentials",
+    "course_code": "CS3432",
+    "semester": 6,
+    "markdown_characters": 8394,
+    "chunk_count": 5,
+    "min_chunk_characters": 836,
+    "max_chunk_characters": 2991,
+    "average_chunk_characters": 1677.4,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 3
+    }
+  },
+  {
+    "file": "Ethical_Hacking/Ethical_Hacking_2.pdf",
+    "status": "ok",
+    "subject": "Ethical Hacking Essentials",
+    "course_code": "CS3432",
+    "semester": 6,
+    "markdown_characters": 14149,
+    "chunk_count": 8,
+    "min_chunk_characters": 497,
+    "max_chunk_characters": 2863,
+    "average_chunk_characters": 1766.875,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "lesson_plan": 3,
+      "assessment": 4
+    }
+  },
+  {
+    "file": "Exploring_Science/Exploring_Science_1.pdf",
+    "status": "ok",
+    "subject": "Exploring Science",
+    "course_code": "CS1804",
+    "semester": 1,
+    "markdown_characters": 18139,
+    "chunk_count": 9,
+    "min_chunk_characters": 491,
+    "max_chunk_characters": 2825,
+    "average_chunk_characters": 2013.6666666666667,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "lesson_plan": 8
+    }
+  },
+  {
+    "file": "Exploring_Science/Exploring_Science_2.pdf",
+    "status": "ok",
+    "subject": null,
+    "course_code": null,
+    "semester": null,
+    "markdown_characters": 22123,
+    "chunk_count": 9,
+    "min_chunk_characters": 1500,
+    "max_chunk_characters": 2999,
+    "average_chunk_characters": 2456.3333333333335,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 9
+    }
+  },
+  {
+    "file": "GenAI/GenAI_1.pdf",
+    "status": "ok",
+    "subject": "Foundations of Generative AI",
+    "course_code": "CS3234",
+    "semester": 6,
+    "markdown_characters": 28703,
+    "chunk_count": 16,
+    "min_chunk_characters": 587,
+    "max_chunk_characters": 2537,
+    "average_chunk_characters": 1792.0625,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "course_outcomes": 1,
+      "references": 1,
+      "lesson_plan": 5,
+      "assessment": 7
+    }
+  },
+  {
+    "file": "Incident_Response_and_Digital_Forensics/Incident_Response_and_Digital_Forensics_1.pdf",
+    "status": "ok",
+    "subject": "Incident Response and Digital Forensics",
+    "course_code": "CS2406",
+    "semester": 4,
+    "markdown_characters": 22244,
+    "chunk_count": 10,
+    "min_chunk_characters": 945,
+    "max_chunk_characters": 2878,
+    "average_chunk_characters": 2222.7,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 2,
+      "course_outcomes": 3,
+      "assessment": 3
+    }
+  },
+  {
+    "file": "Incident_Response_and_Digital_Forensics/Incident_Response_and_Digital_Forensics_2.pdf",
+    "status": "ok",
+    "subject": "Incident Response and Digital Forensics",
+    "course_code": "CS2406",
+    "semester": 4,
+    "markdown_characters": 9095,
+    "chunk_count": 5,
+    "min_chunk_characters": 414,
+    "max_chunk_characters": 2935,
+    "average_chunk_characters": 1817.4,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 4
+    }
+  },
+  {
+    "file": "Introduction_to_Version_Control/Introduction_to_Version_Control_1.pdf",
+    "status": "ok",
+    "subject": "Introduction to Version Control",
+    "course_code": "CS1105",
+    "semester": 2,
+    "markdown_characters": 5452,
+    "chunk_count": 4,
+    "min_chunk_characters": 662,
+    "max_chunk_characters": 2150,
+    "average_chunk_characters": 1361.5,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "course_outcomes": 1
+    }
+  },
+  {
+    "file": "Introduction_to_Version_Control/Introduction_to_Version_Control_2.pdf",
+    "status": "ok",
+    "subject": "Introduction to Version Control",
+    "course_code": "CS1105",
+    "semester": 2,
+    "markdown_characters": 15211,
+    "chunk_count": 7,
+    "min_chunk_characters": 724,
+    "max_chunk_characters": 2980,
+    "average_chunk_characters": 2171.285714285714,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 2,
+      "assessment": 1,
+      "co_po_mapping": 4
+    }
+  },
+  {
+    "file": "Introduction_to_Version_Control/Introduction_to_Version_Control_3.pdf",
+    "status": "ok",
+    "subject": "Introduction to Version Control",
+    "course_code": "CS1105",
+    "semester": 2,
+    "markdown_characters": 6403,
+    "chunk_count": 3,
+    "min_chunk_characters": 730,
+    "max_chunk_characters": 2915,
+    "average_chunk_characters": 2133.0,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2
+    }
+  },
+  {
+    "file": "Introduction_to_Version_Control/Introduction_to_Version_Control_4.pdf",
+    "status": "ok",
+    "subject": "Introduction to Version Control",
+    "course_code": "CS1105",
+    "semester": 2,
+    "markdown_characters": 20761,
+    "chunk_count": 11,
+    "min_chunk_characters": 713,
+    "max_chunk_characters": 2996,
+    "average_chunk_characters": 1885.5454545454545,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "course_outcomes": 4,
+      "assessment": 1,
+      "co_po_mapping": 4
+    }
+  },
+  {
+    "file": "IoT/IoT_1.pdf",
+    "status": "ok",
+    "subject": "IoT",
+    "course_code": "CS2404",
+    "semester": 3,
+    "markdown_characters": 5824,
+    "chunk_count": 4,
+    "min_chunk_characters": 800,
+    "max_chunk_characters": 2802,
+    "average_chunk_characters": 1454.5,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "course_outcomes": 1,
+      "references": 1
+    }
+  },
+  {
+    "file": "IoT/IoT_2.pdf",
+    "status": "ok",
+    "subject": null,
+    "course_code": null,
+    "semester": null,
+    "markdown_characters": 12234,
+    "chunk_count": 5,
+    "min_chunk_characters": 1178,
+    "max_chunk_characters": 2978,
+    "average_chunk_characters": 2445.2,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 5
+    }
+  },
+  {
+    "file": "Linear_Algebra/Linear_Algebra_1.pdf",
+    "status": "ok",
+    "subject": "Linear Algebra",
+    "course_code": "CS1807",
+    "semester": 2,
+    "markdown_characters": 4369,
+    "chunk_count": 4,
+    "min_chunk_characters": 882,
+    "max_chunk_characters": 1446,
+    "average_chunk_characters": 1090.75,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "course_outcomes": 1,
+      "references": 1
+    }
+  },
+  {
+    "file": "Linear_Algebra/Linear_Algebra_2.pdf",
+    "status": "ok",
+    "subject": "Linear Algebra",
+    "course_code": "CS1807",
+    "semester": 2,
+    "markdown_characters": 12588,
+    "chunk_count": 6,
+    "min_chunk_characters": 536,
+    "max_chunk_characters": 2971,
+    "average_chunk_characters": 2096.3333333333335,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "lesson_plan": 3,
+      "co_po_mapping": 2
+    }
+  },
+  {
+    "file": "Linear_Algebra/Linear_Algebra_3.pdf",
+    "status": "ok",
+    "subject": "Elements of Linear Algebra",
+    "course_code": "CS1831",
+    "semester": 1,
+    "markdown_characters": 2975,
+    "chunk_count": 3,
+    "min_chunk_characters": 933,
+    "max_chunk_characters": 1050,
+    "average_chunk_characters": 990.3333333333334,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "course_outcomes": 1
+    }
+  },
+  {
+    "file": "Linear_Algebra/Linear_Algebra_4.pdf",
+    "status": "ok",
+    "subject": "Elements of Linear Algebra",
+    "course_code": "CS1831",
+    "semester": 1,
+    "markdown_characters": 8400,
+    "chunk_count": 5,
+    "min_chunk_characters": 559,
+    "max_chunk_characters": 2496,
+    "average_chunk_characters": 1678.4,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 2,
+      "assessment": 1,
+      "co_po_mapping": 2
+    }
+  },
+  {
+    "file": "Linux_and_Shell_programming/Linux_and_Shell_programming_1.pdf",
+    "status": "ok",
+    "subject": "Linux and Shell",
+    "course_code": "CS1104",
+    "semester": 1,
+    "markdown_characters": 27957,
+    "chunk_count": 13,
+    "min_chunk_characters": 520,
+    "max_chunk_characters": 2981,
+    "average_chunk_characters": 2148.6923076923076,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "lesson_plan": 7,
+      "assessment": 5
+    }
+  },
+  {
+    "file": "Linux_and_Shell_programming/Linux_and_Shell_programming_2.pdf",
+    "status": "ok",
+    "subject": "Semester: I",
+    "course_code": "CS1104",
+    "semester": 1,
+    "markdown_characters": 6112,
+    "chunk_count": 4,
+    "min_chunk_characters": 707,
+    "max_chunk_characters": 2435,
+    "average_chunk_characters": 1526.5,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "references": 1
+    }
+  },
+  {
+    "file": "Linux_and_Shell_programming/Linux_and_Shell_programming_3.pdf",
+    "status": "ok",
+    "subject": "Linux and Shell",
+    "course_code": "CS1108",
+    "semester": 1,
+    "markdown_characters": 8046,
+    "chunk_count": 5,
+    "min_chunk_characters": 811,
+    "max_chunk_characters": 2745,
+    "average_chunk_characters": 1607.8,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 2,
+      "references": 1
+    }
+  },
+  {
+    "file": "Linux_and_Shell_programming/Linux_and_Shell_programming_4.pdf",
+    "status": "ok",
+    "subject": "Linux and Shell",
+    "course_code": "CS1108",
+    "semester": 1,
+    "markdown_characters": 32168,
+    "chunk_count": 15,
+    "min_chunk_characters": 752,
+    "max_chunk_characters": 3000,
+    "average_chunk_characters": 2203.0666666666666,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 6,
+      "assessment": 8
+    }
+  },
+  {
+    "file": "MLOPS/MLOPS_1.pdf",
+    "status": "ok",
+    "subject": "MLOps with Cloud Computing",
+    "course_code": "CS3242",
+    "semester": 6,
+    "markdown_characters": 8266,
+    "chunk_count": 6,
+    "min_chunk_characters": 802,
+    "max_chunk_characters": 2178,
+    "average_chunk_characters": 1376.1666666666667,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 2,
+      "lab_programs": 1,
+      "references": 1
+    }
+  },
+  {
+    "file": "Machine_Learning_for_Data_science/Machine_Learning_for_Data_science_1.pdf",
+    "status": "ok",
+    "subject": "Machine Learning for Data science",
+    "course_code": "CS2226",
+    "semester": 4,
+    "markdown_characters": 21620,
+    "chunk_count": 11,
+    "min_chunk_characters": 879,
+    "max_chunk_characters": 2712,
+    "average_chunk_characters": 1963.6363636363637,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "course_outcomes": 1,
+      "references": 4,
+      "assessment": 4
+    }
+  },
+  {
+    "file": "Machine_Learning_for_Data_science/Machine_Learning_for_Data_science_2.pdf",
+    "status": "ok",
+    "subject": "Machine Learning for Data science",
+    "course_code": "CS2226",
+    "semester": 4,
+    "markdown_characters": 6471,
+    "chunk_count": 4,
+    "min_chunk_characters": 879,
+    "max_chunk_characters": 2712,
+    "average_chunk_characters": 1616.25,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "course_outcomes": 1,
+      "references": 1
+    }
+  },
+  {
+    "file": "Mobile_App_Development_Essentials/Mobile_App_Development_Essentials_1.pdf",
+    "status": "ok",
+    "subject": "Mobile Application Development Essentials",
+    "course_code": "CS2306",
+    "semester": 4,
+    "markdown_characters": 4578,
+    "chunk_count": 3,
+    "min_chunk_characters": 711,
+    "max_chunk_characters": 2970,
+    "average_chunk_characters": 1524.6666666666667,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "references": 1
+    }
+  },
+  {
+    "file": "NLP/NLP_1.pdf",
+    "status": "ok",
+    "subject": "Fundamentals of Natural Language Processing",
+    "course_code": "CS3233",
+    "semester": 6,
+    "markdown_characters": 9494,
+    "chunk_count": 5,
+    "min_chunk_characters": 248,
+    "max_chunk_characters": 2935,
+    "average_chunk_characters": 1897.2,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 2,
+      "course_outcomes": 1,
+      "references": 2
+    }
+  },
+  {
+    "file": "NLP/NLP_2.pdf",
+    "status": "ok",
+    "subject": "Fundamentals of Natural Language Processing",
+    "course_code": "CS3233",
+    "semester": 6,
+    "markdown_characters": 20367,
+    "chunk_count": 10,
+    "min_chunk_characters": 1233,
+    "max_chunk_characters": 2750,
+    "average_chunk_characters": 2034.9,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 5,
+      "assessment": 1,
+      "co_po_mapping": 4
+    }
+  },
+  {
+    "file": "Network_Security/Network_Security_1.pdf",
+    "status": "ok",
+    "subject": "Network Security",
+    "course_code": "CS3403",
+    "semester": 6,
+    "markdown_characters": 21034,
+    "chunk_count": 10,
+    "min_chunk_characters": 816,
+    "max_chunk_characters": 2766,
+    "average_chunk_characters": 2101.6,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 5,
+      "assessment": 1,
+      "co_po_mapping": 4
+    }
+  },
+  {
+    "file": "Network_Security/Network_Security_2.pdf",
+    "status": "ok",
+    "subject": "Network Security",
+    "course_code": "CS3403",
+    "semester": 6,
+    "markdown_characters": 7356,
+    "chunk_count": 4,
+    "min_chunk_characters": 1026,
+    "max_chunk_characters": 2330,
+    "average_chunk_characters": 1837.5,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "references": 1
+    }
+  },
+  {
+    "file": "Object_Oriented_Programming_with_Java/Object_Oriented_Programming_with_Java_1.pdf",
+    "status": "ok",
+    "subject": "Object Oriented",
+    "course_code": "CS2024",
+    "semester": 4,
+    "markdown_characters": 7941,
+    "chunk_count": 4,
+    "min_chunk_characters": 451,
+    "max_chunk_characters": 2823,
+    "average_chunk_characters": 1983.75,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "references": 1
+    }
+  },
+  {
+    "file": "Object_Oriented_Programming_with_Java/Object_Oriented_Programming_with_Java_2.pdf",
+    "status": "ok",
+    "subject": "Object Oriented",
+    "course_code": "CS2024",
+    "semester": 4,
+    "markdown_characters": 17966,
+    "chunk_count": 9,
+    "min_chunk_characters": 553,
+    "max_chunk_characters": 2977,
+    "average_chunk_characters": 1994.4444444444443,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 3,
+      "lesson_plan": 2,
+      "assessment": 1,
+      "co_po_mapping": 2
+    }
+  },
+  {
+    "file": "Operating_System/Operating_System_1.pdf",
+    "status": "ok",
+    "subject": "Operating Systems",
+    "course_code": "CS1103",
+    "semester": 2,
+    "markdown_characters": 17627,
+    "chunk_count": 9,
+    "min_chunk_characters": 797,
+    "max_chunk_characters": 2924,
+    "average_chunk_characters": 1956.7777777777778,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_outcomes": 8
+    }
+  },
+  {
+    "file": "Operating_System/Operating_System_2.pdf",
+    "status": "ok",
+    "subject": "Operating Systems",
+    "course_code": "CS1103",
+    "semester": 2,
+    "markdown_characters": 5245,
+    "chunk_count": 3,
+    "min_chunk_characters": 1078,
+    "max_chunk_characters": 2197,
+    "average_chunk_characters": 1747.0,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_outcomes": 2
+    }
+  },
+  {
+    "file": "Operating_System/Operating_System_3.pdf",
+    "status": "ok",
+    "subject": "Operating Systems",
+    "course_code": "CS1103",
+    "semester": 2,
+    "markdown_characters": 6325,
+    "chunk_count": 4,
+    "min_chunk_characters": 872,
+    "max_chunk_characters": 2997,
+    "average_chunk_characters": 1579.75,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "lab_programs": 1
+    }
+  },
+  {
+    "file": "Operating_System/Operating_System_4.pdf",
+    "status": "ok",
+    "subject": "Operating System",
+    "course_code": "CS1103",
+    "semester": 2,
+    "markdown_characters": 12910,
+    "chunk_count": 8,
+    "min_chunk_characters": 227,
+    "max_chunk_characters": 2844,
+    "average_chunk_characters": 1612.0,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "lesson_plan": 3,
+      "assessment": 1,
+      "co_po_mapping": 3
+    }
+  },
+  {
+    "file": "Operating_System/Operating_System_5.pdf",
+    "status": "ok",
+    "subject": "Operating Systems",
+    "course_code": "CS1103",
+    "semester": 2,
+    "markdown_characters": 5927,
+    "chunk_count": 3,
+    "min_chunk_characters": 884,
+    "max_chunk_characters": 2982,
+    "average_chunk_characters": 1974.3333333333333,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2
+    }
+  },
+  {
+    "file": "Operating_System/Operating_System_6.pdf",
+    "status": "ok",
+    "subject": "Operating Systems",
+    "course_code": "CS1103",
+    "semester": 2,
+    "markdown_characters": 19885,
+    "chunk_count": 10,
+    "min_chunk_characters": 1183,
+    "max_chunk_characters": 2982,
+    "average_chunk_characters": 1986.8,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 4,
+      "assessment": 4
+    }
+  },
+  {
+    "file": "Probability_and_Statistics/Probability_and_Statistics_1.pdf",
+    "status": "ok",
+    "subject": "Probability and Statistics",
+    "course_code": "CS2800",
+    "semester": 4,
+    "markdown_characters": 5979,
+    "chunk_count": 3,
+    "min_chunk_characters": 1169,
+    "max_chunk_characters": 2692,
+    "average_chunk_characters": 1991.6666666666667,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2
+    }
+  },
+  {
+    "file": "Probability_and_Statistics/Probability_and_Statistics_2.pdf",
+    "status": "ok",
+    "subject": "Probability and Statistics",
+    "course_code": "CS2800",
+    "semester": 4,
+    "markdown_characters": 12505,
+    "chunk_count": 7,
+    "min_chunk_characters": 695,
+    "max_chunk_characters": 2679,
+    "average_chunk_characters": 1784.7142857142858,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "lesson_plan": 3,
+      "assessment": 1,
+      "co_po_mapping": 2
+    }
+  },
+  {
+    "file": "Programming_in_C/Programming_in_C_1.pdf",
+    "status": "ok",
+    "subject": "Programming in C",
+    "course_code": "CS1003",
+    "semester": 1,
+    "markdown_characters": 18511,
+    "chunk_count": 11,
+    "min_chunk_characters": 353,
+    "max_chunk_characters": 3000,
+    "average_chunk_characters": 1731.6363636363637,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 7,
+      "assessment": 1,
+      "co_po_mapping": 3
+    }
+  },
+  {
+    "file": "Programming_in_C/Programming_in_C_2.pdf",
+    "status": "ok",
+    "subject": "Programming in C",
+    "course_code": "CS1003",
+    "semester": 1,
+    "markdown_characters": 6798,
+    "chunk_count": 3,
+    "min_chunk_characters": 1257,
+    "max_chunk_characters": 2939,
+    "average_chunk_characters": 2249.3333333333335,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "syllabus": 2,
+      "lab_programs": 1
+    }
+  },
+  {
+    "file": "Programming_in_C/Programming_in_C_3.pdf",
+    "status": "ok",
+    "subject": "Programming with C",
+    "course_code": "CS1081",
+    "semester": 1,
+    "markdown_characters": 4969,
+    "chunk_count": 3,
+    "min_chunk_characters": 873,
+    "max_chunk_characters": 2579,
+    "average_chunk_characters": 1655.0,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2
+    }
+  },
+  {
+    "file": "Programming_in_C/Programming_in_C_4.pdf",
+    "status": "ok",
+    "subject": "Programming with C",
+    "course_code": "CS1081",
+    "semester": 1,
+    "markdown_characters": 22820,
+    "chunk_count": 11,
+    "min_chunk_characters": 815,
+    "max_chunk_characters": 2999,
+    "average_chunk_characters": 2072.7272727272725,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "references": 1,
+      "lesson_plan": 3,
+      "assessment": 5
+    }
+  },
+  {
+    "file": "Python_Programming_for_Data_Analytics/Python_Programming_for_Data_Analytics_1.pdf",
+    "status": "ok",
+    "subject": "Python",
+    "course_code": "CS1280",
+    "semester": 2,
+    "markdown_characters": 10088,
+    "chunk_count": 6,
+    "min_chunk_characters": 800,
+    "max_chunk_characters": 2955,
+    "average_chunk_characters": 1679.6666666666667,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "references": 3
+    }
+  },
+  {
+    "file": "Python_Programming_for_Data_Analytics/Python_Programming_for_Data_Analytics_2.pdf",
+    "status": "ok",
+    "subject": "Python",
+    "course_code": "CS1280",
+    "semester": 2,
+    "markdown_characters": 17992,
+    "chunk_count": 9,
+    "min_chunk_characters": 543,
+    "max_chunk_characters": 2923,
+    "average_chunk_characters": 1997.3333333333333,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "lesson_plan": 3,
+      "assessment": 5
+    }
+  },
+  {
+    "file": "Python_Programming_for_Data_Analytics/Python_Programming_for_Data_Analytics_3.pdf",
+    "status": "ok",
+    "subject": "Python",
+    "course_code": "CS1280",
+    "semester": 2,
+    "markdown_characters": 8601,
+    "chunk_count": 5,
+    "min_chunk_characters": 781,
+    "max_chunk_characters": 2877,
+    "average_chunk_characters": 1718.6,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "references": 2
+    }
+  },
+  {
+    "file": "Python_Programming_for_Data_Analytics/Python_Programming_for_Data_Analytics_4.pdf",
+    "status": "ok",
+    "subject": "Course Name",
+    "course_code": "CS1280",
+    "semester": 2,
+    "markdown_characters": 17856,
+    "chunk_count": 8,
+    "min_chunk_characters": 958,
+    "max_chunk_characters": 2891,
+    "average_chunk_characters": 2230.25,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "lesson_plan": 3,
+      "assessment": 4
+    }
+  },
+  {
+    "file": "Set_Theory/Set_Theory_1.pdf",
+    "status": "ok",
+    "subject": "Set Theory",
+    "course_code": "CS1885",
+    "semester": 2,
+    "markdown_characters": 3968,
+    "chunk_count": 4,
+    "min_chunk_characters": 705,
+    "max_chunk_characters": 1479,
+    "average_chunk_characters": 990.5,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "course_outcomes": 1,
+      "references": 1
+    }
+  },
+  {
+    "file": "Set_Theory/Set_Theory_2.pdf",
+    "status": "ok",
+    "subject": "Set Theory",
+    "course_code": "CS1885",
+    "semester": 2,
+    "markdown_characters": 10220,
+    "chunk_count": 6,
+    "min_chunk_characters": 450,
+    "max_chunk_characters": 2785,
+    "average_chunk_characters": 1701.6666666666667,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "lesson_plan": 2,
+      "assessment": 1,
+      "co_po_mapping": 2
+    }
+  },
+  {
+    "file": "Structured_Innovation_with_Design_Thinking/Structured_Innovation_with_Design_Thinking_1.pdf",
+    "status": "ok",
+    "subject": "Structured Innovation with Design Thinking",
+    "course_code": null,
+    "semester": 1,
+    "markdown_characters": 5394,
+    "chunk_count": 5,
+    "min_chunk_characters": 502,
+    "max_chunk_characters": 2506,
+    "average_chunk_characters": 1077.2,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "course_outcomes": 1,
+      "references": 1
+    }
+  },
+  {
+    "file": "Structured_Innovation_with_Design_Thinking/Structured_Innovation_with_Design_Thinking_2.pdf",
+    "status": "ok",
+    "subject": "Structured Innovation with Design Thinking",
+    "course_code": "CS1929",
+    "semester": 1,
+    "markdown_characters": 16688,
+    "chunk_count": 8,
+    "min_chunk_characters": 894,
+    "max_chunk_characters": 2997,
+    "average_chunk_characters": 2081.875,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "syllabus": 2,
+      "course_outcomes": 1,
+      "references": 2,
+      "assessment": 3
+    }
+  },
+  {
+    "file": "Structured_Innovation_with_Design_Thinking/Structured_Innovation_with_Design_Thinking_3.pdf",
+    "status": "ok",
+    "subject": "Structured Innovation with Design Thinking",
+    "course_code": "CS1929",
+    "semester": 1,
+    "markdown_characters": 6238,
+    "chunk_count": 5,
+    "min_chunk_characters": 609,
+    "max_chunk_characters": 2971,
+    "average_chunk_characters": 1246.2,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 2,
+      "references": 1
+    }
+  },
+  {
+    "file": "Universal_Human_Values/Universal_Human_Values_1.pdf",
+    "status": "ok",
+    "subject": "Universal Human Values",
+    "course_code": "CS1908",
+    "semester": 1,
+    "markdown_characters": 5145,
+    "chunk_count": 4,
+    "min_chunk_characters": 518,
+    "max_chunk_characters": 2719,
+    "average_chunk_characters": 1285.0,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "course_objectives": 1,
+      "syllabus": 1,
+      "references": 1
+    }
+  },
+  {
+    "file": "Universal_Human_Values/Universal_Human_Values_2.pdf",
+    "status": "ok",
+    "subject": "Universal Human Values",
+    "course_code": "CS1931",
+    "semester": 1,
+    "markdown_characters": 14158,
+    "chunk_count": 8,
+    "min_chunk_characters": 690,
+    "max_chunk_characters": 2837,
+    "average_chunk_characters": 1746.5,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 1,
+      "references": 1,
+      "lesson_plan": 2,
+      "assessment": 3
+    }
+  },
+  {
+    "file": "Web_App_Security/Web_Application_Security_1.pdf",
+    "status": "ok",
+    "subject": "Web Application Security",
+    "course_code": "CS3433",
+    "semester": 6,
+    "markdown_characters": 16844,
+    "chunk_count": 8,
+    "min_chunk_characters": 871,
+    "max_chunk_characters": 2980,
+    "average_chunk_characters": 2103.75,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "lesson_plan": 2,
+      "assessment": 3
+    }
+  },
+  {
+    "file": "Web_and_UX_Design/Web_and_UX_Design_1.pdf",
+    "status": "ok",
+    "subject": "Web and UX Design",
+    "course_code": "CS1385",
+    "semester": 1,
+    "markdown_characters": 8458,
+    "chunk_count": 5,
+    "min_chunk_characters": 672,
+    "max_chunk_characters": 2802,
+    "average_chunk_characters": 1690.0,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2,
+      "references": 2
+    }
+  },
+  {
+    "file": "Web_and_UX_Design/Web_and_UX_Design_2.pdf",
+    "status": "ok",
+    "subject": "Web and UX Design",
+    "course_code": "CS1385",
+    "semester": 1,
+    "markdown_characters": 37555,
+    "chunk_count": 17,
+    "min_chunk_characters": 786,
+    "max_chunk_characters": 2948,
+    "average_chunk_characters": 2207.235294117647,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 3,
+      "lesson_plan": 7,
+      "assessment": 6
+    }
+  },
+  {
+    "file": "Web_development/Web_Development_1.pdf",
+    "status": "ok",
+    "subject": "Web Application Development",
+    "course_code": "CS3331",
+    "semester": 6,
+    "markdown_characters": 22805,
+    "chunk_count": 11,
+    "min_chunk_characters": 915,
+    "max_chunk_characters": 2969,
+    "average_chunk_characters": 2067.181818181818,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 2,
+      "references": 3,
+      "assessment": 6
+    }
+  },
+  {
+    "file": "Yoga_and_Wellbeing/Yoga_and_Wellbeing_1.pdf",
+    "status": "ok",
+    "subject": "Yoga and Well Being",
+    "course_code": "CS1925",
+    "semester": 3,
+    "markdown_characters": 5071,
+    "chunk_count": 3,
+    "min_chunk_characters": 813,
+    "max_chunk_characters": 2904,
+    "average_chunk_characters": 1689.0,
+    "short_chunk_count": 0,
+    "oversized_chunk_count": 0,
+    "sections": {
+      "course_metadata": 1,
+      "syllabus": 2
+    }
+  }
+]

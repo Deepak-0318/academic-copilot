@@ -1,0 +1,13 @@
+{
+  "total": 104,
+  "ingested": 1,
+  "duplicates": 102,
+  "failed": 1,
+  "failures": [
+    {
+      "file": "/Users/deepak/Desktop/academic-copilot/data/Exploring_Science/Exploring_Science_2.pdf",
+      "error_type": "ValueError",
+      "error": "Could not extract subject from document."
+    }
+  ]
+}
