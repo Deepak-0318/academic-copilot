@@ -5,6 +5,7 @@ from typing import Any
 
 from sqlalchemy import select
 from sqlalchemy.orm import Session
+from sqlalchemy import func
 
 from app.db.models import Document, DocumentChunk
 
@@ -21,6 +22,7 @@ class DocumentRepository:
         subject: str,
         document_type: str,
         file_name: str,
+        content_hash: str,
         file_path: str | None = None,
         course_code: str | None = None,
         university: str | None = None,
@@ -35,6 +37,7 @@ class DocumentRepository:
             document_type=document_type,
             file_name=file_name,
             file_path=file_path,
+            content_hash=content_hash,
             university=university,
             regulation=regulation,
             branch=branch,
@@ -73,6 +76,30 @@ class DocumentRepository:
         self.db.flush()
 
         return document_chunks
+    
+    def get_document_by_content_hash(
+        self,
+        content_hash: str,
+    ) -> Document | None:
+        statement = select(Document).where(
+            Document.content_hash == content_hash
+        )
+
+        return self.db.scalar(statement)
+    
+    def count_document_chunks(
+        self,
+        document_id: uuid.UUID,
+    ) -> int:
+        statement = (
+            select(func.count())
+            .select_from(DocumentChunk)
+            .where(
+                DocumentChunk.document_id == document_id
+            )
+        )
+        
+        return int(self.db.scalar(statement) or 0)
 
     def get_document(
         self,

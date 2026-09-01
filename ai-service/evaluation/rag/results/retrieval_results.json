@@ -1,0 +1,1522 @@
+[
+  {
+    "id": "ds_001",
+    "subject": "Data Structures Using C",
+    "query": "What are the different types of linked lists?",
+    "expected_subject": "Data Structures Using C",
+    "top1_subject": "Data Structures Using C",
+    "top3_subjects": [
+      "Data Structures Using C",
+      "Data Structures using C",
+      "Data Structures using C"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "675cc5c0-b988-43ca-bedf-00fdeab70e86",
+        "document_id": "05b3e982-2ad9-4107-8f57-6a2978fcfc5d",
+        "section": "lesson_plan",
+        "subject": "Data Structures Using C",
+        "course_code": "CS1083",
+        "similarity": 0.7621306918781597,
+        "intent_score": 0.7621306918781597
+      },
+      {
+        "chunk_id": "2c2eb048-3be6-43c4-b0f2-c39e9e159190",
+        "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c",
+        "section": "lesson_plan",
+        "subject": "Data Structures using C",
+        "course_code": "CS1083",
+        "similarity": 0.7621306918781597,
+        "intent_score": 0.7621306918781597
+      },
+      {
+        "chunk_id": "6eceb220-d1f8-4402-bc0a-3c2e38a22a5a",
+        "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c",
+        "section": "references",
+        "subject": "Data Structures using C",
+        "course_code": "CS1083",
+        "similarity": 0.6775827984363809,
+        "intent_score": 0.6775827984363809
+      },
+      {
+        "chunk_id": "b54f2336-875b-4bf3-8b1a-5fce6a52874d",
+        "document_id": "05b3e982-2ad9-4107-8f57-6a2978fcfc5d",
+        "section": "references",
+        "subject": "Data Structures Using C",
+        "course_code": "CS1083",
+        "similarity": 0.6775827984363809,
+        "intent_score": 0.6775827984363809
+      },
+      {
+        "chunk_id": "445406f4-9518-43d6-bb98-130d7a576499",
+        "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c",
+        "section": "course_objectives",
+        "subject": "Data Structures using C",
+        "course_code": "CS1083",
+        "similarity": 0.6732735433198973,
+        "intent_score": 0.6732735433198973
+      }
+    ]
+  },
+  {
+    "id": "ds_002",
+    "subject": "Data Structures Using C",
+    "query": "Explain binary search trees.",
+    "expected_subject": "Data Structures Using C",
+    "top1_subject": "Data Structures using C",
+    "top3_subjects": [
+      "Data Structures using C",
+      "Data Structures Using C",
+      "Data Structures Using C"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "ff02f24c-8047-40cf-8179-478903fd4e88",
+        "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c",
+        "section": "lab_programs",
+        "subject": "Data Structures using C",
+        "course_code": "CS1083",
+        "similarity": 0.7722862457292899,
+        "intent_score": 0.7722862457292899
+      },
+      {
+        "chunk_id": "2c49787e-a85c-476f-aabd-49566580a058",
+        "document_id": "05b3e982-2ad9-4107-8f57-6a2978fcfc5d",
+        "section": "lab_programs",
+        "subject": "Data Structures Using C",
+        "course_code": "CS1083",
+        "similarity": 0.7722862457292899,
+        "intent_score": 0.7722862457292899
+      },
+      {
+        "chunk_id": "32145579-8751-445e-9997-05694cb75922",
+        "document_id": "05b3e982-2ad9-4107-8f57-6a2978fcfc5d",
+        "section": "lesson_plan",
+        "subject": "Data Structures Using C",
+        "course_code": "CS1083",
+        "similarity": 0.75870814200366,
+        "intent_score": 0.75870814200366
+      },
+      {
+        "chunk_id": "e51b84f8-bb17-49c6-bce0-79158be8db28",
+        "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c",
+        "section": "lesson_plan",
+        "subject": "Data Structures using C",
+        "course_code": "CS1083",
+        "similarity": 0.75870814200366,
+        "intent_score": 0.75870814200366
+      },
+      {
+        "chunk_id": "ea125612-ffa5-42ac-a3d8-bb8324e78716",
+        "document_id": "05b3e982-2ad9-4107-8f57-6a2978fcfc5d",
+        "section": "course_objectives",
+        "subject": "Data Structures Using C",
+        "course_code": "CS1083",
+        "similarity": 0.7498584240590587,
+        "intent_score": 0.7498584240590587
+      }
+    ]
+  },
+  {
+    "id": "os_001",
+    "subject": "Operating Systems",
+    "query": "What is process scheduling?",
+    "expected_subject": "Operating Systems",
+    "top1_subject": "Operating Systems",
+    "top3_subjects": [
+      "Operating Systems",
+      "Operating Systems",
+      "Operating Systems"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "7a22e8c1-9f14-4174-afdd-3f807eee55b9",
+        "document_id": "1277ca27-fe32-45f1-aec4-a02ab73c682c",
+        "section": "course_outcomes",
+        "subject": "Operating Systems",
+        "course_code": "CS1103",
+        "similarity": 0.6801153397353888,
+        "intent_score": 0.6801153397353888
+      },
+      {
+        "chunk_id": "2e85a751-b737-4d0e-a384-daae8a2bac37",
+        "document_id": "1277ca27-fe32-45f1-aec4-a02ab73c682c",
+        "section": "course_metadata",
+        "subject": "Operating Systems",
+        "course_code": "CS1103",
+        "similarity": 0.6517607207868765,
+        "intent_score": 0.6517607207868765
+      },
+      {
+        "chunk_id": "462c979d-911e-471e-962b-84ffa391dbbe",
+        "document_id": "1277ca27-fe32-45f1-aec4-a02ab73c682c",
+        "section": "course_outcomes",
+        "subject": "Operating Systems",
+        "course_code": "CS1103",
+        "similarity": 0.6061098683876045,
+        "intent_score": 0.6061098683876045
+      },
+      {
+        "chunk_id": "60ba66ff-ef79-4e8f-99ac-fca99cec0243",
+        "document_id": "1277ca27-fe32-45f1-aec4-a02ab73c682c",
+        "section": "course_outcomes",
+        "subject": "Operating Systems",
+        "course_code": "CS1103",
+        "similarity": 0.6059034936543157,
+        "intent_score": 0.6059034936543157
+      },
+      {
+        "chunk_id": "fca17a8f-b8ea-4833-8c7b-04f462112b8d",
+        "document_id": "1277ca27-fe32-45f1-aec4-a02ab73c682c",
+        "section": "course_outcomes",
+        "subject": "Operating Systems",
+        "course_code": "CS1103",
+        "similarity": 0.6050596111941844,
+        "intent_score": 0.6050596111941844
+      }
+    ]
+  },
+  {
+    "id": "os_002",
+    "subject": "Operating Systems",
+    "query": "Explain virtual memory.",
+    "expected_subject": "Operating Systems",
+    "top1_subject": "Data Structures using C",
+    "top3_subjects": [
+      "Data Structures using C",
+      "Data Structures Using C",
+      "Operating Systems"
+    ],
+    "top1_correct": false,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+        "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c",
+        "section": "lesson_plan",
+        "subject": "Data Structures using C",
+        "course_code": "CS1083",
+        "similarity": 0.6735150996410609,
+        "intent_score": 0.6735150996410609
+      },
+      {
+        "chunk_id": "202a2241-ee7c-455c-b779-d27a463a1bad",
+        "document_id": "05b3e982-2ad9-4107-8f57-6a2978fcfc5d",
+        "section": "lesson_plan",
+        "subject": "Data Structures Using C",
+        "course_code": "CS1083",
+        "similarity": 0.6735150996410609,
+        "intent_score": 0.6735150996410609
+      },
+      {
+        "chunk_id": "2e85a751-b737-4d0e-a384-daae8a2bac37",
+        "document_id": "1277ca27-fe32-45f1-aec4-a02ab73c682c",
+        "section": "course_metadata",
+        "subject": "Operating Systems",
+        "course_code": "CS1103",
+        "similarity": 0.6690759255705058,
+        "intent_score": 0.6690759255705058
+      },
+      {
+        "chunk_id": "462c979d-911e-471e-962b-84ffa391dbbe",
+        "document_id": "1277ca27-fe32-45f1-aec4-a02ab73c682c",
+        "section": "course_outcomes",
+        "subject": "Operating Systems",
+        "course_code": "CS1103",
+        "similarity": 0.6674852369752114,
+        "intent_score": 0.6674852369752114
+      },
+      {
+        "chunk_id": "60ba66ff-ef79-4e8f-99ac-fca99cec0243",
+        "document_id": "1277ca27-fe32-45f1-aec4-a02ab73c682c",
+        "section": "course_outcomes",
+        "subject": "Operating Systems",
+        "course_code": "CS1103",
+        "similarity": 0.6618179486014951,
+        "intent_score": 0.6618179486014951
+      }
+    ]
+  },
+  {
+    "id": "dbms_001",
+    "subject": "Database Management Systems",
+    "query": "What is normalization in DBMS?",
+    "expected_subject": "Database Management Systems",
+    "top1_subject": "Database Management Systems",
+    "top3_subjects": [
+      "Database Management Systems",
+      "Database Management Systems",
+      "Database Management Systems"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "93e0128e-fdd2-44d0-8863-910bb1e147a4",
+        "document_id": "7ee5432a-25ed-4fb0-9b7d-13ca05bbc2f0",
+        "section": "syllabus",
+        "subject": "Database Management Systems",
+        "course_code": "CS2201",
+        "similarity": 0.7083746368661752,
+        "intent_score": 0.7083746368661752
+      },
+      {
+        "chunk_id": "3b2cabe6-1c0f-40ad-aece-16537693b24b",
+        "document_id": "7ee5432a-25ed-4fb0-9b7d-13ca05bbc2f0",
+        "section": "course_outcomes",
+        "subject": "Database Management Systems",
+        "course_code": "CS2201",
+        "similarity": 0.68963857354888,
+        "intent_score": 0.68963857354888
+      },
+      {
+        "chunk_id": "a4ee9f2f-4324-4cb1-8a44-567cbde8a8fa",
+        "document_id": "7ee5432a-25ed-4fb0-9b7d-13ca05bbc2f0",
+        "section": "references",
+        "subject": "Database Management Systems",
+        "course_code": "CS2201",
+        "similarity": 0.6595359647550616,
+        "intent_score": 0.6595359647550616
+      },
+      {
+        "chunk_id": "96f54ddd-ae91-409f-876f-0594441c6091",
+        "document_id": "70791610-1fa5-4b58-947b-4dad56e00a54",
+        "section": "syllabus",
+        "subject": "Python",
+        "course_code": "CS1280",
+        "similarity": 0.6504090636724803,
+        "intent_score": 0.6504090636724803
+      },
+      {
+        "chunk_id": "604c63c3-aa8d-4e15-8ac1-07b771611b82",
+        "document_id": "7ee5432a-25ed-4fb0-9b7d-13ca05bbc2f0",
+        "section": "references",
+        "subject": "Database Management Systems",
+        "course_code": "CS2201",
+        "similarity": 0.6448807928037182,
+        "intent_score": 0.6448807928037182
+      }
+    ]
+  },
+  {
+    "id": "dbms_002",
+    "subject": "Database Management Systems",
+    "query": "Explain primary key and foreign key.",
+    "expected_subject": "Database Management Systems",
+    "top1_subject": "Database Management Systems",
+    "top3_subjects": [
+      "Database Management Systems",
+      "Database Management Systems",
+      "Database Management Systems"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "93e0128e-fdd2-44d0-8863-910bb1e147a4",
+        "document_id": "7ee5432a-25ed-4fb0-9b7d-13ca05bbc2f0",
+        "section": "syllabus",
+        "subject": "Database Management Systems",
+        "course_code": "CS2201",
+        "similarity": 0.681968130830754,
+        "intent_score": 0.681968130830754
+      },
+      {
+        "chunk_id": "45a45a37-5fed-4215-b9c8-56927a640937",
+        "document_id": "7ee5432a-25ed-4fb0-9b7d-13ca05bbc2f0",
+        "section": "references",
+        "subject": "Database Management Systems",
+        "course_code": "CS2201",
+        "similarity": 0.677179692295846,
+        "intent_score": 0.677179692295846
+      },
+      {
+        "chunk_id": "3b2cabe6-1c0f-40ad-aece-16537693b24b",
+        "document_id": "7ee5432a-25ed-4fb0-9b7d-13ca05bbc2f0",
+        "section": "course_outcomes",
+        "subject": "Database Management Systems",
+        "course_code": "CS2201",
+        "similarity": 0.6580095698822104,
+        "intent_score": 0.6580095698822104
+      },
+      {
+        "chunk_id": "a4ee9f2f-4324-4cb1-8a44-567cbde8a8fa",
+        "document_id": "7ee5432a-25ed-4fb0-9b7d-13ca05bbc2f0",
+        "section": "references",
+        "subject": "Database Management Systems",
+        "course_code": "CS2201",
+        "similarity": 0.6452942317373522,
+        "intent_score": 0.6452942317373522
+      },
+      {
+        "chunk_id": "604c63c3-aa8d-4e15-8ac1-07b771611b82",
+        "document_id": "7ee5432a-25ed-4fb0-9b7d-13ca05bbc2f0",
+        "section": "references",
+        "subject": "Database Management Systems",
+        "course_code": "CS2201",
+        "similarity": 0.6343584496547685,
+        "intent_score": 0.6343584496547685
+      }
+    ]
+  },
+  {
+    "id": "net_001",
+    "subject": "Computer Networks",
+    "query": "What is the difference between TCP and UDP?",
+    "expected_subject": "Computer Networks",
+    "top1_subject": "Computer Networks",
+    "top3_subjects": [
+      "Computer Networks",
+      "Computer Networks",
+      "Computer Networks"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "d8a12a95-79e4-4095-9690-5a1f66f17045",
+        "document_id": "b24c4989-ecb8-4f5e-b87a-7686b578797b",
+        "section": "course_metadata",
+        "subject": "Computer Networks",
+        "course_code": "CS2403",
+        "similarity": 0.5990011931061044,
+        "intent_score": 0.5990011931061044
+      },
+      {
+        "chunk_id": "d4b125ac-8261-4983-8c01-f7bc42257340",
+        "document_id": "b24c4989-ecb8-4f5e-b87a-7686b578797b",
+        "section": "syllabus",
+        "subject": "Computer Networks",
+        "course_code": "CS2403",
+        "similarity": 0.5810700558340525,
+        "intent_score": 0.5810700558340525
+      },
+      {
+        "chunk_id": "3d91bf17-da01-4829-8d4d-07868d135c81",
+        "document_id": "b24c4989-ecb8-4f5e-b87a-7686b578797b",
+        "section": "references",
+        "subject": "Computer Networks",
+        "course_code": "CS2403",
+        "similarity": 0.5809664726257324,
+        "intent_score": 0.5809664726257324
+      },
+      {
+        "chunk_id": "09ecc47e-d2e7-403b-b088-5fe1b2b52995",
+        "document_id": "b24c4989-ecb8-4f5e-b87a-7686b578797b",
+        "section": "syllabus",
+        "subject": "Computer Networks",
+        "course_code": "CS2403",
+        "similarity": 0.5769442491812783,
+        "intent_score": 0.5769442491812783
+      },
+      {
+        "chunk_id": "59b26ae7-cb2b-48dc-b17a-8de79c5a56fc",
+        "document_id": "68393da2-d6d4-4fc1-a6be-af87b476a4af",
+        "section": "course_metadata",
+        "subject": "Programming in C",
+        "course_code": "CS1003",
+        "similarity": 0.5550638437271118,
+        "intent_score": 0.5550638437271118
+      }
+    ]
+  },
+  {
+    "id": "net_002",
+    "subject": "Computer Networks",
+    "query": "Explain the OSI model.",
+    "expected_subject": "Computer Networks",
+    "top1_subject": "Operating Systems",
+    "top3_subjects": [
+      "Operating Systems",
+      "Operating Systems",
+      "Operating Systems"
+    ],
+    "top1_correct": false,
+    "top3_correct": false,
+    "retrieval": [
+      {
+        "chunk_id": "60ba66ff-ef79-4e8f-99ac-fca99cec0243",
+        "document_id": "1277ca27-fe32-45f1-aec4-a02ab73c682c",
+        "section": "course_outcomes",
+        "subject": "Operating Systems",
+        "course_code": "CS1103",
+        "similarity": 0.7261492773205486,
+        "intent_score": 0.7261492773205486
+      },
+      {
+        "chunk_id": "934a5d90-88b8-4de9-8a0e-b2584bd2d631",
+        "document_id": "1277ca27-fe32-45f1-aec4-a02ab73c682c",
+        "section": "course_outcomes",
+        "subject": "Operating Systems",
+        "course_code": "CS1103",
+        "similarity": 0.7081498677641245,
+        "intent_score": 0.7081498677641245
+      },
+      {
+        "chunk_id": "eb612a7f-f6df-4bce-8c71-9add7c2ee07e",
+        "document_id": "1277ca27-fe32-45f1-aec4-a02ab73c682c",
+        "section": "course_outcomes",
+        "subject": "Operating Systems",
+        "course_code": "CS1103",
+        "similarity": 0.6954929621370772,
+        "intent_score": 0.6954929621370772
+      },
+      {
+        "chunk_id": "2e85a751-b737-4d0e-a384-daae8a2bac37",
+        "document_id": "1277ca27-fe32-45f1-aec4-a02ab73c682c",
+        "section": "course_metadata",
+        "subject": "Operating Systems",
+        "course_code": "CS1103",
+        "similarity": 0.6913070634650487,
+        "intent_score": 0.6913070634650487
+      },
+      {
+        "chunk_id": "9162f2c9-f6b1-49bf-bd29-a6c90e827072",
+        "document_id": "c4262110-956c-4087-8922-23e0842ea98d",
+        "section": "co_po_mapping",
+        "subject": "Deep Learning",
+        "course_code": "CS2228",
+        "similarity": 0.6912055795666242,
+        "intent_score": 0.6912055795666242
+      }
+    ]
+  },
+  {
+    "id": "la_001",
+    "subject": "Linear Algebra",
+    "query": "What is a matrix?",
+    "expected_subject": "Linear Algebra",
+    "top1_subject": "Linear Algebra",
+    "top3_subjects": [
+      "Linear Algebra",
+      "Linear Algebra",
+      "Linear Algebra"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "4d684b3f-70ce-4db1-8c0d-86ade9c937e6",
+        "document_id": "82781a25-e86d-48f3-bb83-18c06708768d",
+        "section": "syllabus",
+        "subject": "Linear Algebra",
+        "course_code": "CS1807",
+        "similarity": 0.6621855110679838,
+        "intent_score": 0.6621855110679838
+      },
+      {
+        "chunk_id": "a0a9faca-46c8-4745-8ad3-073df98ef836",
+        "document_id": "82781a25-e86d-48f3-bb83-18c06708768d",
+        "section": "course_outcomes",
+        "subject": "Linear Algebra",
+        "course_code": "CS1807",
+        "similarity": 0.6553181820728609,
+        "intent_score": 0.6553181820728609
+      },
+      {
+        "chunk_id": "65d47674-bc85-425a-999d-01e17ce678e2",
+        "document_id": "82781a25-e86d-48f3-bb83-18c06708768d",
+        "section": "course_metadata",
+        "subject": "Linear Algebra",
+        "course_code": "CS1807",
+        "similarity": 0.6400533342313837,
+        "intent_score": 0.6400533342313837
+      },
+      {
+        "chunk_id": "96f54ddd-ae91-409f-876f-0594441c6091",
+        "document_id": "70791610-1fa5-4b58-947b-4dad56e00a54",
+        "section": "syllabus",
+        "subject": "Python",
+        "course_code": "CS1280",
+        "similarity": 0.6392854286092055,
+        "intent_score": 0.6392854286092055
+      },
+      {
+        "chunk_id": "0e85e005-3ada-4089-8921-4e5a3353e081",
+        "document_id": "82781a25-e86d-48f3-bb83-18c06708768d",
+        "section": "references",
+        "subject": "Linear Algebra",
+        "course_code": "CS1807",
+        "similarity": 0.62993890703817,
+        "intent_score": 0.62993890703817
+      }
+    ]
+  },
+  {
+    "id": "la_002",
+    "subject": "Linear Algebra",
+    "query": "Explain eigenvalues and eigenvectors.",
+    "expected_subject": "Linear Algebra",
+    "top1_subject": "Linear Algebra",
+    "top3_subjects": [
+      "Linear Algebra",
+      "Linear Algebra",
+      "Linear Algebra"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "a0a9faca-46c8-4745-8ad3-073df98ef836",
+        "document_id": "82781a25-e86d-48f3-bb83-18c06708768d",
+        "section": "course_outcomes",
+        "subject": "Linear Algebra",
+        "course_code": "CS1807",
+        "similarity": 0.7260900303071732,
+        "intent_score": 0.7260900303071732
+      },
+      {
+        "chunk_id": "4d684b3f-70ce-4db1-8c0d-86ade9c937e6",
+        "document_id": "82781a25-e86d-48f3-bb83-18c06708768d",
+        "section": "syllabus",
+        "subject": "Linear Algebra",
+        "course_code": "CS1807",
+        "similarity": 0.7200635576134532,
+        "intent_score": 0.7200635576134532
+      },
+      {
+        "chunk_id": "65d47674-bc85-425a-999d-01e17ce678e2",
+        "document_id": "82781a25-e86d-48f3-bb83-18c06708768d",
+        "section": "course_metadata",
+        "subject": "Linear Algebra",
+        "course_code": "CS1807",
+        "similarity": 0.7188600087505606,
+        "intent_score": 0.7188600087505606
+      },
+      {
+        "chunk_id": "0e85e005-3ada-4089-8921-4e5a3353e081",
+        "document_id": "82781a25-e86d-48f3-bb83-18c06708768d",
+        "section": "references",
+        "subject": "Linear Algebra",
+        "course_code": "CS1807",
+        "similarity": 0.6765612749384314,
+        "intent_score": 0.6765612749384314
+      },
+      {
+        "chunk_id": "3c9815ea-8130-437e-b4a2-bc913c001e94",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "syllabus",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.6720247068397815,
+        "intent_score": 0.6720247068397815
+      }
+    ]
+  },
+  {
+    "id": "c_001",
+    "subject": "Programming in C",
+    "query": "What are pointers in C?",
+    "expected_subject": "Programming in C",
+    "top1_subject": "Programming in C",
+    "top3_subjects": [
+      "Programming in C",
+      "Data Structures Using C",
+      "Data Structures using C"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "59b26ae7-cb2b-48dc-b17a-8de79c5a56fc",
+        "document_id": "68393da2-d6d4-4fc1-a6be-af87b476a4af",
+        "section": "course_metadata",
+        "subject": "Programming in C",
+        "course_code": "CS1003",
+        "similarity": 0.7373055972274795,
+        "intent_score": 0.7373055972274795
+      },
+      {
+        "chunk_id": "675cc5c0-b988-43ca-bedf-00fdeab70e86",
+        "document_id": "05b3e982-2ad9-4107-8f57-6a2978fcfc5d",
+        "section": "lesson_plan",
+        "subject": "Data Structures Using C",
+        "course_code": "CS1083",
+        "similarity": 0.6892598456585511,
+        "intent_score": 0.6892598456585511
+      },
+      {
+        "chunk_id": "2c2eb048-3be6-43c4-b0f2-c39e9e159190",
+        "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c",
+        "section": "lesson_plan",
+        "subject": "Data Structures using C",
+        "course_code": "CS1083",
+        "similarity": 0.6892598456585511,
+        "intent_score": 0.6892598456585511
+      },
+      {
+        "chunk_id": "71f874d7-a72f-4f23-a9fa-5f9a5f54dbca",
+        "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c",
+        "section": "lesson_plan",
+        "subject": "Data Structures using C",
+        "course_code": "CS1083",
+        "similarity": 0.6392734099733703,
+        "intent_score": 0.6392734099733703
+      },
+      {
+        "chunk_id": "202a2241-ee7c-455c-b779-d27a463a1bad",
+        "document_id": "05b3e982-2ad9-4107-8f57-6a2978fcfc5d",
+        "section": "lesson_plan",
+        "subject": "Data Structures Using C",
+        "course_code": "CS1083",
+        "similarity": 0.6392734099733703,
+        "intent_score": 0.6392734099733703
+      }
+    ]
+  },
+  {
+    "id": "c_002",
+    "subject": "Programming in C",
+    "query": "Explain functions in C.",
+    "expected_subject": "Programming in C",
+    "top1_subject": "Programming in C",
+    "top3_subjects": [
+      "Programming in C",
+      "Programming in C",
+      "Programming in C"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "59b26ae7-cb2b-48dc-b17a-8de79c5a56fc",
+        "document_id": "68393da2-d6d4-4fc1-a6be-af87b476a4af",
+        "section": "course_metadata",
+        "subject": "Programming in C",
+        "course_code": "CS1003",
+        "similarity": 0.7404648220262051,
+        "intent_score": 0.7404648220262051
+      },
+      {
+        "chunk_id": "ec3acaba-db98-43ad-9a82-1c3c7ccb741e",
+        "document_id": "68393da2-d6d4-4fc1-a6be-af87b476a4af",
+        "section": "course_metadata",
+        "subject": "Programming in C",
+        "course_code": "CS1003",
+        "similarity": 0.6844204852330408,
+        "intent_score": 0.6844204852330408
+      },
+      {
+        "chunk_id": "05bfd40f-bd20-4c3e-9a1a-76069c44db6e",
+        "document_id": "68393da2-d6d4-4fc1-a6be-af87b476a4af",
+        "section": "course_metadata",
+        "subject": "Programming in C",
+        "course_code": "CS1003",
+        "similarity": 0.6683606703066438,
+        "intent_score": 0.6683606703066438
+      },
+      {
+        "chunk_id": "984c50bf-c3be-4ebd-ac56-11288ac5d178",
+        "document_id": "68393da2-d6d4-4fc1-a6be-af87b476a4af",
+        "section": "co_po_mapping",
+        "subject": "Programming in C",
+        "course_code": "CS1003",
+        "similarity": 0.667765478358606,
+        "intent_score": 0.667765478358606
+      },
+      {
+        "chunk_id": "80b0be08-af8c-4775-b713-d3f7b128022b",
+        "document_id": "05b3e982-2ad9-4107-8f57-6a2978fcfc5d",
+        "section": "lab_programs",
+        "subject": "Data Structures Using C",
+        "course_code": "CS1083",
+        "similarity": 0.6650840046851638,
+        "intent_score": 0.6650840046851638
+      }
+    ]
+  },
+  {
+    "id": "python_001",
+    "subject": "Python",
+    "query": "What are Python lists and tuples?",
+    "expected_subject": "Python",
+    "top1_subject": "Python",
+    "top3_subjects": [
+      "Python",
+      "Data Structures using C",
+      "Data Structures Using C"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "96f54ddd-ae91-409f-876f-0594441c6091",
+        "document_id": "70791610-1fa5-4b58-947b-4dad56e00a54",
+        "section": "syllabus",
+        "subject": "Python",
+        "course_code": "CS1280",
+        "similarity": 0.6985261799661948,
+        "intent_score": 0.6985261799661948
+      },
+      {
+        "chunk_id": "6aad3ddc-73e3-4900-966d-d5885baff3b2",
+        "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c",
+        "section": "lab_programs",
+        "subject": "Data Structures using C",
+        "course_code": "CS1083",
+        "similarity": 0.6524017685885981,
+        "intent_score": 0.6524017685885981
+      },
+      {
+        "chunk_id": "80b0be08-af8c-4775-b713-d3f7b128022b",
+        "document_id": "05b3e982-2ad9-4107-8f57-6a2978fcfc5d",
+        "section": "lab_programs",
+        "subject": "Data Structures Using C",
+        "course_code": "CS1083",
+        "similarity": 0.6524017685885981,
+        "intent_score": 0.6524017685885981
+      },
+      {
+        "chunk_id": "59b26ae7-cb2b-48dc-b17a-8de79c5a56fc",
+        "document_id": "68393da2-d6d4-4fc1-a6be-af87b476a4af",
+        "section": "course_metadata",
+        "subject": "Programming in C",
+        "course_code": "CS1003",
+        "similarity": 0.6522960481290806,
+        "intent_score": 0.6522960481290806
+      },
+      {
+        "chunk_id": "73cd13a9-ae04-45a9-be1b-6af2057042ae",
+        "document_id": "70791610-1fa5-4b58-947b-4dad56e00a54",
+        "section": "syllabus",
+        "subject": "Python",
+        "course_code": "CS1280",
+        "similarity": 0.6487545999131333,
+        "intent_score": 0.6487545999131333
+      }
+    ]
+  },
+  {
+    "id": "python_002",
+    "subject": "Python",
+    "query": "Explain data analysis using Python.",
+    "expected_subject": "Python",
+    "top1_subject": "Python",
+    "top3_subjects": [
+      "Python",
+      "Python",
+      "Python"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "96f54ddd-ae91-409f-876f-0594441c6091",
+        "document_id": "70791610-1fa5-4b58-947b-4dad56e00a54",
+        "section": "syllabus",
+        "subject": "Python",
+        "course_code": "CS1280",
+        "similarity": 0.7977581024169922,
+        "intent_score": 0.7977581024169922
+      },
+      {
+        "chunk_id": "73cd13a9-ae04-45a9-be1b-6af2057042ae",
+        "document_id": "70791610-1fa5-4b58-947b-4dad56e00a54",
+        "section": "syllabus",
+        "subject": "Python",
+        "course_code": "CS1280",
+        "similarity": 0.7846663722594769,
+        "intent_score": 0.7846663722594769
+      },
+      {
+        "chunk_id": "e9390e02-06d4-4a9d-a4c2-14a693ef9183",
+        "document_id": "70791610-1fa5-4b58-947b-4dad56e00a54",
+        "section": "references",
+        "subject": "Python",
+        "course_code": "CS1280",
+        "similarity": 0.7458131464831159,
+        "intent_score": 0.7458131464831159
+      },
+      {
+        "chunk_id": "aa228e9e-ec27-40d4-9a20-40a273d26fcd",
+        "document_id": "70791610-1fa5-4b58-947b-4dad56e00a54",
+        "section": "course_metadata",
+        "subject": "Python",
+        "course_code": "CS1280",
+        "similarity": 0.7420300995093538,
+        "intent_score": 0.7420300995093538
+      },
+      {
+        "chunk_id": "a392481b-cf73-4587-90b8-3e6ffbffb28f",
+        "document_id": "70791610-1fa5-4b58-947b-4dad56e00a54",
+        "section": "references",
+        "subject": "Python",
+        "course_code": "CS1280",
+        "similarity": 0.7216174602508545,
+        "intent_score": 0.7216174602508545
+      }
+    ]
+  },
+  {
+    "id": "ml_001",
+    "subject": "Machine Learning for Data science",
+    "query": "What is supervised learning?",
+    "expected_subject": "Machine Learning for Data science",
+    "top1_subject": "Machine Learning for Data science",
+    "top3_subjects": [
+      "Machine Learning for Data science",
+      "Machine Learning for Data science",
+      "Fundamentals of Natural Language Processing"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "3c9815ea-8130-437e-b4a2-bc913c001e94",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "syllabus",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.6918181387131854,
+        "intent_score": 0.6918181387131854
+      },
+      {
+        "chunk_id": "91865407-0b0f-4fa5-a61c-52b0d5069b36",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "references",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.6913422346115112,
+        "intent_score": 0.6913422346115112
+      },
+      {
+        "chunk_id": "f1d39ca3-129a-4659-8923-b76973f7db75",
+        "document_id": "b7d16558-0cba-48d7-a002-d6c5c2376dbf",
+        "section": "course_metadata",
+        "subject": "Fundamentals of Natural Language Processing",
+        "course_code": "CS3233",
+        "similarity": 0.6801072955131531,
+        "intent_score": 0.6801072955131531
+      },
+      {
+        "chunk_id": "2c5adbf8-6dee-4dde-81c1-b0ce7d281845",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "course_outcomes",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.6760994985044313,
+        "intent_score": 0.6760994985044313
+      },
+      {
+        "chunk_id": "37883b11-6284-4989-9a55-27914c547a57",
+        "document_id": "c4262110-956c-4087-8922-23e0842ea98d",
+        "section": "syllabus",
+        "subject": "Deep Learning",
+        "course_code": "CS2228",
+        "similarity": 0.6760268211364746,
+        "intent_score": 0.6760268211364746
+      }
+    ]
+  },
+  {
+    "id": "ml_002",
+    "subject": "Machine Learning for Data science",
+    "query": "Explain classification algorithms.",
+    "expected_subject": "Machine Learning for Data science",
+    "top1_subject": "Machine Learning for Data science",
+    "top3_subjects": [
+      "Machine Learning for Data science",
+      "Deep Learning",
+      "Machine Learning for Data science"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "3c9815ea-8130-437e-b4a2-bc913c001e94",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "syllabus",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.7405259388528515,
+        "intent_score": 0.7405259388528515
+      },
+      {
+        "chunk_id": "37883b11-6284-4989-9a55-27914c547a57",
+        "document_id": "c4262110-956c-4087-8922-23e0842ea98d",
+        "section": "syllabus",
+        "subject": "Deep Learning",
+        "course_code": "CS2228",
+        "similarity": 0.7384197271812137,
+        "intent_score": 0.7384197271812137
+      },
+      {
+        "chunk_id": "91865407-0b0f-4fa5-a61c-52b0d5069b36",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "references",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.7070256050213823,
+        "intent_score": 0.7070256050213823
+      },
+      {
+        "chunk_id": "f1d39ca3-129a-4659-8923-b76973f7db75",
+        "document_id": "b7d16558-0cba-48d7-a002-d6c5c2376dbf",
+        "section": "course_metadata",
+        "subject": "Fundamentals of Natural Language Processing",
+        "course_code": "CS3233",
+        "similarity": 0.7068821962546006,
+        "intent_score": 0.7068821962546006
+      },
+      {
+        "chunk_id": "e7990ff9-bea5-4574-8eb1-165a90394b0d",
+        "document_id": "c4262110-956c-4087-8922-23e0842ea98d",
+        "section": "references",
+        "subject": "Deep Learning",
+        "course_code": "CS2228",
+        "similarity": 0.7001064598496891,
+        "intent_score": 0.7001064598496891
+      }
+    ]
+  },
+  {
+    "id": "dl_001",
+    "subject": "Deep Learning",
+    "query": "What is a neural network?",
+    "expected_subject": "Deep Learning",
+    "top1_subject": "Deep Learning",
+    "top3_subjects": [
+      "Deep Learning",
+      "Deep Learning",
+      "Machine Learning for Data science"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "e7990ff9-bea5-4574-8eb1-165a90394b0d",
+        "document_id": "c4262110-956c-4087-8922-23e0842ea98d",
+        "section": "references",
+        "subject": "Deep Learning",
+        "course_code": "CS2228",
+        "similarity": 0.7285060882568359,
+        "intent_score": 0.7285060882568359
+      },
+      {
+        "chunk_id": "37883b11-6284-4989-9a55-27914c547a57",
+        "document_id": "c4262110-956c-4087-8922-23e0842ea98d",
+        "section": "syllabus",
+        "subject": "Deep Learning",
+        "course_code": "CS2228",
+        "similarity": 0.7262804508209229,
+        "intent_score": 0.7262804508209229
+      },
+      {
+        "chunk_id": "8e667c0e-c34c-49d0-8253-e9f487436bb7",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "course_metadata",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.7040860233255624,
+        "intent_score": 0.7040860233255624
+      },
+      {
+        "chunk_id": "3c9815ea-8130-437e-b4a2-bc913c001e94",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "syllabus",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.6993231981791022,
+        "intent_score": 0.6993231981791022
+      },
+      {
+        "chunk_id": "2c5adbf8-6dee-4dde-81c1-b0ce7d281845",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "course_outcomes",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.6982112110727317,
+        "intent_score": 0.6982112110727317
+      }
+    ]
+  },
+  {
+    "id": "dl_002",
+    "subject": "Deep Learning",
+    "query": "Explain convolutional neural networks.",
+    "expected_subject": "Deep Learning",
+    "top1_subject": "Machine Learning for Data science",
+    "top3_subjects": [
+      "Machine Learning for Data science",
+      "Machine Learning for Data science",
+      "Machine Learning for Data science"
+    ],
+    "top1_correct": false,
+    "top3_correct": false,
+    "retrieval": [
+      {
+        "chunk_id": "f6ca8b23-7d2d-45da-9841-e789ddd09c25",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "references",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.7927551989105239,
+        "intent_score": 0.7927551989105239
+      },
+      {
+        "chunk_id": "3c9815ea-8130-437e-b4a2-bc913c001e94",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "syllabus",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.784985340089046,
+        "intent_score": 0.784985340089046
+      },
+      {
+        "chunk_id": "2c5adbf8-6dee-4dde-81c1-b0ce7d281845",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "course_outcomes",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.7719490203918195,
+        "intent_score": 0.7719490203918195
+      },
+      {
+        "chunk_id": "e7990ff9-bea5-4574-8eb1-165a90394b0d",
+        "document_id": "c4262110-956c-4087-8922-23e0842ea98d",
+        "section": "references",
+        "subject": "Deep Learning",
+        "course_code": "CS2228",
+        "similarity": 0.7671119113497801,
+        "intent_score": 0.7671119113497801
+      },
+      {
+        "chunk_id": "37883b11-6284-4989-9a55-27914c547a57",
+        "document_id": "c4262110-956c-4087-8922-23e0842ea98d",
+        "section": "syllabus",
+        "subject": "Deep Learning",
+        "course_code": "CS2228",
+        "similarity": 0.7651466867240272,
+        "intent_score": 0.7651466867240272
+      }
+    ]
+  },
+  {
+    "id": "nlp_001",
+    "subject": "Fundamentals of Natural Language Processing",
+    "query": "What is natural language processing?",
+    "expected_subject": "Fundamentals of Natural Language Processing",
+    "top1_subject": "Fundamentals of Natural Language Processing",
+    "top3_subjects": [
+      "Fundamentals of Natural Language Processing",
+      "Fundamentals of Natural Language Processing",
+      "Fundamentals of Natural Language Processing"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "f1d39ca3-129a-4659-8923-b76973f7db75",
+        "document_id": "b7d16558-0cba-48d7-a002-d6c5c2376dbf",
+        "section": "course_metadata",
+        "subject": "Fundamentals of Natural Language Processing",
+        "course_code": "CS3233",
+        "similarity": 0.7255668371240146,
+        "intent_score": 0.7255668371240146
+      },
+      {
+        "chunk_id": "84522eb0-680b-48e7-8478-407aaed68501",
+        "document_id": "b7d16558-0cba-48d7-a002-d6c5c2376dbf",
+        "section": "course_outcomes",
+        "subject": "Fundamentals of Natural Language Processing",
+        "course_code": "CS3233",
+        "similarity": 0.719223029798739,
+        "intent_score": 0.719223029798739
+      },
+      {
+        "chunk_id": "194af17a-1e36-4869-b932-cfb0f020a7ea",
+        "document_id": "b7d16558-0cba-48d7-a002-d6c5c2376dbf",
+        "section": "references",
+        "subject": "Fundamentals of Natural Language Processing",
+        "course_code": "CS3233",
+        "similarity": 0.656780283834905,
+        "intent_score": 0.656780283834905
+      },
+      {
+        "chunk_id": "65743c60-edb8-4164-b1ea-9a668989bc1f",
+        "document_id": "b7d16558-0cba-48d7-a002-d6c5c2376dbf",
+        "section": "course_metadata",
+        "subject": "Fundamentals of Natural Language Processing",
+        "course_code": "CS3233",
+        "similarity": 0.6475859914566305,
+        "intent_score": 0.6475859914566305
+      },
+      {
+        "chunk_id": "2c5adbf8-6dee-4dde-81c1-b0ce7d281845",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "course_outcomes",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.6191793169058601,
+        "intent_score": 0.6191793169058601
+      }
+    ]
+  },
+  {
+    "id": "nlp_002",
+    "subject": "Fundamentals of Natural Language Processing",
+    "query": "Explain text preprocessing in NLP.",
+    "expected_subject": "Fundamentals of Natural Language Processing",
+    "top1_subject": "Fundamentals of Natural Language Processing",
+    "top3_subjects": [
+      "Fundamentals of Natural Language Processing",
+      "Fundamentals of Natural Language Processing",
+      "Fundamentals of Natural Language Processing"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "84522eb0-680b-48e7-8478-407aaed68501",
+        "document_id": "b7d16558-0cba-48d7-a002-d6c5c2376dbf",
+        "section": "course_outcomes",
+        "subject": "Fundamentals of Natural Language Processing",
+        "course_code": "CS3233",
+        "similarity": 0.7875169768909299,
+        "intent_score": 0.7875169768909299
+      },
+      {
+        "chunk_id": "f1d39ca3-129a-4659-8923-b76973f7db75",
+        "document_id": "b7d16558-0cba-48d7-a002-d6c5c2376dbf",
+        "section": "course_metadata",
+        "subject": "Fundamentals of Natural Language Processing",
+        "course_code": "CS3233",
+        "similarity": 0.732105553150177,
+        "intent_score": 0.732105553150177
+      },
+      {
+        "chunk_id": "65743c60-edb8-4164-b1ea-9a668989bc1f",
+        "document_id": "b7d16558-0cba-48d7-a002-d6c5c2376dbf",
+        "section": "course_metadata",
+        "subject": "Fundamentals of Natural Language Processing",
+        "course_code": "CS3233",
+        "similarity": 0.698278504712672,
+        "intent_score": 0.698278504712672
+      },
+      {
+        "chunk_id": "6629f6c8-cacd-4c08-92e3-6e78401e5ee6",
+        "document_id": "b7d16558-0cba-48d7-a002-d6c5c2376dbf",
+        "section": "references",
+        "subject": "Fundamentals of Natural Language Processing",
+        "course_code": "CS3233",
+        "similarity": 0.6663031776637789,
+        "intent_score": 0.6663031776637789
+      },
+      {
+        "chunk_id": "194af17a-1e36-4869-b932-cfb0f020a7ea",
+        "document_id": "b7d16558-0cba-48d7-a002-d6c5c2376dbf",
+        "section": "references",
+        "subject": "Fundamentals of Natural Language Processing",
+        "course_code": "CS3233",
+        "similarity": 0.6535311937332153,
+        "intent_score": 0.6535311937332153
+      }
+    ]
+  },
+  {
+    "id": "cross_001",
+    "query": "What is a tree?",
+    "expected_subject": "Data Structures Using C",
+    "top1_subject": "Data Structures using C",
+    "top3_subjects": [
+      "Data Structures using C",
+      "Data Structures Using C",
+      "Data Structures Using C"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "e51b84f8-bb17-49c6-bce0-79158be8db28",
+        "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c",
+        "section": "lesson_plan",
+        "subject": "Data Structures using C",
+        "course_code": "CS1083",
+        "similarity": 0.6590527702507102,
+        "intent_score": 0.6590527702507102
+      },
+      {
+        "chunk_id": "32145579-8751-445e-9997-05694cb75922",
+        "document_id": "05b3e982-2ad9-4107-8f57-6a2978fcfc5d",
+        "section": "lesson_plan",
+        "subject": "Data Structures Using C",
+        "course_code": "CS1083",
+        "similarity": 0.6590527702507102,
+        "intent_score": 0.6590527702507102
+      },
+      {
+        "chunk_id": "2c49787e-a85c-476f-aabd-49566580a058",
+        "document_id": "05b3e982-2ad9-4107-8f57-6a2978fcfc5d",
+        "section": "lab_programs",
+        "subject": "Data Structures Using C",
+        "course_code": "CS1083",
+        "similarity": 0.6021564839985178,
+        "intent_score": 0.6021564839985178
+      },
+      {
+        "chunk_id": "ff02f24c-8047-40cf-8179-478903fd4e88",
+        "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c",
+        "section": "lab_programs",
+        "subject": "Data Structures using C",
+        "course_code": "CS1083",
+        "similarity": 0.6021564839985178,
+        "intent_score": 0.6021564839985178
+      },
+      {
+        "chunk_id": "df51c7da-aa90-4ba3-a5bc-6a267b2d271d",
+        "document_id": "1b94443b-523b-4aea-9e87-1a03ef9e233c",
+        "section": "lesson_plan",
+        "subject": "Data Structures using C",
+        "course_code": "CS1083",
+        "similarity": 0.5801357531385757,
+        "intent_score": 0.5801357531385757
+      }
+    ]
+  },
+  {
+    "id": "cross_002",
+    "query": "What is classification?",
+    "expected_subject": "Machine Learning for Data science",
+    "top1_subject": "Deep Learning",
+    "top3_subjects": [
+      "Deep Learning",
+      "Deep Learning",
+      "Fundamentals of Natural Language Processing"
+    ],
+    "top1_correct": false,
+    "top3_correct": false,
+    "retrieval": [
+      {
+        "chunk_id": "37883b11-6284-4989-9a55-27914c547a57",
+        "document_id": "c4262110-956c-4087-8922-23e0842ea98d",
+        "section": "syllabus",
+        "subject": "Deep Learning",
+        "course_code": "CS2228",
+        "similarity": 0.639367063026639,
+        "intent_score": 0.639367063026639
+      },
+      {
+        "chunk_id": "151c3328-5847-4d4c-aaba-ba307f41f81a",
+        "document_id": "c4262110-956c-4087-8922-23e0842ea98d",
+        "section": "co_po_mapping",
+        "subject": "Deep Learning",
+        "course_code": "CS2228",
+        "similarity": 0.6324080636379725,
+        "intent_score": 0.6324080636379725
+      },
+      {
+        "chunk_id": "f1d39ca3-129a-4659-8923-b76973f7db75",
+        "document_id": "b7d16558-0cba-48d7-a002-d6c5c2376dbf",
+        "section": "course_metadata",
+        "subject": "Fundamentals of Natural Language Processing",
+        "course_code": "CS3233",
+        "similarity": 0.6205585783886488,
+        "intent_score": 0.6205585783886488
+      },
+      {
+        "chunk_id": "3c9815ea-8130-437e-b4a2-bc913c001e94",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "syllabus",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.6189222108675367,
+        "intent_score": 0.6189222108675367
+      },
+      {
+        "chunk_id": "8e667c0e-c34c-49d0-8253-e9f487436bb7",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "course_metadata",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.6137715395161075,
+        "intent_score": 0.6137715395161075
+      }
+    ]
+  },
+  {
+    "id": "cross_003",
+    "query": "What is a network?",
+    "expected_subject": "Computer Networks",
+    "top1_subject": "Computer Networks",
+    "top3_subjects": [
+      "Computer Networks",
+      "Computer Networks",
+      "Computer Networks"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "d8a12a95-79e4-4095-9690-5a1f66f17045",
+        "document_id": "b24c4989-ecb8-4f5e-b87a-7686b578797b",
+        "section": "course_metadata",
+        "subject": "Computer Networks",
+        "course_code": "CS2403",
+        "similarity": 0.6449409550498778,
+        "intent_score": 0.6449409550498778
+      },
+      {
+        "chunk_id": "3d91bf17-da01-4829-8d4d-07868d135c81",
+        "document_id": "b24c4989-ecb8-4f5e-b87a-7686b578797b",
+        "section": "references",
+        "subject": "Computer Networks",
+        "course_code": "CS2403",
+        "similarity": 0.6408456181975842,
+        "intent_score": 0.6408456181975842
+      },
+      {
+        "chunk_id": "09ecc47e-d2e7-403b-b088-5fe1b2b52995",
+        "document_id": "b24c4989-ecb8-4f5e-b87a-7686b578797b",
+        "section": "syllabus",
+        "subject": "Computer Networks",
+        "course_code": "CS2403",
+        "similarity": 0.5995092809346556,
+        "intent_score": 0.5995092809346556
+      },
+      {
+        "chunk_id": "d4b125ac-8261-4983-8c01-f7bc42257340",
+        "document_id": "b24c4989-ecb8-4f5e-b87a-7686b578797b",
+        "section": "syllabus",
+        "subject": "Computer Networks",
+        "course_code": "CS2403",
+        "similarity": 0.5949985513093689,
+        "intent_score": 0.5949985513093689
+      },
+      {
+        "chunk_id": "60ba66ff-ef79-4e8f-99ac-fca99cec0243",
+        "document_id": "1277ca27-fe32-45f1-aec4-a02ab73c682c",
+        "section": "course_outcomes",
+        "subject": "Operating Systems",
+        "course_code": "CS1103",
+        "similarity": 0.5863544591454004,
+        "intent_score": 0.5863544591454004
+      }
+    ]
+  },
+  {
+    "id": "cross_004",
+    "query": "What is a matrix?",
+    "expected_subject": "Linear Algebra",
+    "top1_subject": "Linear Algebra",
+    "top3_subjects": [
+      "Linear Algebra",
+      "Linear Algebra",
+      "Linear Algebra"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "4d684b3f-70ce-4db1-8c0d-86ade9c937e6",
+        "document_id": "82781a25-e86d-48f3-bb83-18c06708768d",
+        "section": "syllabus",
+        "subject": "Linear Algebra",
+        "course_code": "CS1807",
+        "similarity": 0.6621855110679838,
+        "intent_score": 0.6621855110679838
+      },
+      {
+        "chunk_id": "a0a9faca-46c8-4745-8ad3-073df98ef836",
+        "document_id": "82781a25-e86d-48f3-bb83-18c06708768d",
+        "section": "course_outcomes",
+        "subject": "Linear Algebra",
+        "course_code": "CS1807",
+        "similarity": 0.6553181820728609,
+        "intent_score": 0.6553181820728609
+      },
+      {
+        "chunk_id": "65d47674-bc85-425a-999d-01e17ce678e2",
+        "document_id": "82781a25-e86d-48f3-bb83-18c06708768d",
+        "section": "course_metadata",
+        "subject": "Linear Algebra",
+        "course_code": "CS1807",
+        "similarity": 0.6400533342313837,
+        "intent_score": 0.6400533342313837
+      },
+      {
+        "chunk_id": "96f54ddd-ae91-409f-876f-0594441c6091",
+        "document_id": "70791610-1fa5-4b58-947b-4dad56e00a54",
+        "section": "syllabus",
+        "subject": "Python",
+        "course_code": "CS1280",
+        "similarity": 0.6392854286092055,
+        "intent_score": 0.6392854286092055
+      },
+      {
+        "chunk_id": "0e85e005-3ada-4089-8921-4e5a3353e081",
+        "document_id": "82781a25-e86d-48f3-bb83-18c06708768d",
+        "section": "references",
+        "subject": "Linear Algebra",
+        "course_code": "CS1807",
+        "similarity": 0.62993890703817,
+        "intent_score": 0.62993890703817
+      }
+    ]
+  },
+  {
+    "id": "cross_005",
+    "query": "What is a model?",
+    "expected_subject": "Machine Learning for Data science",
+    "top1_subject": "Machine Learning for Data science",
+    "top3_subjects": [
+      "Machine Learning for Data science",
+      "Deep Learning",
+      "Deep Learning"
+    ],
+    "top1_correct": true,
+    "top3_correct": true,
+    "retrieval": [
+      {
+        "chunk_id": "e188e15a-cf3d-4049-b7c5-3d4d78f60a7b",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "references",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.6262391059113659,
+        "intent_score": 0.6262391059113659
+      },
+      {
+        "chunk_id": "2740b5be-dabe-4c51-9e80-7bc7f343fdac",
+        "document_id": "c4262110-956c-4087-8922-23e0842ea98d",
+        "section": "references",
+        "subject": "Deep Learning",
+        "course_code": "CS2228",
+        "similarity": 0.6191839206705152,
+        "intent_score": 0.6191839206705152
+      },
+      {
+        "chunk_id": "9162f2c9-f6b1-49bf-bd29-a6c90e827072",
+        "document_id": "c4262110-956c-4087-8922-23e0842ea98d",
+        "section": "co_po_mapping",
+        "subject": "Deep Learning",
+        "course_code": "CS2228",
+        "similarity": 0.5966373682022095,
+        "intent_score": 0.5966373682022095
+      },
+      {
+        "chunk_id": "2c5adbf8-6dee-4dde-81c1-b0ce7d281845",
+        "document_id": "abeff698-7311-4154-838d-4dc4a67def30",
+        "section": "course_outcomes",
+        "subject": "Machine Learning for Data science",
+        "course_code": "CS2226",
+        "similarity": 0.5949344280401224,
+        "intent_score": 0.5949344280401224
+      },
+      {
+        "chunk_id": "58cb0379-8924-436a-9fbe-f52f78e0b73e",
+        "document_id": "c4262110-956c-4087-8922-23e0842ea98d",
+        "section": "references",
+        "subject": "Deep Learning",
+        "course_code": "CS2228",
+        "similarity": 0.590637648663662,
+        "intent_score": 0.590637648663662
+      }
+    ]
+  }
+]

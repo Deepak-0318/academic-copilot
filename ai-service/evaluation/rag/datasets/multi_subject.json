@@ -1,0 +1,147 @@
+[
+  {
+    "id": "ds_001",
+    "subject": "Data Structures Using C",
+    "query": "What are the different types of linked lists?",
+    "expected_subject": "Data Structures Using C"
+  },
+  {
+    "id": "ds_002",
+    "subject": "Data Structures Using C",
+    "query": "Explain binary search trees.",
+    "expected_subject": "Data Structures Using C"
+  },
+  {
+    "id": "os_001",
+    "subject": "Operating Systems",
+    "query": "What is process scheduling?",
+    "expected_subject": "Operating Systems"
+  },
+  {
+    "id": "os_002",
+    "subject": "Operating Systems",
+    "query": "Explain virtual memory.",
+    "expected_subject": "Operating Systems"
+  },
+  {
+    "id": "dbms_001",
+    "subject": "Database Management Systems",
+    "query": "What is normalization in DBMS?",
+    "expected_subject": "Database Management Systems"
+  },
+  {
+    "id": "dbms_002",
+    "subject": "Database Management Systems",
+    "query": "Explain primary key and foreign key.",
+    "expected_subject": "Database Management Systems"
+  },
+  {
+    "id": "net_001",
+    "subject": "Computer Networks",
+    "query": "What is the difference between TCP and UDP?",
+    "expected_subject": "Computer Networks"
+  },
+  {
+    "id": "net_002",
+    "subject": "Computer Networks",
+    "query": "Explain the OSI model.",
+    "expected_subject": "Computer Networks"
+  },
+  {
+    "id": "la_001",
+    "subject": "Linear Algebra",
+    "query": "What is a matrix?",
+    "expected_subject": "Linear Algebra"
+  },
+  {
+    "id": "la_002",
+    "subject": "Linear Algebra",
+    "query": "Explain eigenvalues and eigenvectors.",
+    "expected_subject": "Linear Algebra"
+  },
+  {
+    "id": "c_001",
+    "subject": "Programming in C",
+    "query": "What are pointers in C?",
+    "expected_subject": "Programming in C"
+  },
+  {
+    "id": "c_002",
+    "subject": "Programming in C",
+    "query": "Explain functions in C.",
+    "expected_subject": "Programming in C"
+  },
+  {
+    "id": "python_001",
+    "subject": "Python",
+    "query": "What are Python lists and tuples?",
+    "expected_subject": "Python"
+  },
+  {
+    "id": "python_002",
+    "subject": "Python",
+    "query": "Explain data analysis using Python.",
+    "expected_subject": "Python"
+  },
+  {
+    "id": "ml_001",
+    "subject": "Machine Learning for Data science",
+    "query": "What is supervised learning?",
+    "expected_subject": "Machine Learning for Data science"
+  },
+  {
+    "id": "ml_002",
+    "subject": "Machine Learning for Data science",
+    "query": "Explain classification algorithms.",
+    "expected_subject": "Machine Learning for Data science"
+  },
+  {
+    "id": "dl_001",
+    "subject": "Deep Learning",
+    "query": "What is a neural network?",
+    "expected_subject": "Deep Learning"
+  },
+  {
+    "id": "dl_002",
+    "subject": "Deep Learning",
+    "query": "Explain convolutional neural networks.",
+    "expected_subject": "Deep Learning"
+  },
+  {
+    "id": "nlp_001",
+    "subject": "Fundamentals of Natural Language Processing",
+    "query": "What is natural language processing?",
+    "expected_subject": "Fundamentals of Natural Language Processing"
+  },
+  {
+    "id": "nlp_002",
+    "subject": "Fundamentals of Natural Language Processing",
+    "query": "Explain text preprocessing in NLP.",
+    "expected_subject": "Fundamentals of Natural Language Processing"
+  },
+  {
+    "id": "cross_001",
+    "query": "What is a tree?",
+    "expected_subject": "Data Structures Using C"
+  },
+  {
+    "id": "cross_002",
+    "query": "What is classification?",
+    "expected_subject": "Machine Learning for Data science"
+  },
+  {
+    "id": "cross_003",
+    "query": "What is a network?",
+    "expected_subject": "Computer Networks"
+  },
+  {
+    "id": "cross_004",
+    "query": "What is a matrix?",
+    "expected_subject": "Linear Algebra"
+  },
+  {
+    "id": "cross_005",
+    "query": "What is a model?",
+    "expected_subject": "Machine Learning for Data science"
+  }
+]

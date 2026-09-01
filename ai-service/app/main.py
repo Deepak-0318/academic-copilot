@@ -2,7 +2,9 @@ from fastapi import FastAPI
 
 from app.api.planner import router as planner_router
 from app.api.rag import router as rag_router
+from app.logging_config import configure_logging
 
+configure_logging()
 
 app = FastAPI(
     title="Academic Co-Pilot AI Service",

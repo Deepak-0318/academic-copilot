@@ -5,7 +5,7 @@ from datetime import datetime
 from typing import Any
 
 from pgvector.sqlalchemy import Vector
-from sqlalchemy import DateTime, ForeignKey, Integer, String, Text, func
+from sqlalchemy import ( DateTime, ForeignKey, Integer, String, Text, UniqueConstraint, func,)
 from sqlalchemy.dialects.postgresql import JSONB, UUID
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
 
@@ -46,6 +46,13 @@ class Document(Base):
     file_path: Mapped[str | None] = mapped_column(
         Text,
         nullable=True,
+    )
+    
+    content_hash: Mapped[str] = mapped_column(
+        String(64),
+        nullable=False,
+        unique=True,
+        index=True,
     )
 
     university: Mapped[str | None] = mapped_column(
